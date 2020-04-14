@@ -98,7 +98,7 @@
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/buttons/quit.png",
             "posX" : -48,
-            "posY" : -265,
+            "posY" : -245,
             "width" : 48,
             "height" : 48,
 			"imageWidth" : 128,
