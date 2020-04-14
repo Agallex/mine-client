@@ -5,36 +5,9 @@
         {
             "image" : "mainmenu:textures/buttons/logo.png",
             "posX" : 40,
-            "posY" : 40,
+            "posY" : 30,
             "width" : 125,
             "height" : 97,
-            "alignment" : "top_left"
-        },
-                "black_play":
-        {
-            "image" : "mainmenu:textures/buttons/bg_hex2.png",
-            "posX" : 107,
-            "posY" : 148,
-            "width" : 56,
-            "height" : 68,
-            "alignment" : "top_left"
-        },
-		"black_buy":
-        {
-            "image" : "mainmenu:textures/buttons/bg_hex2.png",
-            "posX" : 145,
-            "posY" : 178,
-            "width" : 56,
-            "height" : 68,
-            "alignment" : "top_left"
-        },
-		"black_option":
-        {
-            "image" : "mainmenu:textures/buttons/bg_hex2.png",
-            "posX" : 69,
-            "posY" : 178,
-            "width" : 56,
-            "height" : 68,
             "alignment" : "top_left"
         }
     },
@@ -48,7 +21,7 @@
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/buttons/single.png",
             "posX" : 70,
-            "posY" : 150,
+            "posY" : 140,
             "width" : 69,
             "height" : 69,
 			"imageWidth" : 128,
@@ -66,8 +39,8 @@
 			"normalTextColor" : 12303291,
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/buttons/mods.png",
-            "posX" : 69,
-            "posY" : 73,
+            "posX" : 100,
+            "posY" : 70,
             "width" : 64,
             "height" : 64,
 			"imageWidth" : 128,
@@ -85,13 +58,13 @@
 			"normalTextColor" : 12303291,
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/buttons/multi.png",
-            "posX" : 477,
-            "posY" : 262,
+            "posX" : -40,
+            "posY" : -40,
             "width" : 32,
             "height" : 32,
 			"imageWidth" : 128,
 			"imageHeight" : 128,
-			"alignment" : "left_top",
+			"alignment" : "bottom_right",
             "action" : 
             {
                 "type" : "openGui",
@@ -106,7 +79,7 @@
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/buttons/settings.png",
             "posX" : 40,
-            "posY" : 200,
+            "posY" : 190,
             "width" : 69,
             "height" : 69,
 			"imageWidth" : 128,
@@ -125,7 +98,7 @@
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/buttons/quit.png",
             "posX" : -48,
-            "posY" : -295,
+            "posY" : -265,
             "width" : 48,
             "height" : 48,
 			"imageWidth" : 128,
@@ -143,7 +116,7 @@
 			"hoverTextColor" : 3125670,
 			"texture" : "mainmenu:textures/buttons/buy.png",
             "posX" : 108,
-            "posY" : 207,
+            "posY" : 197,
             "width" : 54,
             "height" : 54,
 			"imageWidth" : 128,
