@@ -5059,3 +5059,737 @@ C:\Program Files\Java\jre1.8.0_45\bin\javaw.exe -Djava.net.preferIPv4Stack=true 
 2020-04-14 18:14:40,692 AWT-EventQueue-0 [TLauncherManager] before clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar
 2020-04-14 18:14:40,703 AWT-EventQueue-0 [TLauncherManager] written:  []
 2020-04-14 18:14:40,704 AWT-EventQueue-0 [TLauncherManager] after clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar
+2020-04-14 21:34:07,598 main [Loading] INITIALIZING
+Starting TLauncher 2.69 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 14.04.2020 21:34:07
+---
+run double running protectin
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\asash\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Machine info: -------------------------------------------------------
+Windows 8.1 6.3, Java 1.8.0_45, jvm bit x64, 16276 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_45\bin\javaw.exe
+Intel(R) Core(TM) i9-9880H CPU @ 2.30GHz
+ AMD Radeon Pro 5500M, AMD FirePro (0x7340), 12194 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2020-04-14 21:34:07,599 main [Downloader2] Loaded configuration: good
+2020-04-14 21:34:07,732 ExtendedThread#4 [Updater] Requesting an update...
+2020-04-14 21:34:07,734 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-04-14 21:34:07,734 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.69&client=440be4d8-8fc3-48cd-8ffe-e7eb2df08ff3
+2020-04-14 21:34:07,786 ExtendedThread#4 [Updater] Request time: 52 ms
+2020-04-14 21:34:07,786 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-04-14 21:34:07,846 main [Browser] Loading resources...
+2020-04-14 21:34:07,940 main [Browser] Loading background...
+2020-04-14 21:34:07,947 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2020-04-14 21:34:07,999 main [Browser] Cleaning up after loading:
+2020-04-14 21:34:07,999 main Starting garbage collector: 72 / 194 MB
+2020-04-14 21:34:08,042 main Garbage collector completed: 14 / 194 MB
+2020-04-14 21:34:08,043 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2020-04-14 21:34:08,043 JavaFX Application Thread [Browser] Preparing JavaFX...
+2020-04-14 21:34:08,044 main [Loading] LOADING_MANAGERS
+2020-04-14 21:34:08,050 main [LocalVersionList] Base directory: C:\Users\asash\AppData\Roaming\.minecraft
+2020-04-14 21:34:08,059 main [ProfileManager] Refreshing profiles from: C:\Users\asash\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2020-04-14 21:34:08,062 main [AdvertisingStatusObserver]  started to get ad information
+2020-04-14 21:34:08,063 main [AdvertisingStatusObserver]  finished to get add information
+2020-04-14 21:34:08,063 ExtendedThread#6 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+2020-04-14 21:34:08,068 main [Loading] LOADING_WINDOW
+2020-04-14 21:34:08,099 main [Loading] PREPARING_MAINPANE
+2020-04-14 21:34:08,123 JavaFX Application Thread [Browser] Initializing...
+2020-04-14 21:34:08,154 ExtendedThread#7 [REPO][SERVER_LIST_REPO] Success: Reached the repo in 86 ms.
+2020-04-14 21:34:08,549 main [Downloader2] Loaded configuration: good
+2020-04-14 21:34:08,588 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2020-04-14 21:34:08,589 JavaFX Application Thread [Browser@1363220267] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2020-04-14 21:34:08,648 JavaFX Application Thread [Browser] add listens into server_choose
+2020-04-14 21:34:08,649 JavaFX Application Thread [Browser] finished listens into server_choose
+2020-04-14 21:34:09,469 main [Loading] POSTINIT_GUI
+2020-04-14 21:34:09,469 main [Frame] Packing main frame...
+2020-04-14 21:34:09,517 main [Frame] Resizing main pane...
+2020-04-14 21:34:09,518 main Updater is already closed. Showing up...
+2020-04-14 21:34:09,518 main Visibility set.
+2020-04-14 21:34:09,519 main [Loading] REFRESHING_INFO
+2020-04-14 21:34:09,521 ExtendedThread#6 [VersionManager] Refreshing versions remotely...
+2020-04-14 21:34:09,521 ExtendedThread#4 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-04-14 21:34:09,522 main Started! (2399 ms.)
+2020-04-14 21:34:09,522 main [Loading] SUCCESS
+2020-04-14 21:34:09,563 main [TLauncher] show tlauncher!!!
+2020-04-14 21:34:09,563 main [Double running] clear time label
+2020-04-14 21:34:09,576 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-04-14 21:34:09,576 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+2020-04-14 21:34:09,577 AsyncObject#15 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+2020-04-14 21:34:09,591 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 15 ms.
+2020-04-14 21:34:09,603 AsyncObject#15 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 26 ms.
+2020-04-14 21:34:09,609 AsyncObject#15 [SkinVersionList] Got in 33 ms
+2020-04-14 21:34:09,612 AsyncObject#14 [ExtraVersionList] Got in 36 ms
+2020-04-14 21:34:09,670 ExtendedThread#4 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 148 ms.
+2020-04-14 21:34:10,812 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 1235 ms.
+2020-04-14 21:34:10,844 AsyncObject#13 [OfficialVersionList] Got in 1268 ms
+2020-04-14 21:34:10,846 ExtendedThread#6 [VersionManager] Versions has been refreshed (1290 ms)
+2020-04-14 21:34:10,848 ExtendedThread#6 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-14 21:34:10,848 ExtendedThread#6 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-14 21:34:10,849 ExtendedThread#6 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-14 21:34:10,850 ExtendedThread#6 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-14 21:34:10,887 ExtendedThread#6 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-14 21:34:10,888 ExtendedThread#6 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-14 21:34:10,889 ExtendedThread#6 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-14 21:34:10,890 ExtendedThread#6 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-14 21:34:10,893 ExtendedThread#6 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-14 21:34:10,894 ExtendedThread#6 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-14 21:34:10,895 ExtendedThread#6 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-14 21:34:10,895 ExtendedThread#6 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-14 21:34:10,897 ExtendedThread#7 [REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+2020-04-14 21:34:10,899 ExtendedThread#16 [REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+2020-04-14 21:34:10,908 Thread-24 run server on  42951
+2020-04-14 21:34:10,927 ExtendedThread#7 [REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 28 ms.
+2020-04-14 21:34:11,263 ExtendedThread#16 [REPO][HOT_SERVERS_REPO] Success: Reached the repo in 363 ms.
+2020-04-14 21:34:11,895 AWT-EventQueue-0 Good bye!
+2020-04-14 21:34:11,897 AWT-EventQueue-0 [TLauncherManager] before clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar
+2020-04-14 21:34:11,906 AWT-EventQueue-0 [TLauncherManager] written:  []
+2020-04-14 21:34:11,907 AWT-EventQueue-0 [TLauncherManager] after clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar
+2020-04-14 21:36:15,946 main [Loading] INITIALIZING
+Starting TLauncher 2.69 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 14.04.2020 21:36:15
+---
+run double running protectin
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\asash\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Machine info: -------------------------------------------------------
+Windows 8.1 6.3, Java 1.8.0_45, jvm bit x64, 16276 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_45\bin\javaw.exe
+Intel(R) Core(TM) i9-9880H CPU @ 2.30GHz
+ AMD Radeon Pro 5500M, AMD FirePro (0x7340), 12194 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2020-04-14 21:36:15,946 main [Downloader2] Loaded configuration: good
+2020-04-14 21:36:16,064 ExtendedThread#4 [Updater] Requesting an update...
+2020-04-14 21:36:16,066 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-04-14 21:36:16,066 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.69&client=440be4d8-8fc3-48cd-8ffe-e7eb2df08ff3
+2020-04-14 21:36:16,109 ExtendedThread#4 [Updater] Request time: 43 ms
+2020-04-14 21:36:16,109 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-04-14 21:36:16,173 main [Browser] Loading resources...
+2020-04-14 21:36:16,273 main [Browser] Loading background...
+2020-04-14 21:36:16,282 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2020-04-14 21:36:16,338 main [Browser] Cleaning up after loading:
+2020-04-14 21:36:16,338 main Starting garbage collector: 77 / 196 MB
+2020-04-14 21:36:16,386 main Garbage collector completed: 14 / 196 MB
+2020-04-14 21:36:16,387 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2020-04-14 21:36:16,388 JavaFX Application Thread [Browser] Preparing JavaFX...
+2020-04-14 21:36:16,388 main [Loading] LOADING_MANAGERS
+2020-04-14 21:36:16,395 main [LocalVersionList] Base directory: C:\Users\asash\AppData\Roaming\.minecraft
+2020-04-14 21:36:16,409 main [ProfileManager] Refreshing profiles from: C:\Users\asash\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2020-04-14 21:36:16,413 main [AdvertisingStatusObserver]  started to get ad information
+2020-04-14 21:36:16,414 main [AdvertisingStatusObserver]  finished to get add information
+2020-04-14 21:36:16,415 ExtendedThread#6 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+2020-04-14 21:36:16,418 main [Loading] LOADING_WINDOW
+2020-04-14 21:36:16,448 main [Loading] PREPARING_MAINPANE
+2020-04-14 21:36:16,464 JavaFX Application Thread [Browser] Initializing...
+2020-04-14 21:36:16,488 ExtendedThread#7 [REPO][SERVER_LIST_REPO] Success: Reached the repo in 69 ms.
+2020-04-14 21:36:16,857 main [Downloader2] Loaded configuration: good
+2020-04-14 21:36:16,925 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2020-04-14 21:36:16,926 JavaFX Application Thread [Browser@56711135] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2020-04-14 21:36:16,999 JavaFX Application Thread [Browser] add listens into server_choose
+2020-04-14 21:36:17,006 JavaFX Application Thread [Browser] finished listens into server_choose
+2020-04-14 21:36:17,760 main [Loading] POSTINIT_GUI
+2020-04-14 21:36:17,760 main [Frame] Packing main frame...
+2020-04-14 21:36:17,807 main [Frame] Resizing main pane...
+2020-04-14 21:36:17,808 main Updater is already closed. Showing up...
+2020-04-14 21:36:17,808 main Visibility set.
+2020-04-14 21:36:17,809 main [Loading] REFRESHING_INFO
+2020-04-14 21:36:17,810 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2020-04-14 21:36:17,810 ExtendedThread#6 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-04-14 21:36:17,810 main Started! (2367 ms.)
+2020-04-14 21:36:17,811 main [Loading] SUCCESS
+2020-04-14 21:36:17,829 main [TLauncher] show tlauncher!!!
+2020-04-14 21:36:17,829 main [Double running] clear time label
+2020-04-14 21:36:17,919 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+2020-04-14 21:36:17,919 AsyncObject#15 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+2020-04-14 21:36:17,922 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-04-14 21:36:17,934 AsyncObject#15 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 12 ms.
+2020-04-14 21:36:17,943 AsyncObject#15 [SkinVersionList] Got in 24 ms
+2020-04-14 21:36:17,948 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 25 ms.
+2020-04-14 21:36:17,962 AsyncObject#14 [ExtraVersionList] Got in 43 ms
+2020-04-14 21:36:18,142 ExtendedThread#6 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 332 ms.
+2020-04-14 21:36:18,157 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 238 ms.
+2020-04-14 21:36:18,204 AsyncObject#13 [OfficialVersionList] Got in 285 ms
+2020-04-14 21:36:18,206 ExtendedThread#4 [VersionManager] Versions has been refreshed (306 ms)
+2020-04-14 21:36:18,230 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-14 21:36:18,231 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-14 21:36:18,232 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-14 21:36:18,233 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-14 21:36:18,304 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-14 21:36:18,305 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-14 21:36:18,306 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-14 21:36:18,307 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-14 21:36:18,311 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-14 21:36:18,313 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-14 21:36:18,314 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-14 21:36:18,315 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-14 21:36:18,316 ExtendedThread#6 [REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+2020-04-14 21:36:18,318 ExtendedThread#16 [REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+2020-04-14 21:36:18,326 Thread-25 run server on  37842
+2020-04-14 21:36:18,328 ExtendedThread#6 [REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 10 ms.
+2020-04-14 21:36:18,634 ExtendedThread#16 [REPO][HOT_SERVERS_REPO] Success: Reached the repo in 314 ms.
+2020-04-14 21:36:21,551 LoopedThread#8 [LoginForm] Login was OK. Trying to launch now.
+2020-04-14 21:36:21,841 LoopedThread#8 [Launcher] Running under TLauncher 2.69
+2020-04-14 21:36:21,843 LoopedThread#8 [Launcher] Collecting info...
+2020-04-14 21:36:21,862 LoopedThread#8 [TLauncherManager] before clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar
+2020-04-14 21:36:21,866 LoopedThread#8 [TLauncherManager] written:  []
+2020-04-14 21:36:21,867 LoopedThread#8 [TLauncherManager] after clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar
+2020-04-14 21:36:21,869 LoopedThread#8 [Launcher] Force update: false
+2020-04-14 21:36:21,870 LoopedThread#8 [Launcher] Selected version: Forge 1.12.2
+2020-04-14 21:36:21,870 LoopedThread#8 [Launcher] Selected account: Account{displayName=null, userid=null, uuid=null, username=Agalex}
+2020-04-14 21:36:21,872 LoopedThread#8 [Launcher] Version sync info: VersionSyncInfo{id='Forge 1.12.2',
+local=CompleteVersion{id='Forge 1.12.2', time=Mon Sep 18 05:40:48 MSK 2017, release=Mon Sep 18 11:39:46 MSK 2017, type=modified, class=net.minecraft.launchwrapper.Launch, minimumVersion=13, assets='1.12', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@6d7b6734, libraries=[Library{name='net.minecraftforge:forge:1.12.2-14.23.5.2847', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraft:launchwrapper:1.12', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-all:5.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='jline:jline:3.5.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.typesafe.akka:akka-actor_2.11:2.3.3', rules=null, natives=null, extract=null, packed='forge'}, Library{name='com.typesafe:config:1.2.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-actors-migration_2.11:1.1.0', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-compiler:2.11.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-library:2.11.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-parser-combinators_2.11:1.0.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-reflect:2.11.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-swing_2.11:1.0.1', rules=null, natives=null, extract=null, packed='forge'}, Library{name='org.scala-lang:scala-xml_2.11:1.0.2', rules=null, natives=null, extract=null, packed='forge'}, Library{name='lzma:lzma:0.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='java3d:vecmath:1.5.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.trove4j:trove4j:3.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.maven:maven-artifact:3.5.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.9.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.10.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@75513312, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@6d640ab5, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@4e837638, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@d8d8a39, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@71b8e139, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='Forge 1.12.2', time=Mon Sep 18 05:40:48 MSK 2017, release=Mon Sep 18 05:40:48 MSK 2017, type=modified, source=EXTRA_VERSION_REPO, skinVersion=false, list=net.minecraft.launcher.updater.ExtraVersionList@6d7b6734}, isInstalled=true, hasRemote=true, isUpToDate=true}
+2020-04-14 21:36:21,944 LoopedThread#8 [Launcher] Java path: C:\Program Files\Java\jre1.8.0_45\bin\javaw.exe
+2020-04-14 21:36:21,946 LoopedThread#8 [Launcher] Checking conditions...
+2020-04-14 21:36:21,946 LoopedThread#8 [Launcher] shaderpacks:KUDA-Shaders v6.1 Legacy.zip,sflp-shaders-lite-rc1.zip
+2020-04-14 21:36:21,950 LoopedThread#8 [Launcher] Comparing assets...
+2020-04-14 21:36:21,950 LoopedThread#8 [AssetsManager] Checking resources...
+2020-04-14 21:36:21,951 LoopedThread#8 [AssetsManager] Reading indexes from file C:\Users\asash\AppData\Roaming\.minecraft\assets\indexes\1.12.json
+2020-04-14 21:36:21,961 LoopedThread#8 [AssetsManager] Fast comparing: true
+2020-04-14 21:36:22,016 LoopedThread#8 [Launcher] Delta time to compare assets: 65 ms.
+2020-04-14 21:36:22,017 LoopedThread#8 [TLauncherManager] add required libraries: Forge 1.12.2
+2020-04-14 21:36:22,216 LoopedThread#8 [VersionManager] Required for version Forge 1.12.2: []
+2020-04-14 21:36:22,217 LoopedThread#8 [Modpack]  got container
+2020-04-14 21:36:22,225 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:authlib:1.5.25
+2020-04-14 21:36:22,226 LoopedThread#8 [TLauncherManager] library will be replaced: com.mojang:patchy:1.1
+2020-04-14 21:36:22,233 LoopedThread#8 [Launcher] Unpacking natives...
+2020-04-14 21:36:22,234 LoopedThread#8 [Launcher] Constructing process...
+2020-04-14 21:36:22,235 LoopedThread#8 [Launcher] Constructing classpath...
+2020-04-14 21:36:22,240 LoopedThread#8 [Launcher] Getting Minecraft arguments...
+2020-04-14 21:36:22,242 LoopedThread#8 [Launcher] Full command (characters are not escaped):
+C:\Program Files\Java\jre1.8.0_45\bin\javaw.exe -Djava.net.preferIPv4Stack=true -Xmn128M -Xmx15076M -Djava.library.path=C:\Users\asash\AppData\Roaming\.minecraft\versions\Forge 1.12.2\natives -cp C:\Users\asash\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2847\forge-1.12.2-14.23.5.2847.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.2\asm-all-5.2.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\jline\jline\3.5.1\jline-3.5.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\1.1\patchy-1.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\1.6.25\authlib-1.6.25.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\asash\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\asash\AppData\Roaming\.minecraft\versions\Forge 1.12.2\Forge 1.12.2.jar -Dminecraft.applet.TargetDirectory=C:\Users\asash\AppData\Roaming\.minecraft -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true net.minecraft.launchwrapper.Launch --username Agalex --version Forge 1.12.2 --gameDir C:\Users\asash\AppData\Roaming\.minecraft --assetsDir C:\Users\asash\AppData\Roaming\.minecraft\assets --assetIndex 1.12 --uuid 00000000-0000-0000-0000-000000000000 --accessToken null --userProperties [] --userType legacy --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge --width 925 --height 530
+2020-04-14 21:36:22,301 LoopedThread#8 [Launcher] Launching Minecraft...
+2020-04-14 21:36:22,314 LoopedThread#8 I'm hiding!
+2020-04-14 21:36:22,324 LoopedThread#8 [TLauncherManager] mods after C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar
+2020-04-14 21:36:22,331 LoopedThread#8 [InnerMinecraftServersImpl]  search changers of the servers
+2020-04-14 21:36:22,337 LoopedThread#8 read servers from servers.dat []
+2020-04-14 21:36:22,339 LoopedThread#8 [InnerMinecraftServersImpl]  prepare inner servers
+2020-04-14 21:36:22,343 LoopedThread#8 save servers to servers.dat
+2020-04-14 21:36:22,346 LoopedThread#8 [Launcher] Starting Minecraft Forge 1.12.2...
+2020-04-14 21:36:22,347 LoopedThread#8 [Launcher] Launching in: C:\Users\asash\AppData\Roaming\.minecraft
+2020-04-14 21:36:22,347 LoopedThread#8 Starting garbage collector: 98 / 267 MB
+2020-04-14 21:36:22,438 LoopedThread#8 Garbage collector completed: 34 / 268 MB
+2020-04-14 21:36:22,446 LoopedThread#8 [Launcher] Processing post-launch actions. Assist launch: true
+2020-04-14 21:36:22,926 Thread-26 ===============================================================================================
+2020-04-14 21:36:22,929 Thread-26 > 2020-04-14 21:36:22,925 main ERROR Error processing element Queue ([Appenders: null]): CLASS_NOT_FOUND
+2020-04-14 21:36:23,008 Thread-26 > 2020-04-14 21:36:23,008 main ERROR Unable to locate appender "ServerGuiConsole" for logger config "root"
+2020-04-14 21:36:23,051 Thread-26 > [21:36:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-04-14 21:36:23,059 Thread-26 > [21:36:23] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-04-14 21:36:23,061 Thread-26 > [21:36:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+2020-04-14 21:36:23,072 Thread-26 > [21:36:23] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+2020-04-14 21:36:23,073 Thread-26 > [21:36:23] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_45, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_45
+2020-04-14 21:36:23,162 Thread-26 > [21:36:23] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+2020-04-14 21:36:23,165 Thread-26 > [21:36:23] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+2020-04-14 21:36:23,167 Thread-26 > [21:36:23] [main/INFO] [FML]: Searching C:\Users\asash\AppData\Roaming\.minecraft\mods for mods
+2020-04-14 21:36:23,173 Thread-26 > [21:36:23] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from optifine_1.12.2_hd_u_f5.jar
+2020-04-14 21:36:23,176 Thread-26 > [21:36:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in tlskincape_1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+2020-04-14 21:36:23,227 Thread-26 > [21:36:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-04-14 21:36:23,229 Thread-26 > [21:36:23] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+2020-04-14 21:36:23,230 Thread-26 > [21:36:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+2020-04-14 21:36:23,232 Thread-26 > [21:36:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-04-14 21:36:23,233 Thread-26 > [21:36:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+2020-04-14 21:36:23,235 Thread-26 > [21:36:23] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+2020-04-14 21:36:23,236 Thread-26 > [21:36:23] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+2020-04-14 21:36:23,238 Thread-26 > [21:36:23] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+2020-04-14 21:36:23,239 Thread-26 > [21:36:23] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+2020-04-14 21:36:23,240 Thread-26 > [21:36:23] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar
+2020-04-14 21:36:23,242 Thread-26 > [21:36:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-04-14 21:36:24,070 Thread-26 > 2020-04-14 21:36:24,070 main ERROR Error processing element Queue ([Appenders: null]): CLASS_NOT_FOUND
+2020-04-14 21:36:24,078 Thread-26 > 2020-04-14 21:36:24,077 main ERROR Unable to locate appender "ServerGuiConsole" for logger config "root"
+2020-04-14 21:36:24,713 Thread-26 > [21:36:24] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+2020-04-14 21:36:24,715 Thread-26 > [21:36:24] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+2020-04-14 21:36:24,716 Thread-26 > [21:36:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-04-14 21:36:24,717 Thread-26 > [21:36:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+2020-04-14 21:36:24,729 Thread-26 > [21:36:24] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+2020-04-14 21:36:24,731 Thread-26 > [21:36:24] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
+2020-04-14 21:36:24,752 Thread-26 > [21:36:24] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
+2020-04-14 21:36:24,756 Thread-26 > [21:36:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+2020-04-14 21:36:24,771 Thread-26 > [21:36:24] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+2020-04-14 21:36:24,813 Thread-26 > [21:36:24] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+2020-04-14 21:36:24,873 Thread-26 > [21:36:24] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 5 ms
+2020-04-14 21:36:24,970 Thread-26 > [21:36:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+2020-04-14 21:36:24,971 Thread-26 > [21:36:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+2020-04-14 21:36:24,973 Thread-26 > [21:36:24] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+2020-04-14 21:36:24,983 Thread-26 > [21:36:24] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+2020-04-14 21:36:25,189 Thread-26 > [21:36:25] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+2020-04-14 21:36:25,220 Thread-26 > [21:36:25] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
+2020-04-14 21:36:25,265 Thread-26 > [21:36:25] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+2020-04-14 21:36:25,268 Thread-26 > [21:36:25] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
+2020-04-14 21:36:25,272 Thread-26 > [21:36:25] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
+2020-04-14 21:36:25,276 Thread-26 > [21:36:25] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
+2020-04-14 21:36:25,576 Thread-26 > [21:36:25] [Client thread/INFO] [minecraft/Minecraft]: Setting user: Agalex
+2020-04-14 21:36:27,831 Thread-26 > [21:36:27] [Client thread/INFO] [Config]: [OptiFine] *** Reflector Forge ***
+2020-04-14 21:36:27,832 Thread-26 > [21:36:27] [Client thread/INFO] [Config]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+2020-04-14 21:36:28,232 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] *** Reflector Vanilla ***
+2020-04-14 21:36:28,342 Thread-26 > [21:36:28] [Client thread/INFO] [minecraft/Minecraft]: LWJGL Version: 2.9.4
+2020-04-14 21:36:28,593 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] 
+2020-04-14 21:36:28,595 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_F5
+2020-04-14 21:36:28,596 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] Build: 20191204-141934
+2020-04-14 21:36:28,604 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] OS: Windows 8.1 (amd64) version 6.3
+2020-04-14 21:36:28,606 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] Java: 1.8.0_45, Oracle Corporation
+2020-04-14 21:36:28,608 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+2020-04-14 21:36:28,611 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
+2020-04-14 21:36:28,612 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] OpenGL: AMD Radeon Pro 5500M, version 4.6.13571 Compatibility Profile Context FireGL 19.30.03.05 26.20.13003.5002, ATI Technologies Inc.
+2020-04-14 21:36:28,615 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] OpenGL Version: 4.6.13571
+2020-04-14 21:36:28,617 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+2020-04-14 21:36:28,655 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] Maximum texture size: 16384x16384
+2020-04-14 21:36:28,657 Thread-26 > [21:36:28] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
+2020-04-14 21:36:28,731 Thread-26 > [21:36:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.6.13571 Compatibility Profile Context FireGL 19.30.03.05 26.20.13003.5002
+2020-04-14 21:36:28,734 Thread-26 > [21:36:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  ATI Technologies Inc.
+2020-04-14 21:36:28,736 Thread-26 > [21:36:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: AMD Radeon Pro 5500M
+2020-04-14 21:36:28,738 Thread-26 > [21:36:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+2020-04-14 21:36:28,740 Thread-26 > [21:36:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+2020-04-14 21:36:28,741 Thread-26 > [21:36:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+2020-04-14 21:36:28,743 Thread-26 > [21:36:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+2020-04-14 21:36:28,745 Thread-26 > [21:36:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
+2020-04-14 21:36:28,747 Thread-26 > [21:36:28] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Loaded shaderpack: sflp-shaders-lite-rc1.zip
+2020-04-14 21:36:28,783 Thread-26 > [21:36:28] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: sunPathRotation
+2020-04-14 21:36:28,785 Thread-26 > [21:36:28] [Client thread/WARN] [Config]: [OptiFine]  - in composite.fsh: -25.0f
+2020-04-14 21:36:28,786 Thread-26 > [21:36:28] [Client thread/WARN] [Config]: [OptiFine]  - in final.fsh: -40.0f
+2020-04-14 21:36:28,791 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+2020-04-14 21:36:28,793 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+2020-04-14 21:36:28,796 Thread-26 > [21:36:28] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+2020-04-14 21:36:28,991 Thread-26 > [21:36:28] [Client thread/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_F5, enabling compatibility features
+2020-04-14 21:36:29,007 Thread-26 > [21:36:29] [Client thread/INFO] [FML]: -- System Details --
+2020-04-14 21:36:29,009 Thread-26 > Details:
+2020-04-14 21:36:29,009 Thread-26 > 	Minecraft Version: 1.12.2
+2020-04-14 21:36:29,009 Thread-26 > 	Operating System: Windows 8.1 (amd64) version 6.3
+2020-04-14 21:36:29,010 Thread-26 > 	Java Version: 1.8.0_45, Oracle Corporation
+2020-04-14 21:36:29,011 Thread-26 > 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+2020-04-14 21:36:29,012 Thread-26 > 	Memory: 130240376 bytes (124 MB) / 301989888 bytes (288 MB) up to 15837691904 bytes (15104 MB)
+2020-04-14 21:36:29,014 Thread-26 > 	JVM Flags: 8 total; -Xmn128M -Xmx15076M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+2020-04-14 21:36:29,016 Thread-26 > 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+2020-04-14 21:36:29,017 Thread-26 > 	FML: 
+2020-04-14 21:36:29,017 Thread-26 > 	Loaded coremods (and transformers): 
+2020-04-14 21:36:29,018 Thread-26 > TLSkinCapeHookLoader (tlskincape_1.12.2-1.4.jar)
+2020-04-14 21:36:29,018 Thread-26 >   gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+2020-04-14 21:36:29,019 Thread-26 > 	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.13571 Compatibility Profile Context FireGL 19.30.03.05 26.20.13003.5002' Renderer: 'AMD Radeon Pro 5500M'
+2020-04-14 21:36:29,046 Thread-26 > [21:36:29] [VersionCheck/INFO] [Config]: [OptiFine] Version found: D3
+2020-04-14 21:36:29,110 Thread-26 > [21:36:29] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+2020-04-14 21:36:29,120 Thread-26 > [21:36:29] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+2020-04-14 21:36:29,144 Thread-26 > [21:36:29] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+2020-04-14 21:36:29,170 Thread-26 > [21:36:29] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+2020-04-14 21:36:29,279 Thread-26 > [21:36:29] [Client thread/INFO] [FML]: Searching C:\Users\asash\AppData\Roaming\.minecraft\mods for mods
+2020-04-14 21:36:29,782 Thread-26 > [21:36:29] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+2020-04-14 21:36:29,901 Thread-26 > [21:36:29] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, custommainmenu, tlauncher_custom_cape_skin] at CLIENT
+2020-04-14 21:36:29,903 Thread-26 > [21:36:29] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, custommainmenu, tlauncher_custom_cape_skin] at SERVER
+2020-04-14 21:36:30,139 Thread-26 > [21:36:30] [Client thread/INFO] [minecraft/SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:TLSkinCape
+2020-04-14 21:36:30,180 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+2020-04-14 21:36:30,190 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Found 1169 ObjectHolder annotations
+2020-04-14 21:36:30,192 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+2020-04-14 21:36:30,192 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+2020-04-14 21:36:30,222 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+2020-04-14 21:36:30,224 Thread-26 > [21:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+2020-04-14 21:36:30,269 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Applying holder lookups
+2020-04-14 21:36:30,271 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Holder lookups applied
+2020-04-14 21:36:30,271 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Applying holder lookups
+2020-04-14 21:36:30,272 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Holder lookups applied
+2020-04-14 21:36:30,273 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Applying holder lookups
+2020-04-14 21:36:30,274 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Holder lookups applied
+2020-04-14 21:36:30,274 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Applying holder lookups
+2020-04-14 21:36:30,275 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Holder lookups applied
+2020-04-14 21:36:30,276 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Injecting itemstacks
+2020-04-14 21:36:30,277 Thread-26 > [21:36:30] [Client thread/INFO] [FML]: Itemstack injection complete
+2020-04-14 21:36:30,277 Thread-26 > [21:36:30] [Client thread/INFO] [Config]: [OptiFine] *** Reloading textures ***
+2020-04-14 21:36:30,278 Thread-26 > [21:36:30] [Client thread/INFO] [Config]: [OptiFine] Resource packs: Default
+2020-04-14 21:36:30,516 Thread-26 > [21:36:30] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+2020-04-14 21:36:30,701 Thread-26 > [21:36:30] [Sound Library Loader/INFO] [minecraft/SoundManager]: Starting up SoundSystem...
+2020-04-14 21:36:30,914 Thread-26 > [21:36:30] [Thread-5/INFO] [minecraft/SoundManager]: Initializing LWJGL OpenAL
+2020-04-14 21:36:30,915 Thread-26 > [21:36:30] [Thread-5/INFO] [minecraft/SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2020-04-14 21:36:30,993 Thread-26 > [21:36:30] [Thread-5/INFO] [minecraft/SoundManager]: OpenAL initialized.
+2020-04-14 21:36:31,201 Thread-26 > [21:36:31] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 70259700 nanos
+2020-04-14 21:36:31,305 Thread-26 > [21:36:31] [Sound Library Loader/INFO] [minecraft/SoundManager]: Sound engine started
+2020-04-14 21:36:32,006 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] Mipmap levels: 4
+2020-04-14 21:36:32,027 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] Multitexture: false
+2020-04-14 21:36:32,053 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+2020-04-14 21:36:32,070 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+2020-04-14 21:36:32,075 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+2020-04-14 21:36:32,081 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+2020-04-14 21:36:32,086 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+2020-04-14 21:36:32,090 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+2020-04-14 21:36:32,095 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+2020-04-14 21:36:32,100 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+2020-04-14 21:36:32,104 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+2020-04-14 21:36:32,109 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+2020-04-14 21:36:32,114 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+2020-04-14 21:36:32,118 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+2020-04-14 21:36:32,123 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+2020-04-14 21:36:32,128 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+2020-04-14 21:36:32,132 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+2020-04-14 21:36:32,137 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+2020-04-14 21:36:32,142 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+2020-04-14 21:36:32,146 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+2020-04-14 21:36:32,150 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+2020-04-14 21:36:32,155 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+2020-04-14 21:36:32,159 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+2020-04-14 21:36:32,164 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+2020-04-14 21:36:32,168 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+2020-04-14 21:36:32,173 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+2020-04-14 21:36:32,177 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+2020-04-14 21:36:32,181 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+2020-04-14 21:36:32,186 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+2020-04-14 21:36:32,190 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+2020-04-14 21:36:32,195 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+2020-04-14 21:36:32,208 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+2020-04-14 21:36:32,215 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+2020-04-14 21:36:32,220 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+2020-04-14 21:36:32,224 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+2020-04-14 21:36:32,225 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+2020-04-14 21:36:32,229 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+2020-04-14 21:36:32,234 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+2020-04-14 21:36:32,235 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] Multipass connected textures: false
+2020-04-14 21:36:32,237 Thread-26 > [21:36:32] [Client thread/INFO] [Config]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+2020-04-14 21:36:33,550 Thread-26 > [21:36:33] [Client thread/INFO] [Config]: [OptiFine] Custom loader sprites: 3
+2020-04-14 21:36:33,551 Thread-26 > [21:36:33] [Client thread/INFO] [Config]: [OptiFine] Sprite dependencies: 5
+2020-04-14 21:36:33,586 Thread-26 > [21:36:33] [Client thread/INFO] [minecraft/TextureMap]: Created: 1024x512 textures-atlas
+2020-04-14 21:36:33,587 Thread-26 > [21:36:33] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] allocateTextureMap 4 1024 512 
+2020-04-14 21:36:35,526 Thread-26 > [21:36:35] [Client thread/INFO] [Config]: [OptiFine] Animated sprites: 22
+2020-04-14 21:36:36,308 Thread-26 > [21:36:36] [Client thread/INFO] [FML]: Applying holder lookups
+2020-04-14 21:36:36,310 Thread-26 > [21:36:36] [Client thread/INFO] [FML]: Holder lookups applied
+2020-04-14 21:36:36,318 Thread-26 > [21:36:36] [Client thread/INFO] [FML]: Injecting itemstacks
+2020-04-14 21:36:36,320 Thread-26 > [21:36:36] [Client thread/INFO] [FML]: Itemstack injection complete
+2020-04-14 21:36:36,652 Thread-26 > [21:36:36] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
+2020-04-14 21:36:36,695 Thread-26 > [21:36:36] [Client thread/INFO] [mojang/NarratorWindows]: Narrator library for x64 successfully loaded
+2020-04-14 21:36:36,753 Thread-26 > [21:36:36] [Client thread/INFO] [Config]: [OptiFine] *** Reloading custom textures ***
+2020-04-14 21:37:09,349 Thread-26 > [21:37:09] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Loaded shaderpack: KUDA-Shaders v6.1 Legacy.zip
+2020-04-14 21:37:09,350 Thread-26 > [21:37:09] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Worlds: -1, 1
+2020-04-14 21:37:09,371 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: plantWindSpeed
+2020-04-14 21:37:09,373 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in shadow.vsh: 1.6
+2020-04-14 21:37:09,374 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in gbuffers_terrain.vsh: 1.60
+2020-04-14 21:37:09,404 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: parallaxWater
+2020-04-14 21:37:09,406 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in gbuffers_water.fsh: false
+2020-04-14 21:37:09,408 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in world-1/gbuffers_water.fsh: true
+2020-04-14 21:37:09,409 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: noiseTextureResolution
+2020-04-14 21:37:09,410 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in gbuffers_water.fsh, composite.fsh, composite1.fsh: 96
+2020-04-14 21:37:09,412 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in world-1/composite.fsh: 128
+2020-04-14 21:37:09,414 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: saturation
+2020-04-14 21:37:09,415 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in final.fsh: 0.8
+2020-04-14 21:37:09,416 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in world-1/final.fsh: 1.0
+2020-04-14 21:37:09,426 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: parallaxWater
+2020-04-14 21:37:09,428 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in gbuffers_water.fsh, world-1/gbuffers_water.fsh: false
+2020-04-14 21:37:09,430 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in world1/gbuffers_water.fsh: true
+2020-04-14 21:37:09,432 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: noiseTextureResolution
+2020-04-14 21:37:09,434 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in gbuffers_water.fsh, composite.fsh, composite1.fsh, world-1/composite.fsh: 96
+2020-04-14 21:37:09,437 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in world1/composite.fsh: 128
+2020-04-14 21:37:09,439 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: saturation
+2020-04-14 21:37:09,440 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in final.fsh, world-1/final.fsh: 0.8
+2020-04-14 21:37:09,441 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine]  - in world1/final.fsh: 1.0
+2020-04-14 21:37:09,445 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] [Shaders] Invalid value: shadowSamples:8
+2020-04-14 21:37:09,446 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] [Shaders] Invalid value: shadowSamples:8
+2020-04-14 21:37:09,447 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] [Shaders] Invalid value: shadowSamples:8
+2020-04-14 21:37:09,448 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] [Shaders] Invalid value: shadowSamples:28
+2020-04-14 21:37:09,450 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] [Shaders] Invalid value: shadowSamples:28
+2020-04-14 21:37:09,451 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] [Shaders] Invalid option: naturalWaveGenerator, key: screen.Water
+2020-04-14 21:37:09,453 Thread-26 > [21:37:09] [Client thread/WARN] [Config]: [OptiFine] [Shaders] Invalid option: wisdomWater, key: screen.Water
+2020-04-14 21:37:09,455 Thread-26 > [21:37:09] [Client thread/INFO] [minecraft/SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:TLSkinCape
+2020-04-14 21:37:09,488 Thread-26 > [21:37:09] [Client thread/INFO] [Config]: [OptiFine] *** Reloading textures ***
+2020-04-14 21:37:09,489 Thread-26 > [21:37:09] [Client thread/INFO] [Config]: [OptiFine] Resource packs: Default
+2020-04-14 21:37:09,890 Thread-26 > [21:37:09] [Client thread/INFO] [minecraft/SoundManager]: SoundSystem shutting down...
+2020-04-14 21:37:10,094 Thread-26 > [21:37:10] [Client thread/WARN] [minecraft/SoundManager]: Author: Paul Lamb, www.paulscode.com
+2020-04-14 21:37:10,095 Thread-26 > [21:37:10] [Sound Library Loader/INFO] [minecraft/SoundManager]: Starting up SoundSystem...
+2020-04-14 21:37:10,295 Thread-26 > [21:37:10] [Thread-8/INFO] [minecraft/SoundManager]: Initializing LWJGL OpenAL
+2020-04-14 21:37:10,297 Thread-26 > [21:37:10] [Thread-8/INFO] [minecraft/SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2020-04-14 21:37:10,311 Thread-26 > [21:37:10] [Thread-8/INFO] [minecraft/SoundManager]: OpenAL initialized.
+2020-04-14 21:37:10,695 Thread-26 > [21:37:10] [Sound Library Loader/INFO] [minecraft/SoundManager]: Sound engine started
+2020-04-14 21:37:11,058 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] Mipmap levels: 4
+2020-04-14 21:37:11,059 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] Multitexture: false
+2020-04-14 21:37:11,061 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+2020-04-14 21:37:11,065 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+2020-04-14 21:37:11,069 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+2020-04-14 21:37:11,073 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+2020-04-14 21:37:11,077 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+2020-04-14 21:37:11,082 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+2020-04-14 21:37:11,086 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+2020-04-14 21:37:11,090 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+2020-04-14 21:37:11,094 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+2020-04-14 21:37:11,098 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+2020-04-14 21:37:11,112 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+2020-04-14 21:37:11,116 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+2020-04-14 21:37:11,120 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+2020-04-14 21:37:11,125 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+2020-04-14 21:37:11,129 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+2020-04-14 21:37:11,133 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+2020-04-14 21:37:11,137 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+2020-04-14 21:37:11,141 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+2020-04-14 21:37:11,145 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+2020-04-14 21:37:11,149 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+2020-04-14 21:37:11,153 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+2020-04-14 21:37:11,158 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+2020-04-14 21:37:11,162 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+2020-04-14 21:37:11,166 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+2020-04-14 21:37:11,170 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+2020-04-14 21:37:11,174 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+2020-04-14 21:37:11,178 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+2020-04-14 21:37:11,182 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+2020-04-14 21:37:11,186 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+2020-04-14 21:37:11,191 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+2020-04-14 21:37:11,195 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+2020-04-14 21:37:11,199 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+2020-04-14 21:37:11,204 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+2020-04-14 21:37:11,205 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+2020-04-14 21:37:11,217 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+2020-04-14 21:37:11,221 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+2020-04-14 21:37:11,222 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] Multipass connected textures: false
+2020-04-14 21:37:11,223 Thread-26 > [21:37:11] [Client thread/INFO] [Config]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+2020-04-14 21:37:12,404 Thread-26 > [21:37:12] [Client thread/INFO] [Config]: [OptiFine] Custom loader sprites: 3
+2020-04-14 21:37:12,405 Thread-26 > [21:37:12] [Client thread/INFO] [Config]: [OptiFine] Sprite dependencies: 5
+2020-04-14 21:37:12,425 Thread-26 > [21:37:12] [Client thread/INFO] [minecraft/TextureMap]: Created: 1024x512 textures-atlas
+2020-04-14 21:37:12,427 Thread-26 > [21:37:12] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] allocateTextureMap 4 1024 512 
+2020-04-14 21:37:13,689 Thread-26 > [21:37:13] [Client thread/INFO] [Config]: [OptiFine] Animated sprites: 22
+2020-04-14 21:37:13,890 Thread-26 > [21:37:13] [Client thread/INFO] [Config]: [OptiFine] *** Reloading custom textures ***
+2020-04-14 21:37:14,765 Thread-26 > [21:37:14] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Save shaders configuration.
+2020-04-14 21:37:28,283 Thread-26 > [21:37:28] [Client thread/INFO] [minecraft/GuiConnecting]: Connecting to 13.53.122.73, 25577
+2020-04-14 21:37:29,188 Thread-26 > [21:37:29] [Netty Client IO #0/INFO] [FML]: Aborting client handshake "VANILLA"
+2020-04-14 21:37:29,190 Thread-26 > [21:37:29] [Netty Client IO #0/INFO] [FML]: [Netty Client IO #0] Client side vanilla connection established
+2020-04-14 21:37:30,049 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: shadow
+2020-04-14 21:37:30,051 Thread-26 > Validation successful.
+2020-04-14 21:37:30,051 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: shadow
+2020-04-14 21:37:30,070 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_basic
+2020-04-14 21:37:30,072 Thread-26 > Validation successful.
+2020-04-14 21:37:30,072 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_basic
+2020-04-14 21:37:30,079 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_textured
+2020-04-14 21:37:30,080 Thread-26 > Validation successful.
+2020-04-14 21:37:30,081 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_textured
+2020-04-14 21:37:30,086 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_textured_lit
+2020-04-14 21:37:30,088 Thread-26 > Validation successful.
+2020-04-14 21:37:30,088 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_textured_lit
+2020-04-14 21:37:30,096 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_skybasic
+2020-04-14 21:37:30,097 Thread-26 > Validation successful.
+2020-04-14 21:37:30,097 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_skybasic
+2020-04-14 21:37:30,103 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_skytextured
+2020-04-14 21:37:30,104 Thread-26 > Validation successful.
+2020-04-14 21:37:30,104 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_skytextured
+2020-04-14 21:37:30,110 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_clouds
+2020-04-14 21:37:30,111 Thread-26 > Validation successful.
+2020-04-14 21:37:30,112 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_clouds
+2020-04-14 21:37:30,140 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_terrain
+2020-04-14 21:37:30,141 Thread-26 > Validation successful.
+2020-04-14 21:37:30,141 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_terrain
+2020-04-14 21:37:30,149 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_block
+2020-04-14 21:37:30,150 Thread-26 > Validation successful.
+2020-04-14 21:37:30,151 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_block
+2020-04-14 21:37:30,158 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_entities
+2020-04-14 21:37:30,159 Thread-26 > Validation successful.
+2020-04-14 21:37:30,159 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_entities
+2020-04-14 21:37:30,166 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_armor_glint
+2020-04-14 21:37:30,167 Thread-26 > Validation successful.
+2020-04-14 21:37:30,167 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_armor_glint
+2020-04-14 21:37:30,173 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_spidereyes
+2020-04-14 21:37:30,174 Thread-26 > Validation successful.
+2020-04-14 21:37:30,175 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_spidereyes
+2020-04-14 21:37:30,183 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_hand
+2020-04-14 21:37:30,184 Thread-26 > Validation successful.
+2020-04-14 21:37:30,184 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_hand
+2020-04-14 21:37:30,191 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_weather
+2020-04-14 21:37:30,192 Thread-26 > Validation successful.
+2020-04-14 21:37:30,193 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_weather
+2020-04-14 21:37:30,195 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Noise texture enabled
+2020-04-14 21:37:30,196 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Noise texture resolution: 96
+2020-04-14 21:37:30,223 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_water
+2020-04-14 21:37:30,224 Thread-26 > Validation successful.
+2020-04-14 21:37:30,224 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_water
+2020-04-14 21:37:30,228 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] composite format: RGBA16
+2020-04-14 21:37:30,229 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] gaux4 format: RGBA16
+2020-04-14 21:37:30,230 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] gaux2 format: RGB16
+2020-04-14 21:37:30,231 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] gnormal format: RGB16
+2020-04-14 21:37:30,232 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Sun path rotation: -35.0
+2020-04-14 21:37:30,233 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Shadow map resolution: 2048
+2020-04-14 21:37:30,234 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Shadow map distance: 120.0
+2020-04-14 21:37:30,235 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Shadow map interval size: 1.0
+2020-04-14 21:37:30,236 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] shadowHardwareFiltering0
+2020-04-14 21:37:30,237 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] AO Level: 0.7
+2020-04-14 21:37:30,238 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Eye brightness halflife: 7.5
+2020-04-14 21:37:30,239 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Wetness halflife: 600.0
+2020-04-14 21:37:30,240 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Dryness halflife: 200.0
+2020-04-14 21:37:30,240 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Noise texture enabled
+2020-04-14 21:37:30,241 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Noise texture resolution: 96
+2020-04-14 21:37:30,298 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: composite
+2020-04-14 21:37:30,300 Thread-26 > Validation successful.
+2020-04-14 21:37:30,300 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: composite
+2020-04-14 21:37:30,307 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Noise texture enabled
+2020-04-14 21:37:30,308 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Noise texture resolution: 96
+2020-04-14 21:37:30,309 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] composite mipmap enabled
+2020-04-14 21:37:30,425 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: composite1
+2020-04-14 21:37:30,427 Thread-26 > Validation successful.
+2020-04-14 21:37:30,427 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: composite1
+2020-04-14 21:37:30,430 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: composite2
+2020-04-14 21:37:30,431 Thread-26 > Validation successful.
+2020-04-14 21:37:30,431 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: composite2
+2020-04-14 21:37:30,432 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] composite mipmap enabled
+2020-04-14 21:37:30,591 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: composite3
+2020-04-14 21:37:30,593 Thread-26 > Validation successful.
+2020-04-14 21:37:30,593 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: composite3
+2020-04-14 21:37:30,596 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] composite mipmap enabled
+2020-04-14 21:37:30,597 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] gaux4 mipmap enabled
+2020-04-14 21:37:30,615 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: final
+2020-04-14 21:37:30,617 Thread-26 > Validation successful.
+2020-04-14 21:37:30,617 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: final
+2020-04-14 21:37:30,618 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedColorBuffers: 8
+2020-04-14 21:37:30,619 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedDepthBuffers: 3
+2020-04-14 21:37:30,621 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedShadowColorBuffers: 0
+2020-04-14 21:37:30,623 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedShadowDepthBuffers: 2
+2020-04-14 21:37:30,624 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedColorAttachs: 8
+2020-04-14 21:37:30,625 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedDrawBuffers: 4
+2020-04-14 21:37:30,626 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Framebuffer created.
+2020-04-14 21:37:30,628 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Shadow framebuffer created.
+2020-04-14 21:37:30,629 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Reset model renderers
+2020-04-14 21:37:30,630 Thread-26 > [21:37:30] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Reset world renderers
+2020-04-14 21:37:30,722 Thread-26 > [21:37:30] [Client thread/INFO] [org.tlauncher.skin.cape.renderer.TextureManager]: textures Agalex was added, skin: true,cape: false, max waiting: 4 ,during : 54171 
+2020-04-14 21:37:31,171 Thread-26 > [21:37:31] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  BattleRoyale >> Agalex joined.
+2020-04-14 21:37:31,200 Thread-26 > [21:37:31] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT] Agalex joined the game
+2020-04-14 21:37:31,306 Thread-26 > [21:37:31] [Client thread/INFO] [minecraft/AdvancementList]: Loaded 5 advancements
+2020-04-14 21:37:37,556 Thread-26 > [21:37:37] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Framebuffer created.
+2020-04-14 21:39:39,039 Thread-26 > [21:39:39] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Loaded shaderpack: sflp-shaders-lite-rc1.zip
+2020-04-14 21:39:39,045 Thread-26 > [21:39:39] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: sunPathRotation
+2020-04-14 21:39:39,046 Thread-26 > [21:39:39] [Client thread/WARN] [Config]: [OptiFine]  - in composite.fsh: -25.0f
+2020-04-14 21:39:39,047 Thread-26 > [21:39:39] [Client thread/WARN] [Config]: [OptiFine]  - in final.fsh: -40.0f
+2020-04-14 21:39:39,047 Thread-26 > [21:39:39] [Client thread/INFO] [minecraft/SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:TLSkinCape
+2020-04-14 21:39:39,070 Thread-26 > [21:39:39] [Client thread/INFO] [Config]: [OptiFine] *** Reloading textures ***
+2020-04-14 21:39:39,071 Thread-26 > [21:39:39] [Client thread/INFO] [Config]: [OptiFine] Resource packs: Default
+2020-04-14 21:39:39,445 Thread-26 > [21:39:39] [Client thread/INFO] [minecraft/SoundManager]: SoundSystem shutting down...
+2020-04-14 21:39:39,654 Thread-26 > [21:39:39] [Client thread/WARN] [minecraft/SoundManager]: Author: Paul Lamb, www.paulscode.com
+2020-04-14 21:39:39,655 Thread-26 > [21:39:39] [Sound Library Loader/INFO] [minecraft/SoundManager]: Starting up SoundSystem...
+2020-04-14 21:39:39,854 Thread-26 > [21:39:39] [Thread-11/INFO] [minecraft/SoundManager]: Initializing LWJGL OpenAL
+2020-04-14 21:39:39,855 Thread-26 > [21:39:39] [Thread-11/INFO] [minecraft/SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2020-04-14 21:39:39,865 Thread-26 > [21:39:39] [Thread-11/INFO] [minecraft/SoundManager]: OpenAL initialized.
+2020-04-14 21:39:40,255 Thread-26 > [21:39:40] [Sound Library Loader/INFO] [minecraft/SoundManager]: Sound engine started
+2020-04-14 21:39:40,514 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] Mipmap levels: 4
+2020-04-14 21:39:40,514 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] Multitexture: false
+2020-04-14 21:39:40,516 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+2020-04-14 21:39:40,520 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+2020-04-14 21:39:40,524 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+2020-04-14 21:39:40,528 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+2020-04-14 21:39:40,532 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+2020-04-14 21:39:40,536 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+2020-04-14 21:39:40,540 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+2020-04-14 21:39:40,545 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+2020-04-14 21:39:40,549 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+2020-04-14 21:39:40,553 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+2020-04-14 21:39:40,566 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+2020-04-14 21:39:40,570 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+2020-04-14 21:39:40,575 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+2020-04-14 21:39:40,579 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+2020-04-14 21:39:40,584 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+2020-04-14 21:39:40,588 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+2020-04-14 21:39:40,593 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+2020-04-14 21:39:40,597 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+2020-04-14 21:39:40,601 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+2020-04-14 21:39:40,606 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+2020-04-14 21:39:40,610 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+2020-04-14 21:39:40,614 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+2020-04-14 21:39:40,618 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+2020-04-14 21:39:40,623 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+2020-04-14 21:39:40,627 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+2020-04-14 21:39:40,631 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+2020-04-14 21:39:40,636 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+2020-04-14 21:39:40,640 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+2020-04-14 21:39:40,644 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+2020-04-14 21:39:40,649 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+2020-04-14 21:39:40,653 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+2020-04-14 21:39:40,657 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+2020-04-14 21:39:40,662 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+2020-04-14 21:39:40,663 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+2020-04-14 21:39:40,666 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+2020-04-14 21:39:40,670 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+2020-04-14 21:39:40,671 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] Multipass connected textures: false
+2020-04-14 21:39:40,673 Thread-26 > [21:39:40] [Client thread/INFO] [Config]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+2020-04-14 21:39:41,772 Thread-26 > [21:39:41] [Client thread/INFO] [Config]: [OptiFine] Custom loader sprites: 3
+2020-04-14 21:39:41,773 Thread-26 > [21:39:41] [Client thread/INFO] [Config]: [OptiFine] Sprite dependencies: 5
+2020-04-14 21:39:41,792 Thread-26 > [21:39:41] [Client thread/INFO] [minecraft/TextureMap]: Created: 1024x512 textures-atlas
+2020-04-14 21:39:41,793 Thread-26 > [21:39:41] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] allocateTextureMap 4 1024 512 
+2020-04-14 21:39:43,081 Thread-26 > [21:39:43] [Client thread/INFO] [Config]: [OptiFine] Animated sprites: 22
+2020-04-14 21:39:43,236 Thread-26 > [21:39:43] [Client thread/INFO] [Config]: [OptiFine] *** Reloading custom textures ***
+2020-04-14 21:39:43,287 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Uninit
+2020-04-14 21:39:43,291 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_basic
+2020-04-14 21:39:43,292 Thread-26 > Validation successful.
+2020-04-14 21:39:43,292 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_basic
+2020-04-14 21:39:43,293 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_textured
+2020-04-14 21:39:43,295 Thread-26 > Validation successful.
+2020-04-14 21:39:43,295 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_textured
+2020-04-14 21:39:43,296 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_textured_lit
+2020-04-14 21:39:43,297 Thread-26 > Validation successful.
+2020-04-14 21:39:43,297 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_textured_lit
+2020-04-14 21:39:43,299 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_skybasic
+2020-04-14 21:39:43,300 Thread-26 > Validation successful.
+2020-04-14 21:39:43,300 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_skybasic
+2020-04-14 21:39:43,302 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_skytextured
+2020-04-14 21:39:43,303 Thread-26 > Validation successful.
+2020-04-14 21:39:43,303 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_skytextured
+2020-04-14 21:39:43,305 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_terrain
+2020-04-14 21:39:43,306 Thread-26 > Validation successful.
+2020-04-14 21:39:43,306 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_terrain
+2020-04-14 21:39:43,308 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_entities
+2020-04-14 21:39:43,309 Thread-26 > Validation successful.
+2020-04-14 21:39:43,309 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_entities
+2020-04-14 21:39:43,310 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_hand
+2020-04-14 21:39:43,311 Thread-26 > Validation successful.
+2020-04-14 21:39:43,311 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_hand
+2020-04-14 21:39:43,313 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_weather
+2020-04-14 21:39:43,314 Thread-26 > Validation successful.
+2020-04-14 21:39:43,315 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_weather
+2020-04-14 21:39:43,328 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_water
+2020-04-14 21:39:43,329 Thread-26 > Validation successful.
+2020-04-14 21:39:43,329 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_water
+2020-04-14 21:39:43,330 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Sun path rotation: -25.0
+2020-04-14 21:39:43,331 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Wetness halflife: 70.0
+2020-04-14 21:39:43,332 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Dryness halflife: 70.0
+2020-04-14 21:39:43,334 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Noise texture enabled
+2020-04-14 21:39:43,335 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Noise texture resolution: 64
+2020-04-14 21:39:43,336 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: composite
+2020-04-14 21:39:43,337 Thread-26 > Validation successful.
+2020-04-14 21:39:43,337 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: composite
+2020-04-14 21:39:43,338 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] gnormal format: RGB16
+2020-04-14 21:39:43,340 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Sun path rotation: -40.0
+2020-04-14 21:39:43,341 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: final
+2020-04-14 21:39:43,342 Thread-26 > Validation successful.
+2020-04-14 21:39:43,342 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: final
+2020-04-14 21:39:43,343 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedColorBuffers: 8
+2020-04-14 21:39:43,345 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedDepthBuffers: 2
+2020-04-14 21:39:43,346 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedShadowColorBuffers: 0
+2020-04-14 21:39:43,347 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedShadowDepthBuffers: 0
+2020-04-14 21:39:43,348 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedColorAttachs: 8
+2020-04-14 21:39:43,349 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedDrawBuffers: 3
+2020-04-14 21:39:43,379 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Framebuffer created.
+2020-04-14 21:39:43,380 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Reset model renderers
+2020-04-14 21:39:43,381 Thread-26 > [21:39:43] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Reset world renderers
+2020-04-14 21:39:46,209 Thread-26 > [21:39:46] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Save shaders configuration.
+2020-04-14 21:40:00,191 Thread-26 > [21:40:00] [Client thread/INFO] [FML]: Applying holder lookups
+2020-04-14 21:40:00,193 Thread-26 > [21:40:00] [Client thread/INFO] [FML]: Holder lookups applied
+2020-04-14 21:40:02,385 Thread-26 > [21:40:02] [Client thread/INFO] [minecraft/Minecraft]: Stopping!
+2020-04-14 21:40:02,385 Thread-26 > [21:40:02] [Client thread/INFO] [minecraft/SoundManager]: SoundSystem shutting down...
+2020-04-14 21:40:02,593 Thread-26 > [21:40:02] [Client thread/WARN] [minecraft/SoundManager]: Author: Paul Lamb, www.paulscode.com
+2020-04-14 21:40:03,289 Thread-26 Here I am!
+2020-04-14 21:40:03,344 Thread-26 [VersionManager] Refreshing versions locally...
+2020-04-14 21:40:03,358 Thread-26 [VersionManager] Versions has been refreshed (13 ms)
+2020-04-14 21:40:03,358 Thread-26 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-14 21:40:03,359 Thread-26 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-14 21:40:03,360 Thread-26 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-14 21:40:03,361 Thread-26 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-14 21:40:03,368 Thread-26 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-14 21:40:03,369 Thread-26 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-14 21:40:03,371 Thread-26 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-14 21:40:03,371 Thread-26 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-14 21:40:03,373 Thread-26 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-14 21:40:03,374 Thread-26 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-14 21:40:03,375 Thread-26 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-14 21:40:03,376 Thread-26 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-14 21:40:03,377 LoopedThread#8 [Launcher] Launcher exited.
+2020-04-14 21:40:03,378 Thread-26 [Launcher] Minecraft closed with exit code: 0
+2020-04-14 21:40:33,511 AWT-EventQueue-0 Good bye!
+2020-04-14 21:40:33,512 AWT-EventQueue-0 [TLauncherManager] before clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar
+2020-04-14 21:40:33,519 AWT-EventQueue-0 [TLauncherManager] written:  []
+2020-04-14 21:40:33,521 AWT-EventQueue-0 [TLauncherManager] after clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar

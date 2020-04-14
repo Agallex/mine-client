@@ -1,8 +1,8 @@
-#Tue Apr 14 18:59:33 MSK 2020
+#Tue Apr 14 23:49:48 MSK 2020
 shaderPack=sflp-shaders-lite-rc1.zip
 antialiasingLevel=0
 normalMapEnabled=true
-specularMapEnabled=true
+specularMapEnabled=false
 renderResMul=1.0
 shadowResMul=1.0
 handDepthMul=0.125
