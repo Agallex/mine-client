@@ -1,0 +1,192 @@
+{
+    "images":
+    {
+		"logo":
+        {
+            "image" : "mainmenu:textures/buttons/logo.png",
+            "posX" : 40,
+            "posY" : 40,
+            "width" : 125,
+            "height" : 97,
+            "alignment" : "top_left"
+        },
+                "black_play":
+        {
+            "image" : "mainmenu:textures/buttons/bg_hex2.png",
+            "posX" : 107,
+            "posY" : 148,
+            "width" : 56,
+            "height" : 68,
+            "alignment" : "top_left"
+        },
+		"black_buy":
+        {
+            "image" : "mainmenu:textures/buttons/bg_hex2.png",
+            "posX" : 145,
+            "posY" : 178,
+            "width" : 56,
+            "height" : 68,
+            "alignment" : "top_left"
+        },
+		"black_option":
+        {
+            "image" : "mainmenu:textures/buttons/bg_hex2.png",
+            "posX" : 69,
+            "posY" : 178,
+            "width" : 56,
+            "height" : 68,
+            "alignment" : "top_left"
+        }
+    },
+    "buttons":
+    {     
+	
+		"server":
+        {
+            "text" : "",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:textures/buttons/single.png",
+            "posX" : 70,
+            "posY" : 150,
+            "width" : 69,
+            "height" : 69,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "left_top",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "13.53.122.73:25577"
+            }
+        },
+            "mods":
+        {
+            "text" : "",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:textures/buttons/mods.png",
+            "posX" : 69,
+            "posY" : 73,
+            "width" : 64,
+            "height" : 64,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "left_top",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },	      
+		"singleplayer":
+        {
+            "text" : "",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:textures/buttons/multi.png",
+            "posX" : 477,
+            "posY" : 262,
+            "width" : 32,
+            "height" : 32,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "left_top",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+               
+		"options":
+        {
+            "text" : "",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:textures/buttons/settings.png",
+            "posX" : 40,
+            "posY" : 200,
+            "width" : 69,
+            "height" : 69,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "left_top",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        }, 
+		"quit":
+        {
+            "text" : "",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:textures/buttons/quit.png",
+            "posX" : -48,
+            "posY" : -295,
+            "width" : 48,
+            "height" : 48,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },        
+		"buy":
+        {
+            "text" : "",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 3125670,
+			"texture" : "mainmenu:textures/buttons/buy.png",
+            "posX" : 108,
+            "posY" : 207,
+            "width" : 54,
+            "height" : 54,
+			"imageWidth" : 128,
+			"imageHeight" : 128,
+			"alignment" : "left_top",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://donatepay.ru/don/453319"
+            }
+        },
+        "versionChecker":
+        {
+            "text" : "Version-Checker",
+            "posX" : 2,
+            "posY" : -35,
+            "width" : 100,
+            "height" : 20,
+			"imageWidth" : 100,
+			"imageHeight" : 50,			
+			"alignment" : "bottom_left",
+            "wrappedButton" : 404
+        }
+	},
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Forge #forgeversion# for MC #mcversion# - Copyright Mojang AB. Do not distribute!",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+			"fontSize" : 1,
+            "alignment" : "bottom_left"
+        }
+    },
+    "other":
+    {
+		"background":
+		{
+			"image" : "mainmenu:textures/gui/background.jpg",
+			"mode" : "fill"
+		}
+    }
+}

@@ -1,0 +1,631 @@
+[22:25:55] [Client thread/INFO]: Setting user: sashka
+[22:25:58] [Client thread/INFO]: LWJGL Version: 2.9.4
+[22:25:59] [Client thread/INFO]: Reloading ResourceManager: Default
+[22:26:00] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:26:00] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[22:26:00] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:26:00] [Thread-3/INFO]: OpenAL initialized.
+[22:26:00] [Sound Library Loader/INFO]: Sound engine started
+[22:26:07] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[22:26:12] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[22:26:13] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[22:27:03] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:27:06] [Client thread/INFO]: [CHAT] 1
+[22:27:06] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[22:27:06] [Client thread/INFO]: [CHAT] sashka joined the game
+[22:27:07] [Client thread/INFO]: Loaded 38 advancements
+[22:27:24] [Client thread/INFO]: [CHAT]  BattleRoyale >> You forced the game to start Main
+[22:27:24] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[22:27:29] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[22:27:34] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[22:27:35] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[22:27:36] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[22:27:37] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[22:27:38] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[22:27:39] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[22:27:39] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[22:28:43] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka is dead.
+[22:30:08] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:30:10] [Server Connector #2/ERROR]: Couldn't connect to server
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: ec2-13-53-122-73.eu-north-1.compute.amazonaws.com/13.53.122.73:25565
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source) ~[?:1.8.0_45]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:352) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:340) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:612) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at java.lang.Thread.run(Unknown Source) ~[?:1.8.0_45]
+Caused by: java.net.ConnectException: Connection refused: no further information
+	... 10 more
+[22:30:48] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:30:51] [Server Connector #3/ERROR]: Couldn't connect to server
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: ec2-13-53-122-73.eu-north-1.compute.amazonaws.com/13.53.122.73:25565
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source) ~[?:1.8.0_45]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:352) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:340) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:612) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at java.lang.Thread.run(Unknown Source) ~[?:1.8.0_45]
+Caused by: java.net.ConnectException: Connection refused: no further information
+	... 10 more
+[22:38:43] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:38:46] [Client thread/INFO]: [CHAT] 1
+[22:38:46] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[22:38:46] [Client thread/INFO]: [CHAT] sashka joined the game
+[22:38:46] [Client thread/INFO]: Loaded 38 advancements
+[22:39:19] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin joined.
+[22:39:19] [Client thread/INFO]: [CHAT] admin joined the game
+[22:45:57] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[22:46:02] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[22:46:07] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[22:46:08] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[22:46:09] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[22:46:10] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[22:46:11] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[22:46:12] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[22:46:12] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[22:46:14] [Client thread/WARN]: Received passengers for unknown entity
+[22:46:32] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko is dead.
+[22:46:32] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka unlocked 5 kills.
+[22:46:32] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko left.
+[22:46:32] [Client thread/INFO]: [CHAT] kkko left the game
+[22:46:37] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex is dead.
+[22:46:37] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex left.
+[22:46:37] [Client thread/INFO]: [CHAT] Agalex left the game
+[22:46:37] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin is dead.
+[22:46:37] [Client thread/INFO]: [CHAT] 
+[22:46:37] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[22:46:37] [Client thread/INFO]: [CHAT] 
+[22:46:37] [Client thread/INFO]: [CHAT]                sashka won ! In arena Main
+[22:46:37] [Client thread/INFO]: [CHAT] 
+[22:46:37] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[22:46:38] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin left.
+[22:46:39] [Client thread/INFO]: [CHAT] admin left the game
+[22:46:39] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[22:46:48] [Client thread/INFO]: [CHAT] =================>> You win game and get 20 money <<=================
+[22:47:05] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:47:08] [Client thread/INFO]: [CHAT] 1
+[22:47:08] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[22:47:08] [Client thread/INFO]: [CHAT] sashka joined the game
+[22:47:09] [Client thread/INFO]: Loaded 38 advancements
+[22:47:13] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[22:47:14] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko joined.
+[22:47:14] [Client thread/INFO]: [CHAT] kkko joined the game
+[22:47:22] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin joined.
+[22:47:22] [Client thread/INFO]: [CHAT] admin joined the game
+[22:47:37] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[22:47:37] [Client thread/INFO]: [CHAT] Agalex joined the game
+[22:48:07] [Client thread/INFO]: [CHAT]  BattleRoyale >> You forced the game to start Main
+[22:48:07] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[22:48:12] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[22:48:17] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[22:48:18] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[22:48:19] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[22:48:20] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[22:48:21] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[22:48:22] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[22:48:22] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[22:49:41] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka is dead.
+[22:51:16] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:51:20] [Client thread/INFO]: [CHAT] 1
+[22:51:20] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[22:51:20] [Client thread/INFO]: [CHAT] sashka joined the game
+[22:51:20] [Client thread/INFO]: Loaded 38 advancements
+[22:51:29] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[22:52:11] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko joined.
+[22:52:11] [Client thread/INFO]: [CHAT] kkko joined the game
+[22:52:25] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin joined.
+[22:52:25] [Client thread/INFO]: [CHAT] admin joined the game
+[22:52:36] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[22:52:41] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[22:52:46] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[22:52:47] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[22:52:48] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[22:52:49] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[22:52:50] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[22:52:51] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[22:52:51] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[22:53:08] [Client thread/INFO]: Loaded 50 advancements
+[22:55:29] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex is dead.
+[22:55:29] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex left.
+[22:55:29] [Client thread/INFO]: [CHAT] Agalex left the game
+[22:55:29] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin is dead.
+[22:55:29] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin left.
+[22:55:30] [Client thread/INFO]: [CHAT] admin left the game
+[22:55:34] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko is dead.
+[22:55:34] [Client thread/INFO]: [CHAT] 
+[22:55:34] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[22:55:34] [Client thread/INFO]: [CHAT] 
+[22:55:34] [Client thread/INFO]: [CHAT]                sashka won ! In arena Main
+[22:55:34] [Client thread/INFO]: [CHAT] 
+[22:55:34] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[22:55:35] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko left.
+[22:55:36] [Client thread/INFO]: [CHAT] kkko left the game
+[22:55:37] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[22:55:47] [Client thread/INFO]: [CHAT] =================>> You win game and get 20 money <<=================
+[22:56:09] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:56:11] [Client thread/INFO]: [CHAT] 1
+[22:56:11] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[22:56:11] [Client thread/INFO]: [CHAT] sashka joined the game
+[22:56:12] [Client thread/INFO]: Loaded 50 advancements
+[22:56:20] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[22:56:20] [Client thread/INFO]: [CHAT] Agalex joined the game
+[22:59:56] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex left.
+[22:59:56] [Client thread/INFO]: [CHAT] Agalex left the game
+[22:59:58] [Client thread/INFO]: [CHAT] [Server: Выключение сервера]
+[23:00:15] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:00:19] [Client thread/INFO]: [CHAT] 1
+[23:00:19] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[23:00:19] [Client thread/INFO]: [CHAT] sashka joined the game
+[23:00:19] [Client thread/INFO]: Loaded 50 advancements
+[23:00:47] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin joined.
+[23:00:47] [Client thread/INFO]: [CHAT] admin joined the game
+[23:01:00] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko joined.
+[23:01:00] [Client thread/INFO]: [CHAT] kkko joined the game
+[23:01:11] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[23:01:11] [Client thread/INFO]: [CHAT] Agalex joined the game
+[23:01:50] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[23:01:55] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[23:02:00] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[23:02:01] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[23:02:02] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[23:02:03] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[23:02:04] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[23:02:05] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[23:02:05] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[23:02:07] [Client thread/WARN]: Received passengers for unknown entity
+[23:02:42] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin is dead.
+[23:02:42] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka unlocked 10 kills.
+[23:02:42] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin left.
+[23:02:43] [Client thread/INFO]: [CHAT] admin left the game
+[23:04:48] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko is dead.
+[23:04:48] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko left.
+[23:04:48] [Client thread/INFO]: [CHAT] kkko left the game
+[23:05:16] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex left.
+[23:05:18] [Client thread/INFO]: [CHAT] Agalex left the game
+[23:05:18] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[23:05:28] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:05:39] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:05:42] [Client thread/INFO]: [CHAT] 1
+[23:05:42] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[23:05:42] [Client thread/INFO]: [CHAT] sashka joined the game
+[23:05:42] [Client thread/INFO]: Loaded 50 advancements
+[23:05:47] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko joined.
+[23:05:47] [Client thread/INFO]: [CHAT] kkko joined the game
+[23:05:51] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[23:05:51] [Client thread/INFO]: [CHAT] Agalex joined the game
+[23:06:05] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[23:06:10] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[23:06:15] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[23:06:16] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[23:06:17] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[23:06:18] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[23:06:19] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[23:06:20] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[23:06:20] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[23:09:01] [Client thread/INFO]: [CHAT] admin left the game
+[23:09:09] [Client thread/INFO]: [CHAT] admin left the game
+[23:11:07] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex is dead.
+[23:11:08] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex left.
+[23:11:08] [Client thread/INFO]: [CHAT] Agalex left the game
+[23:11:25] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko is dead.
+[23:11:25] [Client thread/INFO]: [CHAT] 
+[23:11:25] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[23:11:25] [Client thread/INFO]: [CHAT] 
+[23:11:25] [Client thread/INFO]: [CHAT]                sashka won ! In arena Main
+[23:11:25] [Client thread/INFO]: [CHAT] 
+[23:11:25] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[23:11:25] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko left.
+[23:11:27] [Client thread/INFO]: [CHAT] kkko left the game
+[23:11:27] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[23:11:36] [Client thread/INFO]: [CHAT] =================>> You win game and get 15 money <<=================
+[23:59:30] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:59:33] [Client thread/INFO]: [CHAT] 1
+[23:59:33] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[23:59:33] [Client thread/INFO]: [CHAT] sashka joined the game
+[23:59:34] [Client thread/INFO]: Loaded 50 advancements
+[23:59:39] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[23:59:39] [Client thread/INFO]: [CHAT] Agalex joined the game
+[23:59:50] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin joined.
+[23:59:50] [Client thread/INFO]: [CHAT] admin joined the game
+[Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[22:52:47] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[22:52:48] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[22:52:49] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[22:52:50] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[22:52:51] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[22:52:51] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[22:55:29] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex is dead.
+[22:56:20] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:56:23] [Client thread/INFO]: [CHAT] 1
+[22:56:23] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[22:56:23] [Client thread/INFO]: [CHAT] Agalex joined the game
+[22:56:23] [Client thread/INFO]: Loaded 55 advancements
+[23:00:21] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:00:24] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:00:28] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:00:31] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:00:33] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:00:48] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:00:51] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:01:03] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:01:10] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:01:13] [Client thread/INFO]: [CHAT] 1
+[23:01:13] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[23:01:13] [Client thread/INFO]: [CHAT] Agalex joined the game
+[23:01:14] [Client thread/INFO]: Loaded 55 advancements
+[23:01:50] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[23:01:55] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[23:02:00] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[23:02:01] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[23:02:02] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[23:02:03] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[23:02:04] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[23:02:05] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[23:02:05] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[23:02:07] [Client thread/WARN]: Received passengers for unknown entity
+[23:02:42] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin is dead.
+[23:02:43] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka unlocked 10 kills.
+[23:02:43] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin left.
+[23:02:43] [Client thread/INFO]: [CHAT] admin left the game
+[23:04:48] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko is dead.
+[23:04:48] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko left.
+[23:04:48] [Client thread/INFO]: [CHAT] kkko left the game
+[23:05:51] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:05:54] [Client thread/INFO]: [CHAT] 1
+[23:05:54] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[23:05:54] [Client thread/INFO]: [CHAT] Agalex joined the game
+[23:05:54] [Client thread/INFO]: Loaded 55 advancements
+[23:06:04] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[23:06:09] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[23:06:15] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[23:06:16] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[23:06:17] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[23:06:18] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[23:06:19] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[23:06:20] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[23:06:20] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[23:09:01] [Client thread/INFO]: [CHAT] admin left the game
+[23:09:09] [Client thread/INFO]: [CHAT] admin left the game
+[23:11:07] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex is dead.
+[23:36:45] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:36:46] [Client thread/INFO]: [CHAT] 1
+[23:36:46] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[23:36:46] [Client thread/INFO]: [CHAT] Agalex joined the game
+[23:36:46] [Client thread/INFO]: Loaded 55 advancements
+[23:37:05] [Client thread/INFO]: Connecting to mc.mineblaze.su., 25565
+[23:37:06] [Client thread/INFO]: [CHAT] 
+[23:37:06] [Client thread/INFO]: [CHAT] §c§l| §fЗарегистрируйтесь » §e/reg [пароль]
+[23:37:13] [Client thread/INFO]: [CHAT] §c§l| §fЗарегистрируйтесь » §e/reg [пароль]
+[23:37:16] [Client thread/INFO]: [CHAT] §c§l| §fЗарегистрируйтесь » §e/reg [пароль]
+[23:37:21] [Client thread/INFO]: [CHAT] \n ? Хотите быть первым вкурсе всех новостей сервера?\n ? Подпишитесь и вступайте в наше сообщество!\n ? Кликните, чтобы перейти - vk.com/mine_blaze \n
+[23:37:26] [Client thread/INFO]: [CHAT] §c§l| §fЗарегистрируйтесь » §e/reg [пароль]
+[23:37:32] [Client thread/INFO]: [CHAT] §a§l| §fВы успешно зарегистрировались
+[23:37:41] [Client thread/INFO]: [CHAT] \n ? Только СЕГОДНЯ на сервере идут скидки 90%\n ? Например, донат [Помощник] за 5475 219 рублей\n ? имеет крутую возможность нано-брони /guard\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:37:59] [Client thread/INFO]: [CHAT] Подключение к bw-lobby-1...
+[23:38:01] [Client thread/INFO]: [CHAT] lunnoe_zatmenye: ахаххахахх
+[23:38:01] [Client thread/INFO]: [CHAT] 3r3: мне 10 и что
+[23:38:01] [Client thread/INFO]: [CHAT] VAdimhi: ГО В ДС?!!!!
+[23:38:01] [Client thread/INFO]: [CHAT] \n ? Хотите изменять территорию с помощью топорика? //set\n ? Это доступно [Император] за 3725 149 рублей и выше.\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:38:03] [Client thread/INFO]: [CHAT] Lobby ? Подключение к арене bw-8-33 ...
+[23:38:03] [Client thread/INFO]: [CHAT] BedWars ? Agalex подключился к игре 15/16
+[23:38:04] [Client thread/INFO]: [CHAT] BedWars ? lownslown подключился к игре 16/16
+[23:38:05] [Client thread/INFO]: [CHAT] BedWars ? До старта осталось 15 секунд...
+[23:38:07] [Client thread/INFO]: [CHAT] BedWars ? FeNiX4010 покинул игру 15/16
+[23:38:08] [Client thread/INFO]: [CHAT] evgen123E ? ты пизд
+[23:38:09] [Client thread/INFO]: [CHAT] BedWars ? antolianZxZx подключился к игре 16/16
+[23:38:10] [Client thread/INFO]: [CHAT] evgen123E ? ты пизда
+[23:38:10] [Client thread/INFO]: [CHAT] BedWars ? До старта осталось 10 секунд...
+[23:38:15] [Client thread/INFO]: [CHAT] BedWars ? До старта осталось 5 секунд...
+[23:38:16] [Client thread/INFO]: [CHAT] BedWars ? До старта осталось 4 секунд...
+[23:38:17] [Client thread/INFO]: [CHAT] BedWars ? До старта осталось 3 секунд...
+[23:38:18] [Client thread/INFO]: [CHAT] BedWars ? До старта осталось 2 секунд...
+[23:38:19] [Client thread/INFO]: [CHAT] BedWars ? До старта осталось 1 секунд...
+[23:38:20] [Client thread/INFO]: [CHAT] BedWars ? lownslown покинул игру 15/16
+[23:38:20] [Client thread/INFO]: [CHAT] ???????????????????????????????????????????????????????????????????????
+[23:38:20] [Client thread/INFO]: [CHAT]   
+[23:38:20] [Client thread/INFO]: [CHAT]                            КРОВАТНЫЕ ВОЙНЫ
+[23:38:20] [Client thread/INFO]: [CHAT]                             
+[23:38:20] [Client thread/INFO]: [CHAT]                 Защити свою кровать и сломай чужие кровати.
+[23:38:20] [Client thread/INFO]: [CHAT]           Покупай предметы и улучшения для своей команды за
+[23:38:20] [Client thread/INFO]: [CHAT]         Железо, Золото, Алмазы и Изумруды чтобы стать несокрушимыми!
+[23:38:20] [Client thread/INFO]: [CHAT]                  Победит только одна, сильнейшая команда!
+[23:38:20] [Client thread/INFO]: [CHAT]                      Вы играете на mc.MineBlaze.ru
+[23:38:20] [Client thread/INFO]: [CHAT] ???????????????????????????????????????????????????????????????????????
+[23:38:21] [Client thread/INFO]: [CHAT] \n ? Только СЕГОДНЯ, мы увеличили? шансы +100% в кейсах.\n ? Покупая кейс, вы всегда окупитесь и будете рады.\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:38:23] [Client thread/INFO]: [CHAT] BedWars ? xVladX покинул игру
+[23:38:41] [Client thread/INFO]: [CHAT] \n ? С 10.04.2020 скидки на 1 день\n ? Увеличены до завтрашнего дня!\n ? Успейте купить донат по дешевым ценам\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:38:45] [Client thread/INFO]: [CHAT] BedWars ? cocoxoxororokk упал в бездну.
+[23:38:47] [Client thread/INFO]: [CHAT] BedWars ? MisterDiiV упал в бездну.
+[23:39:01] [Client thread/INFO]: [CHAT] \n ? На сервере активировали золотой час!\n ? Теперь шансы в кейсах увеличены? в 2 раза!\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:39:05] [Client thread/INFO]: [CHAT] [Всем] MisterDiiV ?  блин у меня даун в команде
+[23:39:17] [Client thread/INFO]: [CHAT] [Всем] evgen123E ?  УМЕНЯ ТОЖЕ MisterDiiV
+[23:39:21] [Client thread/INFO]: [CHAT] \n ? Хотите выиграть Айфон 11 PRO?\n ? Купите любой донат на нашем сайте\n ? И Вы станете участником розыгрыша\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:39:23] [Client thread/INFO]: [CHAT] [?] cocoxoxororokk ? иеди нахуе
+[23:39:25] [Client thread/INFO]: [CHAT] [Всем] MisterDiiV ?  а у меня EeviBlue
+[23:39:30] [Client thread/INFO]: [CHAT] [Всем] MisterDiiV ?  а у меня evgen123E
+[23:39:30] [Client thread/INFO]: [CHAT] [?] cocoxoxororokk ? иеди нахуй
+[23:39:32] [Client thread/INFO]: [CHAT] BedWars ? evgen123E упал в бездну.
+[23:39:33] [Client thread/INFO]: [CHAT] [Всем] MisterDiiV ?  как же так
+[23:39:40] [Client thread/INFO]: [CHAT] BedWars ? Vunu_Pux23 упал в бездну.
+[23:39:41] [Client thread/INFO]: [CHAT] \n ? Помогите нам улучшить сервер\n ? Ответьте на несколько вопросов www.MineBlaze.ru/feedback \n
+[23:39:42] [Client thread/INFO]: [CHAT] BedWars ? Subbbaka был убит игроком OMELEXE234.
+[23:39:45] [Client thread/INFO]: [CHAT] BedWars ? Pro100Kseniya упал в бездну.
+[23:39:45] [Client thread/INFO]: [CHAT] BedWars ? OMELEXE234 был убит игроком vladish.
+[23:40:00] [Client thread/INFO]: [CHAT] BedWars ? DanGerOus_666 был убит игроком EeviBlue.
+[23:40:01] [Client thread/INFO]: [CHAT] \n?????????????????????????? \n\n? Только на этой неделе скидка 25% на ВСЕ товары!\n? Используй промокод: sale25\n \n? Сайт для совершения покупок: www.mineblaze.ru \n\n??????????????????????????\n \n
+[23:40:01] [Client thread/INFO]: [CHAT] \n?????????????????????????? \n\n? Только на этой неделе скидка 25% на ВСЕ товары!\n? Используй промокод: sale25\n \n? Сайт для совершения покупок: www.mineblaze.ru \n\n??????????????????????????\n
+[23:40:04] [Client thread/INFO]: [CHAT] BedWars ? amca16 упал в бездну.
+[23:40:06] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Дубовые доски x16.
+[23:40:08] [Client thread/INFO]: [CHAT] [Всем] DanGerOus_666 ? Ч
+[23:40:20] [Client thread/INFO]: [CHAT] BedWars ? EeviBlue был скинут в бездну игроком Pyska1.
+[23:40:21] [Client thread/INFO]: [CHAT] \n ? Не знаете какие возможности есть у доната?\n ? Так напишите команду /donate и развлекайтесь\n ? Покупка доната на сайте: www.mineblaze.ru \n
+[23:40:21] [Client thread/INFO]: [CHAT] [Всем] DanGerOus_666 ? ЧИТАК
+[23:40:25] [Client thread/INFO]: [CHAT] BedWars ? Pro100Kseniya был скинут в бездну игроком vladish.
+[23:40:29] [Client thread/INFO]: [CHAT] [Всем] Pro100Kseniya ?  ТВАРЬ
+[23:40:32] [Client thread/INFO]: [CHAT] BedWars ? MisterDiiV был убит игроком Vunu_Pux23.
+[23:40:35] [Client thread/INFO]: [CHAT] BedWars ? vladish был убит игроком evgen123E.
+[23:40:36] [Client thread/INFO]: [CHAT] BedWars ? evgen123E был убит игроком vladish.
+[23:40:40] [Client thread/INFO]: [CHAT] BedWars ? OMELEXE234 разрушил кровать команды Желтые!
+[23:40:41] [Client thread/INFO]: [CHAT] \n ? Хотите купить донат, но сомневаетесь?\n ? Не бойтесь, мы не обманываем. Покупайте!\n ? Покупка доната на сайте: www.mineblaze.ru \n
+[23:40:45] [Client thread/INFO]: [CHAT] BedWars ? Subbbaka был убит игроком OMELEXE234.
+[23:40:54] [Client thread/INFO]: [CHAT] BedWars ? OMELEXE234 был убит игроком vladish.
+[23:41:01] [Client thread/INFO]: [CHAT] \n ? Хотите получить все команды сервера и опку?\n ? Донат [Блейз] за 9475 479 рублей может всё!\n ? Покупка доната на сайте: www.mineblaze.ru \n
+[23:41:07] [Client thread/INFO]: [CHAT] BedWars ? MisterDiiV был скинут в бездну игроком DanGerOus_666.
+[23:41:09] [Client thread/INFO]: [CHAT] [Всем] Pro100Kseniya ?  ТВАРЬ
+[23:41:09] [Client thread/INFO]: [CHAT] BedWars ? Pro100Kseniya был скинут в бездну игроком Vunu_Pux23.
+[23:41:21] [Client thread/INFO]: [CHAT] \n ? Вас забанил какой-то злой донатер?\n ? Купите разбан на сайте www.mineblaze.ru (19 рублей)\n
+[23:41:26] [Client thread/INFO]: [CHAT] BedWars ? antolianZxZx был скинут в бездну игроком MisterDiiV.
+[23:41:38] [Client thread/INFO]: [CHAT] BedWars ? Pyska1 был убит игроком Agalex.
+[23:41:41] [Client thread/INFO]: [CHAT] \n ? Хотите быть первым вкурсе всех новостей сервера?\n ? Подпишитесь и вступайте в наше сообщество!\n ? Кликните, чтобы перейти - vk.com/mine_blaze \n
+[23:41:49] [Client thread/INFO]: [CHAT] BedWars ? cocoxoxororokk был убит игроком evgen123E.
+[23:42:01] [Client thread/INFO]: [CHAT] \n ? Только СЕГОДНЯ на сервере идут скидки 90%\n ? Например, донат [Помощник] за 5475 219 рублей\n ? имеет крутую возможность нано-брони /guard\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:42:01] [Client thread/INFO]: [CHAT] BedWars ? DanGerOus_666 разрушил кровать команды Синие!
+[23:42:09] [Client thread/INFO]: [CHAT] BedWars ? amca16 покинул игру
+[23:42:09] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок amca16 кикнут по подозрению в использовании читов.
+[23:42:12] [Client thread/INFO]: [CHAT] BedWars ? Pro100Kseniya упал в бездну.
+[23:42:18] [Client thread/INFO]: [CHAT] BedWars ? OMELEXE234 разрушил кровать команды Зеленые!
+[23:42:21] [Client thread/INFO]: [CHAT] BedWars ? cocoxoxororokk был скинут в бездну игроком DanGerOus_666.
+[23:42:21] [Client thread/INFO]: [CHAT] \n ? Хотите изменять территорию с помощью топорика? //set\n ? Это доступно [Император] за 3725 149 рублей и выше.\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:42:28] [Client thread/INFO]: [CHAT] BedWars ? Pro100Kseniya был убит игроком OMELEXE234.
+[23:42:28] [Client thread/INFO]: [CHAT] BedWars ? EeviBlue был убит игроком DanGerOus_666.
+[23:42:41] [Client thread/INFO]: [CHAT] \n ? Только СЕГОДНЯ, мы увеличили? шансы +100% в кейсах.\n ? Покупая кейс, вы всегда окупитесь и будете рады.\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:42:58] [Client thread/INFO]: [CHAT] BedWars ? DanGerOus_666 упал в бездну.
+[23:43:01] [Client thread/INFO]: [CHAT] \n ? С 10.04.2020 скидки на 1 день\n ? Увеличены до завтрашнего дня!\n ? Успейте купить донат по дешевым ценам\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:43:21] [Client thread/INFO]: [CHAT] BedWars ? Генераторы алмазов прокачаны до уровня I.
+[23:43:21] [Client thread/INFO]: [CHAT] \n ? На сервере активировали золотой час!\n ? Теперь шансы в кейсах увеличены? в 2 раза!\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:43:26] [Client thread/INFO]: [CHAT] BedWars ? evgen123E был убит игроком Pyska1.
+[23:43:35] [Client thread/INFO]: [CHAT] BedWars ? MisterDiiV покинул игру
+[23:43:35] [Client thread/INFO]: [CHAT] BedWars ? Команда Зеленые уничтожена!
+[23:43:41] [Client thread/INFO]: [CHAT] \n ? Хотите выиграть Айфон 11 PRO?\n ? Купите любой донат на нашем сайте\n ? И Вы станете участником розыгрыша\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:43:53] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Железная броня x1.
+[23:44:01] [Client thread/INFO]: [CHAT] \n ? Помогите нам улучшить сервер\n ? Ответьте на несколько вопросов www.MineBlaze.ru/feedback \n
+[23:44:15] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Деревянная кирка x1.
+[23:44:16] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Каменная кирка x1.
+[23:44:21] [Client thread/INFO]: [CHAT] \n?????????????????????????? \n\n? Только на этой неделе скидка 25% на ВСЕ товары!\n? Используй промокод: sale25\n \n? Сайт для совершения покупок: www.mineblaze.ru \n\n??????????????????????????\n \n
+[23:44:24] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Алмазный меч x1.
+[23:44:25] [Client thread/INFO]: [CHAT] BedWars ? OMELEXE234 разрушил кровать команды Красные!
+[23:44:30] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Синяя шерсть x16.
+[23:44:31] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Синяя шерсть x16.
+[23:44:31] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Синяя шерсть x16.
+[23:44:31] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Синяя шерсть x16.
+[23:44:31] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Синяя шерсть x16.
+[23:44:32] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Синяя шерсть x16.
+[23:44:34] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Синяя шерсть x16.
+[23:44:34] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Синяя шерсть x16.
+[23:44:41] [Client thread/INFO]: [CHAT] \n ? Не знаете какие возможности есть у доната?\n ? Так напишите команду /donate и развлекайтесь\n ? Покупка доната на сайте: www.mineblaze.ru \n
+[23:44:55] [Client thread/INFO]: [CHAT] [Всем] OMELEXE234 ? heheh
+[23:44:59] [Client thread/INFO]: [CHAT] [Всем] DanGerOus_666 ? читак
+[23:45:01] [Client thread/INFO]: [CHAT] \n ? Хотите купить донат, но сомневаетесь?\n ? Не бойтесь, мы не обманываем. Покупайте!\n ? Покупка доната на сайте: www.mineblaze.ru \n
+[23:45:01] [Client thread/INFO]: [CHAT] \n?????????????????????????? \n\n? Только на этой неделе скидка 25% на ВСЕ товары!\n? Используй промокод: sale25\n \n? Сайт для совершения покупок: www.mineblaze.ru \n\n??????????????????????????\n
+[23:45:02] [Client thread/INFO]: [CHAT] [Всем] DanGerOus_666 ? ъаъаъаааа
+[23:45:06] [Client thread/INFO]: [CHAT] BedWars ? vladish упал в бездну.
+[23:45:17] [Client thread/INFO]: [CHAT] BedWars ? У Вас недостаточно ресурсов!
+[23:45:20] [Client thread/INFO]: [CHAT] BedWars ? У Вас недостаточно ресурсов!
+[23:45:21] [Client thread/INFO]: [CHAT] \n ? Хотите получить все команды сервера и опку?\n ? Донат [Блейз] за 9475 479 рублей может всё!\n ? Покупка доната на сайте: www.mineblaze.ru \n
+[23:45:36] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Огненный шар x1.
+[23:45:36] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Огненный шар x1.
+[23:45:37] [Client thread/INFO]: [CHAT] BedWars ? Вы купили Огненный шар x1.
+[23:45:41] [Client thread/INFO]: [CHAT] \n ? Вас забанил какой-то злой донатер?\n ? Купите разбан на сайте www.mineblaze.ru (19 рублей)\n
+[23:45:51] [Client thread/INFO]: [CHAT] BedWars ? Генераторы алмазов прокачаны до уровня II.
+[23:46:01] [Client thread/INFO]: [CHAT] \n ? Хотите быть первым вкурсе всех новостей сервера?\n ? Подпишитесь и вступайте в наше сообщество!\n ? Кликните, чтобы перейти - vk.com/mine_blaze \n
+[23:46:21] [Client thread/INFO]: [CHAT] \n ? Только СЕГОДНЯ на сервере идут скидки 90%\n ? Например, донат [Помощник] за 5475 219 рублей\n ? имеет крутую возможность нано-брони /guard\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:46:41] [Client thread/INFO]: [CHAT] \n ? Хотите изменять территорию с помощью топорика? //set\n ? Это доступно [Император] за 3725 149 рублей и выше.\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:47:01] [Client thread/INFO]: [CHAT] \n ? Только СЕГОДНЯ, мы увеличили? шансы +100% в кейсах.\n ? Покупая кейс, вы всегда окупитесь и будете рады.\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:47:21] [Client thread/INFO]: [CHAT] \n ? С 10.04.2020 скидки на 1 день\n ? Увеличены до завтрашнего дня!\n ? Успейте купить донат по дешевым ценам\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:47:23] [Client thread/INFO]: [CHAT] BedWars ? Agalex был убит игроком antolianZxZx.
+[23:47:41] [Client thread/INFO]: [CHAT] \n ? На сервере активировали золотой час!\n ? Теперь шансы в кейсах увеличены? в 2 раза!\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:47:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at jj.a(SourceFile:161) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:536) ~[1.12.2.jar:?]
+	at jj.a(SourceFile:152) ~[1.12.2.jar:?]
+	at jj$a.a(SourceFile:67) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[23:47:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at jj.a(SourceFile:161) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:536) ~[1.12.2.jar:?]
+	at jj.a(SourceFile:152) ~[1.12.2.jar:?]
+	at jj$a.a(SourceFile:67) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[23:47:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at jx.a(SourceFile:42) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:558) ~[1.12.2.jar:?]
+	at jx.a(SourceFile:38) ~[1.12.2.jar:?]
+	at jx.a(SourceFile:11) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[23:47:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at jj.a(SourceFile:161) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:536) ~[1.12.2.jar:?]
+	at jj.a(SourceFile:152) ~[1.12.2.jar:?]
+	at jj$c.a(SourceFile:101) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[23:47:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at jj.a(SourceFile:161) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:536) ~[1.12.2.jar:?]
+	at jj.a(SourceFile:152) ~[1.12.2.jar:?]
+	at jj$c.a(SourceFile:101) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[23:47:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at jj.a(SourceFile:161) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:536) ~[1.12.2.jar:?]
+	at jj.a(SourceFile:152) ~[1.12.2.jar:?]
+	at jj$c.a(SourceFile:101) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[23:47:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at jj.a(SourceFile:161) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:536) ~[1.12.2.jar:?]
+	at jj.a(SourceFile:152) ~[1.12.2.jar:?]
+	at jj$c.a(SourceFile:101) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[23:47:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at jj.a(SourceFile:161) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:536) ~[1.12.2.jar:?]
+	at jj.a(SourceFile:152) ~[1.12.2.jar:?]
+	at jj$c.a(SourceFile:101) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[23:47:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at jj.a(SourceFile:161) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:536) ~[1.12.2.jar:?]
+	at jj.a(SourceFile:152) ~[1.12.2.jar:?]
+	at jj$c.a(SourceFile:101) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[23:47:52] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at jj.a(SourceFile:161) ~[1.12.2.jar:?]
+	at brz.a(SourceFile:536) ~[1.12.2.jar:?]
+	at jj.a(SourceFile:152) ~[1.12.2.jar:?]
+	at jj$c.a(SourceFile:101) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[23:59:38] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:59:39] [Client thread/INFO]: [CHAT] 1
+[23:59:39] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[23:59:40] [Client thread/INFO]: [CHAT] Agalex joined the game
+[23:59:54] [Client thread/INFO]: Loaded 55 advancements
+[23:59:55] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin joined.
+[23:59:55] [Client thread/INFO]: [CHAT] admin joined the game

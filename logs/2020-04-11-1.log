@@ -1,0 +1,88 @@
+[18:50:28] [Client thread/INFO]: Setting user: sashka
+[18:50:29] [Client thread/INFO]: LWJGL Version: 2.9.4
+[18:50:29] [Client thread/INFO]: Reloading ResourceManager: Default
+[18:50:29] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:50:29] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[18:50:29] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:50:30] [Thread-3/INFO]: OpenAL initialized.
+[18:50:30] [Sound Library Loader/INFO]: Sound engine started
+[18:50:31] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[18:50:33] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[18:50:34] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[18:50:36] [Client thread/INFO]: Connecting to 172.20.10.7, 25565
+[18:50:37] [Client thread/INFO]: [CHAT] 1
+[18:50:37] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[18:50:37] [Client thread/INFO]: [CHAT] sashka joined the game
+[18:50:45] [Client thread/INFO]: [CHAT]  BattleRoyale >> You forced the game to start Main
+[18:50:45] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[18:50:50] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[18:50:55] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[18:50:56] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[18:50:57] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[18:50:58] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[18:50:59] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[18:51:01] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[18:51:01] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[18:51:02] [Client thread/WARN]: Received passengers for unknown entity
+[18:51:02] [Client thread/INFO]: [CHAT] sashka достиг цели «[Где твои крылья?]»
+[18:51:02] [Client thread/INFO]: Loaded 10 advancements
+[18:51:19] [Client thread/WARN]: Received passengers for unknown entity
+[18:52:23] [Client thread/WARN]: Received passengers for unknown entity
+[18:54:33] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka is dead.
+[18:54:33] [Client thread/INFO]: [CHAT] 
+[18:54:33] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[18:54:33] [Client thread/INFO]: [CHAT] 
+[18:54:33] [Client thread/INFO]: [CHAT]                admin won ! In arena Main
+[18:54:33] [Client thread/INFO]: [CHAT] 
+[18:54:33] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[18:54:33] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin unlocked first blood.
+[18:54:39] [Client thread/INFO]: Connecting to 172.20.10.7, 25565
+[18:54:54] [Client thread/INFO]: Connecting to 172.20.10.7, 25565
+[18:54:55] [Client thread/INFO]: [CHAT] 1
+[18:54:55] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[18:54:55] [Client thread/INFO]: [CHAT] sashka joined the game
+[18:54:55] [Client thread/INFO]: Loaded 10 advancements
+[18:54:57] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin joined.
+[18:54:57] [Client thread/INFO]: [CHAT] admin joined the game
+[18:55:06] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[18:55:06] [Client thread/INFO]: [CHAT]  BattleRoyale >> admin joined.
+[18:55:13] [Client thread/INFO]: [CHAT]  BattleRoyale >> You forced the game to start Main
+[18:55:13] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[18:55:17] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[18:55:22] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[18:55:23] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[18:55:24] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[18:55:25] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[18:55:26] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[18:55:27] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[18:55:27] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[18:57:32] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka is dead.
+[18:57:32] [Client thread/INFO]: [CHAT] 
+[18:57:32] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[18:57:32] [Client thread/INFO]: [CHAT] 
+[18:57:32] [Client thread/INFO]: [CHAT]                admin won ! In arena Main
+[18:57:32] [Client thread/INFO]: [CHAT] 
+[18:57:32] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[18:57:42] [Client thread/INFO]: Connecting to 172.20.10.7, 25565
+[18:57:45] [Client thread/INFO]: Connecting to 172.20.10.7, 25565
+[18:57:53] [Client thread/INFO]: [CHAT] 1
+[18:57:53] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[18:57:53] [Client thread/INFO]: [CHAT] sashka joined the game
+[18:57:53] [Client thread/INFO]: Loaded 10 advancements
+[18:58:06] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[18:59:13] [Client thread/INFO]: [CHAT]  BattleRoyale >> Arena cant be started.
+[18:59:13] [Client thread/INFO]: [CHAT]  BattleRoyale >> There is not enough players.
+[18:59:20] [Client thread/INFO]: [CHAT]  BattleRoyale >> Arena cant be started.
+[18:59:20] [Client thread/INFO]: [CHAT]  BattleRoyale >> There is not enough players.
+[19:00:14] [Client thread/INFO]: [CHAT]  BattleRoyale >> Arena cant be started.
+[19:00:14] [Client thread/INFO]: [CHAT]  BattleRoyale >> There is not enough players.
+[19:00:30] [Client thread/INFO]: Connecting to 172.20.10.7, 25565
+[19:00:31] [Client thread/INFO]: [CHAT] 1
+[19:00:31] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[19:00:31] [Client thread/INFO]: [CHAT] sashka joined the game
+[19:00:31] [Client thread/INFO]: Loaded 10 advancements
+[19:00:38] [Client thread/INFO]: Connecting to 172.20.10.7, 25565
+[19:00:39] [Client thread/INFO]: [CHAT] 1
+[19:00:39] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[19:00:39] [Client thread/INFO]: [CHAT] sashka joined the game
+[19:00:39] [Client thread/INFO]: Loaded 10 advancements

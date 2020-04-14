@@ -1,0 +1,1225 @@
+[22:38:28] [Client thread/INFO]: Setting user: sashka
+[22:38:29] [Client thread/INFO]: LWJGL Version: 2.9.4
+[22:38:29] [Client thread/INFO]: Reloading ResourceManager: Default
+[22:38:29] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:38:30] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[22:38:30] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:38:30] [Thread-3/INFO]: OpenAL initialized.
+[22:38:30] [Sound Library Loader/INFO]: Sound engine started
+[22:38:32] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[22:38:33] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[22:38:34] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[22:42:10] [Client thread/INFO]: Connecting to mc.dexland.su., 25565
+[22:42:12] [Client thread/INFO]: [CHAT] 
+[22:42:12] [Client thread/INFO]: [CHAT] \n\n\n\n§c§l? §fЗарегистрируйтесь §7§l› §c§l/reg §c[§lпароль§c]\n\n§c§l? §fДелайте сложный пароль §c(!)\n§c§l? §FОбязательно запишите этот пароль §c(!)\n\n
+[22:42:22] [Client thread/INFO]: [CHAT] \n\n\n\n§c§l? §fЗарегистрируйтесь §7§l› §c§l/reg §c[§lпароль§c]\n\n§c§l? §fДелайте сложный пароль §c(!)\n§c§l? §FОбязательно запишите этот пароль §c(!)\n\n
+[22:42:22] [Client thread/INFO]: [CHAT] §a§l› §fВы успешно зарегистрировались
+[22:42:25] [Client thread/INFO]: [CHAT] \n ? Помогите нам улучшить сервер\n ? Ответьте на несколько вопросов www.DexLand.ru/feedback \n
+[22:42:38] [Client thread/INFO]: [CHAT] › Вы присоединились к игре!
+[22:42:38] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:1666) ~[1.12.2.jar:?]
+	at kl.a(SourceFile:117) ~[1.12.2.jar:?]
+	at kl.a(SourceFile:13) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:42:38] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:1666) ~[1.12.2.jar:?]
+	at kl.a(SourceFile:117) ~[1.12.2.jar:?]
+	at kl.a(SourceFile:13) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:42:38] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown So[23:08:12] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:08:18] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:08:23] [Client thread/INFO]: [CHAT] 1
+[23:08:23] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[23:08:23] [Client thread/INFO]: [CHAT] sashka joined the game
+[23:08:23] [Client thread/INFO]: Loaded 55 advancements
+[23:08:37] [Client thread/INFO]: [CHAT] Выдано [Chest] * 1 игроку sashka
+[23:08:49] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:poison не существует
+[23:09:36] [Client thread/INFO]: [CHAT] Выдано [Water Bottle] * 1 игроку sashka
+[23:09:42] [Client thread/INFO]: Loaded 62 advancements
+[23:10:05] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:power не существует
+[23:10:13] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:powerpotion не существует
+[23:11:49] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:power_potion не существует
+[23:12:05] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:locked_chest не существует
+[23:12:32] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:95 не существует
+[23:13:01] [Client thread/INFO]: [CHAT] Выдано [Potion of Regeneration] * 1 игроку sashka
+[23:13:07] [Client thread/INFO]: [CHAT] Выдано [Potion of Swiftness] * 1 игроку sashka
+[23:13:20] [Client thread/INFO]: [CHAT] Выдано [Potion of Fire Resistance] * 1 игроку sashka
+[23:13:24] [Client thread/INFO]: [CHAT] Выдано [Potion of Poison] * 1 игроку sashka
+[23:16:05] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:exploding_potions не существует
+[23:16:10] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:exploding_potion не существует
+[23:16:39] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:splash не существует
+[23:16:52] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку sashka
+[23:16:58] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку sashka
+[23:17:22] [Client thread/INFO]: [CHAT] Введённое число (2) слишком большое, оно должно быть не больше 1
+[23:17:30] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку sashka
+[23:17:34] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку sashka
+[23:17:36] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку sashka
+[23:18:16] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:18:26] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:18:27] [Client thread/ERROR]: ThrownPotion entity 2500 has no item?!
+[23:18:37] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:18:42] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:18:46] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:18:48] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:18:50] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:18:51] [Client thread/ERROR]: ThrownPotion entity 2511 has no item?!
+[23:18:58] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:19:01] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:19:05] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:19:10] [Client thread/INFO]: [CHAT] [Agalex: Введённое число (0) слишком мало, оно должно быть не менее 1]
+[23:19:15] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Splash Water Bottle] * 1 игроку Agalex]
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:18] [Client thread/ERROR]: ThrownPotion entity 2525 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:20] [Client thread/ERROR]: ThrownPotion entity 2527 has no item?!
+[23:19:32] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Water Bottle] * 1 игроку Agalex]
+[23:19:39] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Potion of Regeneration] * 1 игроку Agalex]
+[23:19:46] [Client thread/INFO]: [CHAT] [Agalex: Выдано [Potion of Poison] * 1 игроку Agalex]
+[23:23:15] [Client thread/INFO]: [CHAT] [Agalex: Введённое число (441) слишком большое, оно должно быть не больше 1]
+[23:23:20] [Client thread/INFO]: [CHAT] [Agalex: Введённое число (441) слишком большое, оно должно быть не больше 1]
+[23:23:37] [Client thread/INFO]: [CHAT] [Agalex: Предмета с идентификатором minecraft:441 не существует]
+[23:23:44] [Client thread/INFO]: [CHAT] [Agalex: Предмета с идентификатором minecraft:id_441 не существует]
+[23:43:24] [Client thread/INFO]: [CHAT]  BattleRoyale >> Arena MAin does not exist
+[23:43:28] [Client thread/INFO]: [CHAT]  BattleRoyale >> You forced the game to start Main
+[23:43:28] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[23:43:33] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[23:43:38] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[23:43:39] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[23:43:40] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[23:43:41] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[23:43:42] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[23:43:43] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[23:43:43] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[23:44:32] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex is dead.
+[23:44:32] [Client thread/INFO]: [CHAT] 
+[23:44:32] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[23:44:32] [Client thread/INFO]: [CHAT] 
+[23:44:32] [Client thread/INFO]: [CHAT]                sashka won ! In arena Main
+[23:44:32] [Client thread/INFO]: [CHAT] 
+[23:44:32] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[23:44:32] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex left.
+[23:44:33] [Client thread/INFO]: [CHAT] Agalex left the game
+[23:44:33] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[23:44:42] [Client thread/INFO]: [CHAT] =================>> You win game and get 10 money <<=================
+t thread/INFO]: [CHAT] › Игрок InFrytik был убит игроком 13245768g!
+[22:42:57] [Client thread/INFO]: [CHAT] › У 13245768g серия из 3 убийств!
+[22:42:57] [Client thread/INFO]: [CHAT] › Вы открыли разблокировщик наборов!
+[22:42:57] [Client thread/INFO]: [CHAT] › Игрок strikerfire03 умер от рук игроком Sweeper!
+[22:42:58] [Client thread/INFO]: [CHAT] › Игрок TexHo_CamyPaU был разорван на кусочки игроком _Anton2018_BRO_!
+[22:42:58] [Client thread/INFO]: [CHAT] › У _Anton2018_BRO_ серия из 5 убийств!
+[22:42:59] [Client thread/WARN]: Received passengers for unknown entity
+[22:42:59] [Client thread/INFO]: [CHAT] › Игрок SayonaraBoy был убит игроком Bomba9000!
+[22:43:00] [Client thread/WARN]: Received passengers for unknown entity
+[22:43:01] [Client thread/INFO]: [CHAT] › Игрок sholopaie умер от рук игроком roms_pidor1!
+[22:43:03] [Client thread/INFO]: [CHAT] › Вы выиграли комплект Fisherman, Поздравляем!
+[22:43:03] [Client thread/INFO]: [CHAT] › Игрок tanchik67 умер от рук игроком Loki0143!
+[22:43:03] [Client thread/INFO]: [CHAT] [Делюкс] SoldatYT  ? z dpzk
+[22:43:03] [Client thread/WARN]: Received passengers for unknown entity
+[22:43:04] [Client thread/INFO]: [CHAT] › Игрок ArtemK6K был разорван на кусочки игроком RainbowUndead!
+[22:43:05] [Client thread/INFO]: [CHAT] › Игрок TheBallerYo был разорван на кусочки игроком KOT_2008!
+[22:43:05] [Client thread/INFO]: [CHAT] \n ? Хочешь купить донат, но сомневаешься?\n ? Не бойся, мы не обманываем. Покупай!\n ? Покупка доната на сайте: www.dexland.ru \n
+[22:43:06] [Client thread/INFO]: [CHAT] › Игрок KOT_2008 был разорван на кусочки игроком Romto4kaYT!
+[22:43:06] [Client thread/INFO]: [CHAT] › Romto4kaYT повысил ранг до PrO
+[22:43:06] [Client thread/INFO]: [CHAT] [Гл.Админ] destik36  ? без читов зассал Slubrokk_FANTOM
+[22:43:06] [Client thread/WARN]: Received passengers for unknown entity
+[22:43:07] [Client thread/INFO]: [CHAT] › Игрок vysna был разорван на кусочки игроком serga221221!
+[22:43:07] [Client thread/INFO]: [CHAT] › Игрок lex_serganten был убит игроком Лол_Кек_Чибурек!
+[22:43:07] [Client thread/INFO]: [CHAT] › У Лол_Кек_Чибурек серия из 3 убийств!
+[22:43:07] [Client thread/INFO]: [CHAT] › Игрок jitfr был разорван на кусочки игроком AsarX!
+[22:43:07] [Client thread/INFO]: [CHAT] [Делюкс] SoldatYT  ? я взял майнера
+[22:43:08] [Client thread/INFO]: [CHAT] › Игрок Kovrik777 был разорван на кусочки игроком serga221221!
+[22:43:08] [Client thread/INFO]: [CHAT] › Игрок Loki0143 умер от рук игроком Bomba9000!
+[22:43:08] [Client thread/INFO]: [CHAT] › Игрок Bomba9000 был убит игроком MoRnI!
+[22:43:08] [Client thread/INFO]: [CHAT] › Игрок Cool_Boy был убит игроком _Anton2018_BRO_!
+[22:43:08] [Client thread/INFO]: [CHAT] › _Anton2018_BRO_ повысил ранг до Gladiator
+[22:43:09] [Client thread/WARN]: Received passengers for unknown entity
+[22:43:09] [Client thread/INFO]: [CHAT] [Делюкс] SoldatYT  ? мне похуй
+[22:43:10] [Client thread/INFO]: [CHAT] › Вы открыли разблокировщик наборов!
+[22:43:12] [Client thread/INFO]: [CHAT] › Игрок Romto4kaYT умер от рук игроком Joker12!
+[22:43:13] [Client thread/INFO]: [CHAT] › Игрок Evi1 умер от рук игроком Sweeper!
+[22:43:14] [Client thread/INFO]: [CHAT] › Вы выиграли комплект Viper, Поздравляем!
+[22:43:15] [Client thread/INFO]: [CHAT] › Игрок samirush был разорван на кусочки игроком Accidenty!
+[22:43:16] [Client thread/INFO]: [CHAT] › Игрок chesterly2112 умер от рук игроком destik36!
+[22:43:19] [Client thread/INFO]: [CHAT] [Делюкс] SoldatYT  ? я тебя блять ни разу не убил
+[22:43:19] [Client thread/INFO]: [CHAT] › Игрок foltik был разорван на кусочки игроком AsarX!
+[22:43:19] [Client thread/INFO]: [CHAT] › Игрок Boat555123 умер от рук игроком roms_pidor1!
+[22:43:19] [Client thread/INFO]: [CHAT] › roms_pidor1 повысил ранг до PrO
+[22:43:19] [Client thread/INFO]: [CHAT] › Игрок CheeseGames умер от рук игроком jvjmbi!
+[22:43:20] [Client thread/INFO]: [CHAT] › Игрок LeLe0 умер от рук игроком Loki0143!
+[22:43:20] [Client thread/INFO]: [CHAT] › Игрок strikerfire03 умер от рук игроком Proper_Twelve!
+[22:43:21] [Client thread/INFO]: [CHAT] › Игрок jvjmbi был разорван на кусочки игроком 111IKLEYD11!
+[22:43:21] [Client thread/INFO]: [CHAT] › У 111IKLEYD11 серия из 5 убийств!
+[22:43:21] [Client thread/INFO]: [CHAT] › Игрок сва был убит игроком kondrallesa!
+[22:43:21] [Client thread/INFO]: [CHAT] › У kondrallesa серия из 10 убийств!
+[22:43:22] [Client thread/INFO]: [CHAT] › Игрок lligzlg был убит игроком Holy_Jesus!
+[22:43:22] [Client thread/INFO]: [CHAT] › У Holy_Jesus серия из 3 убийств!
+[22:43:23] [Client thread/INFO]: [CHAT] [Модер] fewx  ? cerf
+[22:43:23] [Client thread/INFO]: [CHAT] › Игрок AsarX был разорван на кусочки игроком Evi1!
+[22:43:23] [Client thread/INFO]: [CHAT] › Игрок smorodinka был убит игроком roms_pidor1!
+[22:43:23] [Client thread/INFO]: [CHAT] › У roms_pidor1 серия из 3 убийств!
+[22:43:24] [Client thread/INFO]: [CHAT] › Игрок rocketa был убит игроком _Anton2018_BRO_!
+[22:43:24] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок Proper_Twelve кикнут по подозрению в использовании читов.
+[22:43:25] [Client thread/INFO]: [CHAT] [Модер] fewx  ? сука
+[22:43:25] [Client thread/INFO]: [CHAT] › Игрок cosmolord был разорван на кусочки игроком Gr1P_MyhOmoR!
+[22:43:25] [Client thread/INFO]: [CHAT] \n ? Не знаешь какие возможности есть у доната?\n ? Так напиши команду /donate и развлекайся\n ? Покупка доната на сайте: www.dexland.ru \n
+[22:43:26] [Client thread/INFO]: [CHAT] › Игрок serga221221 умер от рук игроком Holy_Jesus!
+[22:43:27] [Client thread/INFO]: [CHAT] › Игрок 13245768g умер от рук игроком Loki0143!
+[22:43:27] [Client thread/INFO]: [CHAT] › Выбран набор: Viper
+[22:43:28] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок NeNiFr кикнут по подозрению в использовании читов.
+[22:43:28] [Client thread/INFO]: [CHAT] › Игрок Evi1 умер от рук игроком samirush!
+[22:43:29] [Client thread/INFO]: [CHAT] › Игрок __Liryz_ был убит игроком Aviro_F!
+[22:43:29] [Client thread/INFO]: [CHAT] › Игрок Loki0143 был убит игроком xSanCasVer_!
+[22:43:29] [Client thread/INFO]: [CHAT] [Гл.Админ] destik36  ? без читов зассал Slubrokk_FANTOM?
+[22:43:31] [Client thread/INFO]: [CHAT] › Игрок omone был убит игроком Gr1P_MyhOmoR!
+[22:43:31] [Client thread/INFO]: [CHAT] › Игрок xSanCasVer_ был разорван на кусочки игроком Gellion!
+[22:43:32] [Client thread/INFO]: [CHAT] › Игрок ArtemK6K был разорван на кусочки игроком Gr1P_MyhOmoR!
+[22:43:32] [Client thread/INFO]: [CHAT] › У Gr1P_MyhOmoR серия из 3 убийств!
+[22:43:32] [Client thread/INFO]: [CHAT] › Игрок jitfr умер от рук игроком Ruduga7!
+[22:43:32] [Client thread/INFO]: [CHAT] › У Ruduga7 серия из 3 убийств!
+[22:43:34] [Client thread/INFO]: [CHAT] › Игрок foltik был убит игроком vysna!
+[22:43:34] [Client thread/INFO]: [CHAT] › Игрок Bomba9000 был убит игроком vysna!
+[22:43:34] [Client thread/INFO]: [CHAT] › Игрок chesterly2112 был убит игроком destik36!
+[22:43:34] [Client thread/INFO]: [CHAT] › У destik36 серия из 3 убийств!
+[22:43:35] [Client thread/INFO]: [CHAT] › Игрок Lyam был разорван на кусочки игроком Countine!
+[22:43:36] [Client thread/INFO]: [CHAT] › Игрок strikerfire03 был убит игроком Romto4kaYT!
+[22:43:36] [Client thread/INFO]: [CHAT] › Игрок Paneola00 был разорван на кусочки игроком tamagochi!
+[22:43:36] [Client thread/INFO]: [CHAT] › У tamagochi серия из 5 убийств!
+[22:43:36] [Client thread/INFO]: [CHAT] › fewx не флайхакер! Это часть его комплекта!
+[22:43:40] [Client thread/INFO]: [CHAT] › Игрок lex_serganten был разорван на кусочки игроком Лол_Кек_Чибурек!
+[22:43:40] [Client thread/INFO]: [CHAT] [Делюкс] SoldatYT  ? я даже попасть по тебе не могу
+[22:43:41] [Client thread/INFO]: [CHAT] › Игрок Kovrik777 умер от рук игроком TexHo_CamyPaU!
+[22:43:42] [Client thread/INFO]: [CHAT] › Игрок samirush умер от рук игроком AsarX!
+[22:43:42] [Client thread/INFO]: [CHAT] › AsarX повысил ранг до PrO
+[22:43:44] [Client thread/INFO]: [CHAT] › Игрок AsarX был разорван на кусочки игроком Proper_Twelve!
+[22:43:45] [Client thread/INFO]: [CHAT] \n ? Все донат-привилегии и кейсы\n ? Покупаются на все сервера,\n ? а также выдаются навсегда\n\n ? Сайт для совершения покупок: www.dexland.ru \n
+[22:43:46] [Client thread/INFO]: [CHAT] › Gellion не флайхакер! Это часть его комплекта!
+[22:43:46] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок Proper_Twelve кикнут по подозрению в использовании читов.
+[22:43:46] [Client thread/INFO]: [CHAT] › Игрок CheeseGames был убит игроком roms_pidor1!
+[22:43:46] [Client thread/INFO]: [CHAT] › Игрок Gr1P_MyhOmoR был разорван на кусочки игроком cosmolord!
+[22:43:47] [Client thread/INFO]: [CHAT] › Игрок omone был разорван на кусочки игроком Gellion!
+[22:43:47] [Client thread/INFO]: [CHAT] › У Gellion серия из 3 убийств!
+[22:43:48] [Client thread/INFO]: [CHAT] › Игрок MoRnI был убит игроком Sweeper!
+[22:43:48] [Client thread/INFO]: [CHAT] › У Sweeper серия из 3 убийств!
+[22:43:48] [Client thread/INFO]: [CHAT] › Игрок SayonaraBoy был разорван на кусочки игроком yura3000!
+[22:43:49] [Client thread/INFO]: [CHAT] › Игрок terariin был убит игроком clatser!
+[22:43:49] [Client thread/INFO]: [CHAT] [Игрок] Slubrokk_FANTOM  ? sotp
+[22:43:49] [Client thread/INFO]: [CHAT] › Игрок CuP4Ik умер от рук игроком TexHo_CamyPaU!
+[22:43:49] [Client thread/INFO]: [CHAT] › Игрок smorodinka умер от рук игроком serga221221!
+[22:43:50] [Client thread/INFO]: [CHAT] › Игрок Lukario3 был разорван на кусочки игроком _Anton2018_BRO_!
+[22:43:50] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок _ХЕН_ПОЦАН_ кикнут по подозрению в использовании читов.
+[22:43:51] [Client thread/INFO]: [CHAT] › Игрок zdfhg был убит игроком serga221221!
+[22:43:51] [Client thread/INFO]: [CHAT] [Игрок] Slubrokk_FANTOM  ? stop
+[22:43:52] [Client thread/INFO]: [CHAT] › Игрок 13245768g умер от рук игроком Holy_Jesus!
+[22:43:52] [Client thread/INFO]: [CHAT] › У Holy_Jesus серия из 5 убийств!
+[22:43:52] [Client thread/INFO]: [CHAT] › Игрок serga221221 был разорван на кусочки игроком jvjmbi!
+[22:43:53] [Client thread/INFO]: [CHAT] › Игрок Evi1 был убит игроком ыфыл!
+[22:43:54] [Client thread/INFO]: [CHAT] [Гл.Админ] destik36  ? без читов зассал Slubrokk_FANTOM?
+[22:43:54] [Client thread/INFO]: [CHAT] › Игрок Paneola00 был убит игроком Joker12!
+[22:43:54] [Client thread/INFO]: [CHAT] › Игрок NeNiFr был разорван на кусочки игроком SiDoKySs!
+[22:43:55] [Client thread/INFO]: [CHAT] › Игрок Lyam был убит игроком Aviro_F!
+[22:43:55] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок _Sheymus_ кикнут по подозрению в использовании читов.
+[22:43:56] [Client thread/INFO]: [CHAT] › Игрок jitfr был разорван на кусочки игроком sasha1658e3!
+[22:43:56] [Client thread/INFO]: [CHAT] › Игрок Slubrokk_FANTOM был разорван на кусочки игроком amazonka_1991!
+[22:43:57] [Client thread/INFO]: [CHAT] › Игрок vysna был разорван на кусочки игроком Holy_Jesus!
+[22:43:59] [Client thread/INFO]: [CHAT] › Игрок samirush был разорван на кусочки игроком xSanCasVer_!
+[22:43:59] [Client thread/INFO]: [CHAT] › Игрок foltik был разорван на кусочки игроком kondrallesa!
+[22:44:00] [Client thread/INFO]: [CHAT] › Игрок ArtemK6K умер от рук игроком ыфыл!
+[22:44:02] [Client thread/INFO]: [CHAT] › clatser не флайхакер! Это часть его комплекта!
+[22:44:03] [Client thread/INFO]: [CHAT] › Игрок Clover11134 был разорван на кусочки игроком xSanCasVer_!
+[22:44:04] [Client thread/INFO]: [CHAT] › Игрок zdfhg был разорван на кусочки игроком serga221221!
+[22:44:05] [Client thread/INFO]: [CHAT] › Игрок serga221221 умер от рук игроком rocketa!
+[22:44:05] [Client thread/INFO]: [CHAT] › Игрок sholopaie был разорван на кусочки игроком kondrallesa!
+[22:44:05] [Client thread/INFO]: [CHAT] \n ? Нужен креатив с бессмертием и бесконечными ресурсами?\n ? Но ты не готов тратить много денег?\n ? Тогда купи донат [Креатив] всего за 15 руб!\n\n ? Покупай на сайте: www.dexland.ru \n
+[22:44:06] [Client thread/INFO]: [CHAT] › Игрок rocketa был убит игроком 111IKLEYD11!
+[22:44:08] [Client thread/INFO]: [CHAT] › Игрок __Liryz_ умер от рук игроком clatser!
+[22:44:08] [Client thread/INFO]: [CHAT] › Игрок Hoki02 был разорван на кусочки игроком Ruduga7!
+[22:44:09] [Client thread/INFO]: [CHAT] › Игрок 13245768g был убит игроком LeLe0!
+[22:44:10] [Client thread/INFO]: [CHAT] › Игрок tanchik67 умер от рук игроком xSanCasVer_!
+[22:44:10] [Client thread/INFO]: [CHAT] › У xSanCasVer_ серия из 3 убийств!
+[22:44:11] [Client thread/INFO]: [CHAT] › Игрок SayonaraBoy умер от рук игроком Accidenty!
+[22:44:11] [Client thread/INFO]: [CHAT] [Игрок] Lyam  ? как вернутся в меню?
+[22:44:12] [Client thread/INFO]: [CHAT] › Игрок OverShowTY11 умер от рук игроком Nexonn!
+[22:44:13] [Client thread/INFO]: [CHAT] › Игрок Paneola00 был убит игроком Aviro_F!
+[22:44:14] [Client thread/INFO]: [CHAT] › Игрок MoRnI умер от рук игроком sasha1658e3!
+[22:44:14] [Client thread/INFO]: [CHAT] › Aviro_F не флайхакер! Это часть его комплекта!
+[22:44:14] [Client thread/INFO]: [CHAT] › Игрок Gr1P_MyhOmoR умер от рук игроком Gellion!
+[22:44:15] [Client thread/INFO]: [CHAT] › Игрок terariin был разорван на кусочки игроком serga221221!
+[22:44:15] [Client thread/INFO]: [CHAT] › Игрок fewx умер от рук игроком SoldatYT!
+[22:44:16] [Client thread/INFO]: [CHAT] › Игрок chesterly2112 был разорван на кусочки игроком jvjmbi!
+[22:44:17] [Client thread/WARN]: Received passengers for unknown entity
+[22:44:18] [Client thread/WARN]: Received passengers for unknown entity
+[22:44:18] [Client thread/INFO]: [CHAT] [Делюкс] SoldatYT  ? спаился
+[22:44:18] [Client thread/INFO]: [CHAT] › Игрок zdfhg был разорван на кусочки игроком Accidenty!
+[22:44:18] [Client thread/INFO]: [CHAT] › У Accidenty серия из 3 убийств!
+[22:44:18] [Client thread/INFO]: [CHAT] › Игрок AsarX был убит игроком NeNiFr!
+[22:44:19] [Client thread/INFO]: [CHAT] › Игрок samirush умер от рук игроком xSanCasVer_!
+[22:44:21] [Client thread/INFO]: [CHAT] [Делюкс] SoldatYT  ? с ричаим
+[22:44:21] [Client thread/WARN]: Received passengers for unknown entity
+[22:44:22] [Client thread/INFO]: [CHAT] [Модер] fewx  ? пизда те
+[22:44:22] [Client thread/WARN]: Received passengers for unknown entity
+[22:44:22] [Client thread/INFO]: [CHAT] › Игрок 13245768g умер от рук игроком destik36!
+[22:44:23] [Client thread/INFO]: [CHAT] › Игрок yura3000 был разорван на кусочки игроком _Anton2018_BRO_!
+[22:44:24] [Client thread/INFO]: [CHAT] › 111IKLEYD11 не флайхакер! Это часть его комплекта!
+[22:44:24] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок Proper_Twelve кикнут по подозрению в использовании читов.
+[22:44:24] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок Proper_Twelve кикнут по подозрению в использовании читов.
+[22:44:25] [Client thread/INFO]: [CHAT] › Игрок omone умер от рук игроком ыфыл!
+[22:44:25] [Client thread/INFO]: [CHAT] › У ыфыл серия из 3 убийств!
+[22:44:25] [Client thread/INFO]: [CHAT] \n ? Хотел бы снимать антигрифер шоу?\n ? У донат привилегии [Опка] есть все для этого!\n ? Купи всего за 279 руб на сайте: www.dexland.ru \n
+[22:44:26] [Client thread/INFO]: [CHAT] › Игрок Paneola00 умер от рук игроком xSanCasVer_!
+[22:44:26] [Client thread/INFO]: [CHAT] › У xSanCasVer_ серия из 5 убийств!
+[22:44:26] [Client thread/INFO]: [CHAT] › Игрок SayonaraBoy был разорван на кусочки игроком Accidenty!
+[22:44:26] [Client thread/INFO]: [CHAT] › Игрок Lukario3 умер от рук игроком sasha1658e3!
+[22:44:26] [Client thread/INFO]: [CHAT] › У sasha1658e3 серия из 3 убийств!
+[22:44:27] [Client thread/INFO]: [CHAT] › Игрок Loki0143 умер от рук игроком tamagochi!
+[22:44:28] [Client thread/INFO]: [CHAT] › Игрок roms_pidor1 был разорван на кусочки игроком cosmolord!
+[22:44:28] [Client thread/INFO]: [CHAT] › Игрок RainbowUndead был разорван на кусочки игроком jvjmbi!
+[22:44:28] [Client thread/INFO]: [CHAT] › У jvjmbi серия из 3 убийств!
+[22:44:28] [Client thread/INFO]: [CHAT] › Игрок ArtemK6K был убит игроком CuP4Ik!
+[22:44:29] [Client thread/INFO]: [CHAT] › Игрок chesterly2112 был разорван на кусочки игроком КрисВерп!
+[22:44:30] [Client thread/INFO]: [CHAT] › Игрок CuP4Ik был убит игроком _Anton2018_BRO_!
+[22:44:30] [Client thread/INFO]: [CHAT] › У _Anton2018_BRO_ серия из 10 убийств!
+[22:44:30] [Client thread/INFO]: [CHAT] › Игрок samirush умер от рук игроком AsarX!
+[22:44:32] [Client thread/INFO]: [CHAT] › Игрок NeNiFr умер от рук игроком 111IKLEYD11!
+[22:44:33] [Client thread/INFO]: [CHAT] › Игрок Hoki02 был убит игроком Ruduga7!
+[22:44:33] [Client thread/INFO]: [CHAT] › У Ruduga7 серия из 5 убийств!
+[22:44:34] [Client thread/INFO]: [CHAT] › Игрок LeLe0 был разорван на кусочки игроком SoldatYT!
+[22:44:35] [Client thread/INFO]: [CHAT] › Игрок KOT_2008 был убит игроком clatser!
+[22:44:35] [Client thread/INFO]: [CHAT] › У clatser серия из 20 убийств!
+[22:44:35] [Client thread/INFO]: [CHAT] › Игрок AsarX был разорван на кусочки игроком xSanCasVer_!
+[22:44:35] [Client thread/INFO]: [CHAT] › Игрок atmasfera был разорван на кусочки игроком Holy_Jesus!
+[22:44:35] [Client thread/INFO]: [CHAT] › Игрок Kovrik777 был разорван на кусочки игроком Accidenty!
+[22:44:35] [Client thread/INFO]: [CHAT] › У Accidenty серия из 5 убийств!
+[22:44:36] [Client thread/INFO]: [CHAT] › Игрок jitfr умер от рук игроком cosmolord!
+[22:44:36] [Client thread/INFO]: [CHAT] › У cosmolord серия из 3 убийств!
+[22:44:36] [Client thread/INFO]: [CHAT] › cosmolord повысил ранг до Hero
+[22:44:36] [Client thread/INFO]: [CHAT] › Игрок P_I_K_A_S_H_U был убит игроком Aviro_F!
+[22:44:37] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок Countine кикнут по подозрению в использовании читов.
+[22:44:37] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок Countine кикнут по подозрению в использовании читов.
+[22:44:38] [Client thread/INFO]: [CHAT] › Игрок jeksnejzmwz был разорван на кусочки игроком Bomba9000!
+[22:44:38] [Client thread/INFO]: [CHAT] › Игрок serga221221 был убит игроком xSanCasVer_!
+[22:44:38] [Client thread/INFO]: [CHAT] › Игрок TexHo_CamyPaU был разорван на кусочки игроком Gellion!
+[22:44:38] [Client thread/INFO]: [CHAT] › У Gellion серия из 5 убийств!
+[22:44:39] [Client thread/INFO]: [CHAT] › Игрок Slubrokk_FANTOM умер от рук игроком InFrytik!
+[22:44:39] [Client thread/INFO]: [CHAT] › Игрок Cool_Boy умер от рук игроком kondrallesa!
+[22:44:40] [Client thread/INFO]: [CHAT] › roms_pidor1 не флайхакер! Это часть его комплекта!
+[22:44:41] [Client thread/INFO]: [CHAT] › Игрок sholopaie был разорван на кусочки игроком terariin!
+[22:44:43] [Client thread/INFO]: [CHAT] › Игрок krekeer был убит игроком Bomba9000!
+[22:44:43] [Client thread/INFO]: [CHAT] › Игрок terariin был убит игроком 111IKLEYD11!
+[22:44:43] [Client thread/INFO]: [CHAT] › Игрок Artem5677 умер от рук игроком Holy_Jesus!
+[22:44:43] [Client thread/INFO]: [CHAT] › Игрок Bomba9000 был убит игроком Paneola00!
+[22:44:45] [Client thread/INFO]: [CHAT] › Игрок OverShowTY11 был убит игроком Sweeper!
+[22:44:45] [Client thread/INFO]: [CHAT] \n ? Хочешь купить донат, но не доверяешь?\n ? Не бойся! Наш сервер проверен многими ютуберами\n\n ? Покупай донат, будь крутым - www.dexland.ru \n
+[22:44:46] [Client thread/INFO]: [CHAT] › Игрок Paneola00 был убит игроком samirush!
+[22:44:49] [Client thread/INFO]: [CHAT] › Игрок 13245768g был убит игроком Sweeper!
+[22:44:49] [Client thread/INFO]: [CHAT] › У Sweeper серия из 5 убийств!
+[22:44:49] [Client thread/INFO]: [CHAT] › Игрок Agalex был разорван на кусочки игроком xSanCasVer_!
+[22:44:49] [Client thread/INFO]: [CHAT] › Вы были убиты xSanCasVer_!
+[22:44:52] [Client thread/INFO]: [CHAT] › Игрок chesterly2112 был убит игроком amazonka_1991!
+[22:44:52] [Client thread/INFO]: [CHAT] › Игрок jeksnejzmwz умер от рук игроком Lesha2290!
+[22:44:53] [Client thread/INFO]: [CHAT] › Игрок cosmolord был разорван на кусочки игроком _Anton2018_BRO_!
+[22:44:53] [Client thread/INFO]: [CHAT] › Игрок Lesha2290 был убит игроком AsarX!
+[22:44:53] [Client thread/INFO]: [CHAT] › Игрок Lyam был разорван на кусочки игроком jitfr!
+[22:44:53] [Client thread/INFO]: [CHAT] › jitfr повысил ранг до PrO
+[22:44:53] [Client thread/INFO]: [CHAT] › Игрок omone умер от рук игроком jitfr!
+[22:44:55] [Client thread/INFO]: [CHAT] [Делюкс] SoldatYT  ? fewx
+[22:44:55] [Client thread/INFO]: [CHAT] › Игрок Evi1 был убит игроком 111IKLEYD11!
+[22:44:56] [Client thread/INFO]: [CHAT] › Игрок LeLe0 был убит игроком ыфыл!
+[22:44:56] [Client thread/INFO]: [CHAT] › Игрок STREET_B0Y был разорван на кусочки игроком Holy_Jesus!
+[22:44:56] [Client thread/INFO]: [CHAT] › Игрок TexHo_CamyPaU умер от рук игроком 111IKLEYD11!
+[22:44:56] [Client thread/INFO]: [CHAT] › У 111IKLEYD11 серия из 10 убийств!
+[22:44:58] [Client thread/INFO]: [CHAT] › Игрок AsarX умер от рук игроком roms_pidor1!
+[22:44:58] [Client thread/INFO]: [CHAT] › Игрок KOT_2008 умер от рук игроком jitfr!
+[22:44:58] [Client thread/INFO]: [CHAT] › У jitfr серия из 3 убийств!
+[22:44:58] [Client thread/INFO]: [CHAT] [Делюкс] SoldatYT  ? ты с ричами
+[22:44:58] [Client thread/INFO]: [CHAT] › Игрок samirush умер от рук игроком Sweeper!
+[22:44:58] [Client thread/INFO]: [CHAT] › Игрок MoRnI умер от рук игроком kondrallesa!
+[22:45:00] [Client thread/INFO]: [CHAT] › Игрок Agalex умер от рук игроком Cool_Boy!
+[22:45:00] [Client thread/INFO]: [CHAT] › Вы были убиты Cool_Boy!
+[22:45:00] [Client thread/INFO]: [CHAT] › Игрок jeksnejzmwz был разорван на кусочки игроком Holy_Jesus!
+[22:45:00] [Client thread/INFO]: [CHAT] › У Holy_Jesus серия из 10 убийств!
+[22:45:01] [Client thread/INFO]: [CHAT] › Игрок NitroFuNyx был убит игроком Gr1P_MyhOmoR!
+[22:45:02] [Client thread/INFO]: [CHAT] › Выбран набор: Viper
+[22:45:02] [Client thread/INFO]: [CHAT] › Игрок Hoki02 был убит игроком sasha1658e3!
+[22:45:02] [Client thread/INFO]: [CHAT] \n?????????????????????????? \n\n? Только на этой неделе скидка 25% на ВСЕ товары!\n? Используй промокод: sale25\n \n? Сайт для совершения покупок: www.dexland.ru \n\n??????????????????????????\n
+[22:45:02] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок Alicelove кикнут по подозрению в использовании читов.
+[22:45:03] [Client thread/INFO]: [CHAT] › Игрок jitfr умер от рук игроком serga221221!
+[22:45:04] [Client thread/INFO]: [CHAT] › Игрок serga221221 был убит игроком destik36!
+[22:45:04] [Client thread/INFO]: [CHAT] › У destik36 серия из 5 убийств!
+[22:45:05] [Client thread/INFO]: [CHAT] › Игрок Kovrik777 был убит игроком krekeer!
+[22:45:05] [Client thread/INFO]: [CHAT] \n ? Друзья хвастаются донатом? А ты никто?\n ? Специально для тебя мы сделали 80% скидки!\n ? Донат [Владелец] всего за 479 руб\n\n ? Покупка на сайте - www.dexland.ru \n
+[22:45:05] [Client thread/INFO]: [CHAT] › Игрок Paneola00 умер от рук игроком Accidenty!
+[22:45:06] [Client thread/INFO]: [CHAT] › Игрок krekeer был убит игроком roms_pidor1!
+[22:45:06] [Client thread/INFO]: [CHAT] › Игрок NeNiFr был убит игроком 13245768g!
+[22:45:08] [Client thread/INFO]: [CHAT] [Игрок] nazar7009  ? f
+[22:45:08] [Client thread/INFO]: [CHAT] › Игрок Joker12 умер от рук игроком xSanCasVer_!
+[22:45:09] [Client thread/INFO]: [CHAT] › Игрок rocketa умер от рук игроком OverShowTY11!
+[22:45:09] [Client thread/INFO]: [CHAT] › Игрок Loki0143 был разорван на кусочки игроком Holy_Jesus!
+[22:45:09] [Client thread/INFO]: [CHAT] › kondrallesa не флайхакер! Это часть его комплекта!
+[22:45:11] [Client thread/WARN]: Received passengers for unknown entity
+[22:45:12] [Client thread/INFO]: [CHAT] › Игрок Clover11134 умер от рук игроком Accidenty!
+[22:45:12] [Client thread/INFO]: [CHAT] › Игрок CuP4Ik был убит игроком Holy_Jesus!
+[22:45:13] [Client thread/WARN]: Received passengers for unknown entity
+[22:45:13] [Client thread/INFO]: [CHAT] › Игрок AsarX был разорван на кусочки игроком 111IKLEYD11!
+[22:45:13] [Client thread/INFO]: [CHAT] [Владелец] vmo ЧСВ ? сука
+[22:45:13] [Client thread/INFO]: [CHAT] › Игрок xa4u_TTypu умер от рук игроком ыфыл!
+[22:45:13] [Client thread/INFO]: [CHAT] › У ыфыл серия из 5 убийств!
+[22:45:13] [Client thread/INFO]: [CHAT] › Игрок Artem5677 умер от рук игроком Agalex!
+[22:45:14] [Client thread/INFO]: [CHAT] › Вы убили Artem5677 и получили 10 монет и 5 опыта!
+[22:45:14] [Client thread/INFO]: [CHAT] › Игрок zdfhg был убит игроком jvjmbi!
+[22:45:14] [Client thread/INFO]: [CHAT] › Игрок Agalex был разорван на кусочки игроком cosmolord!
+[22:45:14] [Client thread/INFO]: [CHAT] › Вы были убиты cosmolord!
+[22:45:15] [Client thread/INFO]: [CHAT] [Владелец] vmo ЧСВ ? сдохни
+[22:45:15] [Client thread/INFO]: [CHAT] › Игрок Evi1 умер от рук игроком 111IKLEYD11!
+[22:45:15] [Client thread/WARN]: Received passengers for unknown entity
+[22:45:16] [Client thread/INFO]: [CHAT] [Игрок] Lesha2290  ? ytyhj
+[22:45:16] [Client thread/INFO]: [CHAT] › Игрок miklamika был разорван на кусочки игроком serga221221!
+[22:45:17] [Client thread/INFO]: [CHAT] › Выбран набор: Fisherman
+[22:45:17] [Client thread/INFO]: [CHAT] › Игрок 13245768g был убит игроком Holy_Jesus!
+[22:45:17] [Client thread/INFO]: [CHAT] › Игрок KOT_2008 был убит игроком destik36!
+[22:45:17] [Client thread/INFO]: [CHAT] › Игрок sholopaie был убит игроком 111IKLEYD11!
+[22:45:20] [Client thread/INFO]: [CHAT] › Игрок samirush был разорван на кусочки игроком jvjmbi!
+[22:45:20] [Client thread/INFO]: [CHAT] › У jvjmbi серия из 5 убийств!
+[22:45:21] [Client thread/INFO]: [CHAT] [Игрок] Lesha2290  ? р
+[22:45:21] [Client thread/INFO]: [CHAT] › Игрок RainbowUndead был убит игроком clatser!
+[22:45:22] [Client thread/INFO]: [CHAT] › Игрок ShuckNotFake был разорван на кусочки игроком lex_serganten!
+[22:45:22] [Client thread/INFO]: [CHAT] › lex_serganten повысил ранг до Hero
+[22:45:22] [Client thread/INFO]: [CHAT] › Игрок jvjmbi был убит игроком roms_pidor1!
+[22:45:22] [Client thread/INFO]: [CHAT] › У roms_pidor1 серия из 3 убийств!
+[22:45:23] [Client thread/INFO]: [CHAT] › Игрок terariin был убит игроком Accidenty!
+[22:45:23] [Client thread/INFO]: [CHAT] › Игрок Lukario3 был убит игроком Ruduga7!
+[22:45:23] [Client thread/INFO]: [CHAT] › Игрок Paneola00 умер от рук игроком Evi1!
+[22:45:25] [Client thread/INFO]: [CHAT] › Игрок Gr1P_MyhOmoR был убит игроком Bomba9000!
+[22:45:25] [Client thread/INFO]: [CHAT] \n ? Сайт для покупки доната: www.dexland.ru \n
+[22:45:27] [Client thread/INFO]: [CHAT] › Игрок NitroFuNyx был разорван на кусочки игроком cosmolord!
+[22:45:28] [Client thread/INFO]: [CHAT] [Игрок] 13245768g  ? !а члабо без вх?
+[22:45:28] [Client thread/INFO]: [CHAT] › Игрок Slubrokk_FANTOM был разорван на кусочки игроком _Sheymus_!
+[22:45:29] [Client thread/INFO]: [CHAT] › Игрок _Anton2018_BRO_ умер от рук игроком Holy_Jesus!
+[22:45:30] [Client thread/INFO]: [CHAT] › Игрок jeksnejzmwz был убит игроком xa4u_TTypu!
+[22:45:30] [Client thread/INFO]: [CHAT] › Игрок serga221221 был убит игроком ыфыл!
+[22:45:30] [Client thread/WARN]: Received passengers for unknown entity
+[22:45:31] [Client thread/INFO]: [CHAT] › 111IKLEYD11 не флайхакер! Это часть его комплекта!
+[22:45:31] [Client thread/INFO]: [CHAT] [Модер] fewx  ? прыгай
+[22:45:31] [Client thread/WARN]: Received passengers for unknown entity
+[22:45:32] [Client thread/INFO]: [CHAT] › Игрок NeNiFr был разорван на кусочки игроком clatser!
+[22:45:32] [Client thread/INFO]: [CHAT] › Игрок SayonaraBoy умер от рук игроком Accidenty!
+[22:45:32] [Client thread/INFO]: [CHAT] › Игрок Agalex умер от рук игроком xa4u_TTypu!
+[22:45:32] [Client thread/INFO]: [CHAT] › Вы были убиты xa4u_TTypu!
+[22:45:32] [Client thread/INFO]: [CHAT] › Игрок yura3000 был разорван на кусочки игроком Cool_Boy!
+[22:45:34] [Client thread/WARN]: Received passengers for unknown entity
+[22:45:35] [Client thread/INFO]: [CHAT] › Игрок CuP4Ik был разорван на кусочки игроком cottage!
+[22:45:35] [Client thread/WARN]: Received passengers for unknown entity
+[22:45:35] [Client thread/INFO]: [CHAT] › Игрок samirush был убит игроком xa4u_TTypu!
+[22:45:35] [Client thread/INFO]: [CHAT] › У xa4u_TTypu серия из 3 убийств!
+[22:45:35] [Client thread/INFO]: [CHAT] › Игрок KOT_2008 был убит игроком LeLe0!
+[22:45:37] [Client thread/INFO]: [CHAT] › Игрок Bomba9000 был убит игроком xSanCasVer_!
+[22:45:37] [Client thread/INFO]: [CHAT] › У xSanCasVer_ серия из 10 убийств!
+[22:45:37] [Client thread/INFO]: [CHAT] АнтиЧит ? Игрок OverShowTY11 кикнут по подозрению в использовании читов.
+[22:46:08] [Client thread/ERROR]: Can't ping mc.mineblaze.ru:25565: Превышено время ожидания
+[22:46:34] [Client thread/INFO]: Connecting to MBars.ru, 25565
+[22:46:35] [Client thread/INFO]: [CHAT] [MineBars] Ожидайте завершения проверки...
+[22:46:36] [Client thread/INFO]: [CHAT] [MineBars] Ожидайте завершения проверки...
+[22:46:37] [Client thread/INFO]: [CHAT] [MineBars] Ожидайте завершения проверки...
+[22:46:38] [Client thread/INFO]: [CHAT] [MineBars] Ожидайте завершения проверки...
+[22:46:39] [Client thread/INFO]: [CHAT] [MineBars] Ожидайте завершения проверки...
+[22:46:40] [Client thread/INFO]: [CHAT] [MineBars] Проверка пройдена, приятной игры
+[22:46:40] [Client thread/INFO]: [CHAT] §8[§bMine§cBars§8] §fЗарегистрируйтесь - §e/register §f[§eпароль§f] [§eпароль§f]
+[22:46:40] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:40] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:42] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:42] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:46] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:48] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:50] [Client thread/INFO]: [CHAT] §8[§bMine§cBars§8] §fЗарегистрируйтесь - §e/register §f[§eпароль§f] [§eпароль§f]
+[22:46:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:54] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:56] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:46:56] [Client thread/INFO]: [CHAT] §8[§bMine§cBars§8] §fУспешная регистрация, не забудь свой пароль!
+[22:46:57] [Client thread/INFO]: [CHAT] 
+[22:46:59] [Client thread/INFO]: [CHAT] [?] Вы находитесь в лобби. Выбирайте режим и зайдите в портал
+[22:47:04] [Client thread/INFO]: [CHAT] [?] Вы находитесь в лобби. Выбирайте режим и зайдите в портал
+[22:47:09] [Client thread/INFO]: [CHAT] [?] Вы находитесь в лобби. Выбирайте режим и зайдите в портал
+[22:47:12] [Client thread/INFO]: [CHAT] <--------- Agalex Статистика --------->
+[22:47:12] [Client thread/INFO]: [CHAT] - Убийств:: 0
+[22:47:12] [Client thread/INFO]: [CHAT] - Смертей:: 0
+[22:47:12] [Client thread/INFO]: [CHAT] - Монет:: 100
+[22:47:12] [Client thread/INFO]: [CHAT] - Побед:: 0
+[22:47:12] [Client thread/INFO]: [CHAT] - KDR:: 0.0
+[22:47:12] [Client thread/INFO]: [CHAT] <-------------------------------> 
+[22:47:24] [Client thread/INFO]: [CHAT]  
+[22:47:24] [Client thread/INFO]: [CHAT]  ? Хотите сменить пароль от вашего аккаунта?
+[22:47:24] [Client thread/INFO]: [CHAT]  ? Используйте /changepassword (старый пароль) (Новый)
+[22:47:24] [Client thread/INFO]: [CHAT]  
+[22:47:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:47:59] [Client thread/INFO]: [CHAT] [SurvivalGames]: Agalex Присоединился к игре (1/24)!
+[22:47:59] [Client thread/INFO]: [CHAT] [SurvivalGames]: 4 Игроков осталось до начала игры!
+[22:48:10] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене chernobyl - Theta4ka
+[22:48:13] [Client thread/INFO]: [CHAT] [Игрок]  elfnet ? Ложис
+[22:48:14] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене pandora начнется через 30 секунд!
+[22:48:15] [Client thread/INFO]: [CHAT] [SurvivalGames]: Brodyaga99 Присоединился к игре (2/24)!
+[22:48:15] [Client thread/INFO]: [CHAT] [SurvivalGames]: 3 Игроков осталось до начала игры!
+[22:48:16] [Client thread/INFO]: [CHAT] [SurvivalGames]: H4ZER Присоединился к игре (3/24)!
+[22:48:16] [Client thread/INFO]: [CHAT] [SurvivalGames]: 2 Игроков осталось до начала игры!
+[22:48:19] [Client thread/INFO]: [CHAT] [SurvivalGames]: _MisisYana_ Присоединился к игре (4/24)!
+[22:48:19] [Client thread/INFO]: [CHAT] [SurvivalGames]: 1 Игроков осталось до начала игры!
+[22:48:21] [Client thread/INFO]: [CHAT] [Игрок]  elfnet ? Ложись
+[22:48:22] [Client thread/INFO]: [CHAT] [SurvivalGames]: auTizm Присоединился к игре (5/24)!
+[22:48:22] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене foland начнется через 30 секунд!
+[22:48:22] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 30 секунд!
+[22:48:24] [Client thread/INFO]: [CHAT]  
+[22:48:24] [Client thread/INFO]: [CHAT]  ? Хотите управлять сервером? Полный доступ?
+[22:48:24] [Client thread/INFO]: [CHAT]  ? Тогда вам нужна привилегия Директор
+[22:48:24] [Client thread/INFO]: [CHAT]  ? Им выдается RCON и вы сможете все, как создатели!
+[22:48:24] [Client thread/INFO]: [CHAT]  ? Покупка на сайте MineBars.ru
+[22:48:24] [Client thread/INFO]: [CHAT]  
+[22:48:27] [Client thread/INFO]: [CHAT] [Игрок]  _LuNa_GiRl_ ? ?
+[22:48:30] [Client thread/INFO]: [CHAT] [SurvivalGames]: kittenVn Присоединился к игре (6/24)!
+[22:48:32] [Client thread/INFO]: [CHAT] [SurvivalGames]: Ты приобрел STONE_SWORD x1 за 50 монет!
+[22:48:32] [Client thread/INFO]: [CHAT] [Игрок]  elfnet ? гранаааата
+[22:48:38] [Client thread/INFO]: [CHAT] [SurvivalGames]: PiPaT_BAC Присоединился к игре (7/24)!
+[22:48:38] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 15 секунд!
+[22:48:41] [Client thread/INFO]: [CHAT] [Игрок]  elfnet ? Ложись
+[22:48:43] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 10 секунд!
+[22:48:45] [Client thread/INFO]: [CHAT] [SurvivalGames]: MRLauncher_61368 Присоединился к игре (8/24)!
+[22:48:46] [Client thread/INFO]: [CHAT] [Игрок]  Gerbech ? поцоны вы где
+[22:48:48] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 5 секунд!
+[22:48:49] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 4 секунд!
+[22:48:50] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 3 секунд!
+[22:48:51] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 2 секунд!
+[22:48:51] [Client thread/INFO]: [CHAT] [SurvivalGames]: KOKAH Присоединился к игре (9/24)!
+[22:48:52] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 1 секунд!
+[22:48:53] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня началась!
+[22:48:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:fireworks.largeblast
+[22:48:53] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 30 секунд!
+[22:48:58] [Client thread/INFO]: [CHAT] [Игрок]  elfnet ? Она не зашла
+[22:49:03] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене island - UFYCDSACFJUOID
+[22:49:04] [Client thread/INFO]: [CHAT] [Игрок]  elfnet ? Она наибала
+[22:49:13] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене chernobyl начнется через 30 секунд!
+[22:49:18] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 5 секунд!
+[22:49:19] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 4 секунд!
+[22:49:20] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 3 секунд!
+[22:49:21] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 2 секунд!
+[22:49:22] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене chernobyl начнется через 30 секунд!
+[22:49:22] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 1 секунд!
+[22:49:23] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончился. Теперь тебя смогут убить!
+[22:49:24] [Client thread/INFO]: [CHAT]  
+[22:49:24] [Client thread/INFO]: [CHAT]  ? Вы можете установить себе скин по нику
+[22:49:24] [Client thread/INFO]: [CHAT]  ? Напиши команду /skin <ник>
+[22:49:24] [Client thread/INFO]: [CHAT]  
+[22:49:36] [Client thread/INFO]: [CHAT] [STAR]  TempPro ? хочешь -фпс?
+[22:49:39] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене tazader - 1910e
+[22:49:54] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня завершиться через 19 минут!
+[22:50:04] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене resort начнется через 30 секунд!
+[22:50:22] [Client thread/INFO]: [CHAT] [Игрок]  Xx_KyctuK_xX ? скучно
+[22:50:24] [Client thread/INFO]: [CHAT]  Купив Главаря за 657 рублей вы сможете выдавать креатив и флай друзьям! Покупка на сайте MineBars.ru
+[22:50:28] [Client thread/INFO]: [CHAT] [STAR]  TempPro ? весело
+[22:50:29] [Client thread/INFO]: [CHAT] [SurvivalGames]: KOKAH подал руку помощи и убил Agalex!
+[22:50:29] [Client thread/INFO]: [CHAT] [SurvivalGames]: 8 игроков осталось
+[22:50:29] [Client thread/INFO]: [CHAT] [SurvivalGames]: Ты теперь зритель на арене.
+[22:50:32] [Client thread/INFO]: [CHAT] [SurvivalGames]: Вы вышли с игры.
+[22:50:33] [Client thread/INFO]: [CHAT] 
+[22:50:34] [Client thread/INFO]: [CHAT] [?] Вы находитесь в лобби. Выбирайте режим и зайдите в портал
+[22:50:37] [Client thread/INFO]: [CHAT] [Игрок]  Xx_KyctuK_xX ? тебе да -.-
+[22:50:43] [Client thread/INFO]: [CHAT] [Игрок]  Xx_KyctuK_xX ? а мне нет
+[22:50:45] [Client thread/INFO]: [CHAT] [STAR]  TempPro ? я еффекты проверяю
+[22:50:59] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене condas - Garran
+[22:51:01] [Client thread/INFO]: [CHAT] [Игрок]  Xx_KyctuK_xX ? тупые эффекты -.-
+[22:51:12] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:51:13] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:51:19] [Client thread/INFO]: [CHAT] <--------- Agalex Статистика --------->
+[22:51:19] [Client thread/INFO]: [CHAT] - Убийств:: 0
+[22:51:19] [Client thread/INFO]: [CHAT] - Смертей:: 1
+[22:51:19] [Client thread/INFO]: [CHAT] - Монет:: 50
+[22:51:19] [Client thread/INFO]: [CHAT] - Побед:: 0
+[22:51:19] [Client thread/INFO]: [CHAT] - KDR:: 0.0
+[22:51:19] [Client thread/INFO]: [CHAT] <-------------------------------> 
+[22:51:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:47) [1.12.2.jar:?]
+	at bib.az(SourceFile:991) [1.12.2.jar:?]
+	at bib.a(SourceFile:419) [1.12.2.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [1.12.2.jar:?]
+Caused by: java.lang.NullPointerException
+	at brz.a(SourceFile:482) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:67) ~[1.12.2.jar:?]
+	at ic.a(SourceFile:14) ~[1.12.2.jar:?]
+	at hv$1.run(SourceFile:13) ~[1.12.2.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_45]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_45]
+	at h.a(SourceFile:46) ~[1.12.2.jar:?]
+	... 3 more
+[22:51:24] [Client thread/INFO]: [CHAT]  
+[22:51:24] [Client thread/INFO]: [CHAT]   Успейте купить Директор за 3274 рублей
+[22:51:24] [Client thread/INFO]: [CHAT]   Стань самым крутым на сервере!
+[22:51:24] [Client thread/INFO]: [CHAT]   Покупка на сайте MineBars.ru
+[22:51:24] [Client thread/INFO]: [CHAT]  
+[22:51:26] [Client thread/INFO]: [CHAT] [SurvivalGames]: Agalex Присоединился к игре (1/24)!
+[22:51:26] [Client thread/INFO]: [CHAT] [SurvivalGames]: 4 Игроков осталось до начала игры!
+[22:51:39] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене sg6 начнется через 30 секунд!
+[22:51:45] [Client thread/INFO]: [CHAT] [SurvivalGames]: spacejack127 Присоединился к игре (2/24)!
+[22:51:45] [Client thread/INFO]: [CHAT] [SurvivalGames]: 3 Игроков осталось до начала игры!
+[22:51:45] [Client thread/INFO]: [CHAT] [SurvivalGames]: lovelycreeper44 Присоединился к игре (3/24)!
+[22:51:45] [Client thread/INFO]: [CHAT] [SurvivalGames]: 2 Игроков осталось до начала игры!
+[22:51:46] [Client thread/INFO]: [CHAT] [SurvivalGames]: radionka227 Присоединился к игре (4/24)!
+[22:51:46] [Client thread/INFO]: [CHAT] [SurvivalGames]: 1 Игроков осталось до начала игры!
+[22:51:48] [Client thread/INFO]: [CHAT] [SurvivalGames]: UFYCDSACFJUOID Присоединился к игре (5/24)!
+[22:51:48] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене condas начнется через 30 секунд!
+[22:51:48] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 30 секунд!
+[22:51:54] [Client thread/INFO]: [CHAT] [SurvivalGames]: Garran Присоединился к игре (6/24)!
+[22:51:54] [Client thread/INFO]: [CHAT] [SurvivalGames]: USSSR445 Присоединился к игре (7/24)!
+[22:51:56] [Client thread/INFO]: [CHAT] [Очистка] Внимание! Все вещи на земле будут удалены через 10 секунд!
+[22:52:02] [Client thread/INFO]: [CHAT] [Очистка] Внимание! Все вещи на земле будут удалены через 5 секунд!
+[22:52:03] [Client thread/INFO]: [CHAT] [SurvivalGames]: Arina152 Присоединился к игре (8/24)!
+[22:52:04] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 15 секунд!
+[22:52:06] [Client thread/INFO]: [CHAT] [SurvivalGames]: maximusssetoyaHI Присоединился к игре (9/24)!
+[22:52:07] [Client thread/INFO]: [CHAT] [SurvivalGames]: maxMTRZ Присоединился к игре (10/24)!
+[22:52:07] [Client thread/INFO]: [CHAT] [Очистка] Удаленно 128 предметов!
+[22:52:09] [Client thread/INFO]: [CHAT] Вы были отключены от сервера. Причина: Слишком много пакетов (сильно лагает?)
+[22:52:09] [Client thread/INFO]: [CHAT] 
+[22:52:14] [Client thread/INFO]: [CHAT] [?] Вы находитесь в лобби. Выбирайте режим и зайдите в портал
+[22:52:24] [Client thread/INFO]: [CHAT]  
+[22:52:24] [Client thread/INFO]: [CHAT]  ? Хотите быть самым крутым на сервере и быть частью проекта?
+[22:52:24] [Client thread/INFO]: [CHAT]  ? Тогда привилегия [BESTER] именно для тебя!
+[22:52:24] [Client thread/INFO]: [CHAT]  ? Покупка на нашем сайте MineBars.ru
+[22:52:24] [Client thread/INFO]: [CHAT]  
+[22:52:27] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене gta - toruchka1
+[22:52:28] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене teweran - vasilko88
+[22:52:29] [Client thread/INFO]: [CHAT] [Игрок]  89897274032 ? а когда бойня
+[22:52:32] [Client thread/INFO]: [CHAT] [SurvivalGames]: Agalex Присоединился к игре (1/24)!
+[22:52:32] [Client thread/INFO]: [CHAT] [SurvivalGames]: 4 Игроков осталось до начала игры!
+[22:52:36] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене sg6 начнется через 30 секунд!
+[22:52:54] [Client thread/INFO]: [CHAT] [SurvivalGames]: MAKARZET3 Присоединился к игре (2/24)!
+[22:52:54] [Client thread/INFO]: [CHAT] [SurvivalGames]: 3 Игроков осталось до начала игры!
+[22:53:04] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене sg6 начнется через 30 секунд!
+[22:53:15] [Client thread/INFO]: [CHAT] [SurvivalGames]: codeine Присоединился к игре (3/24)!
+[22:53:15] [Client thread/INFO]: [CHAT] [SurvivalGames]: 2 Игроков осталось до начала игры!
+[22:53:22] [Client thread/INFO]: [CHAT] [SurvivalGames]: codeine покинул игру! (2/24)!
+[22:53:24] [Client thread/INFO]: [CHAT]  
+[22:53:24] [Client thread/INFO]: [CHAT]  ? Огромные скидки до конца недели!
+[22:53:24] [Client thread/INFO]: [CHAT]  ? Не упусти возможность.
+[22:53:24] [Client thread/INFO]: [CHAT]  ? Покупка на сайте MineBars.ru
+[22:53:24] [Client thread/INFO]: [CHAT]  
+[22:53:31] [Client thread/INFO]: [CHAT] [SurvivalGames]: Marsel_play Присоединился к игре (3/24)!
+[22:53:31] [Client thread/INFO]: [CHAT] [SurvivalGames]: 2 Игроков осталось до начала игры!
+[22:53:44] [Client thread/INFO]: [CHAT] Вы были отключены от сервера. Причина: Обнаружены читы
+[22:53:45] [Client thread/INFO]: [CHAT] 
+[22:53:49] [Client thread/INFO]: [CHAT] [?] Вы находитесь в лобби. Выбирайте режим и зайдите в портал
+[22:54:08] [Client thread/INFO]: [CHAT] [SurvivalGames]: Agalex Присоединился к игре (5/24)!
+[22:54:08] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене gta начнется через 30 секунд!
+[22:54:08] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 30 секунд!
+[22:54:22] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 15 секунд!
+[22:54:24] [Client thread/INFO]: [CHAT]  
+[22:54:24] [Client thread/INFO]: [CHAT]  ? На нашем сервере у донатеров много бонусов
+[22:54:24] [Client thread/INFO]: [CHAT]  ? Доступ к которым имею только донатеры
+[22:54:24] [Client thread/INFO]: [CHAT]  ? Сайт покупки - MineBars.ru
+[22:54:24] [Client thread/INFO]: [CHAT]  
+[22:54:24] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене chernobyl - __Flick__
+[22:54:27] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 10 секунд!
+[22:54:31] [Client thread/INFO]: [CHAT] [SurvivalGames]: maxMTRZ Присоединился к игре (6/24)!
+[22:54:32] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 5 секунд!
+[22:54:32] [Client thread/INFO]: [CHAT] [SurvivalGames]: maximusssetoyaHI Присоединился к игре (7/24)!
+[22:54:33] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 4 секунд!
+[22:54:34] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 3 секунд!
+[22:54:35] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 2 секунд!
+[22:54:35] [Client thread/INFO]: [CHAT] [SurvivalGames]: Denis3322 Присоединился к игре (8/24)!
+[22:54:36] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 1 секунд!
+[22:54:37] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня началась!
+[22:54:37] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 30 секунд!
+[22:55:02] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 5 секунд!
+[22:55:03] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 4 секунд!
+[22:55:04] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 3 секунд!
+[22:55:05] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 2 секунд!
+[22:55:06] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 1 секунд!
+[22:55:07] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончился. Теперь тебя смогут убить!
+[22:55:11] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене tazader начнется через 30 секунд!
+[22:55:24] [Client thread/INFO]: [CHAT]  
+[22:55:24] [Client thread/INFO]: [CHAT]  ? Тебе нужен доступ к приватам игроков?
+[22:55:24] [Client thread/INFO]: [CHAT]  ? Покупай донат [Управляющий] за 888 руб.
+[22:55:24] [Client thread/INFO]: [CHAT]  ? Покупка на сайте MineBars.ru
+[22:55:24] [Client thread/INFO]: [CHAT]  
+[22:55:24] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене kingdom - kaiiitia
+[22:55:38] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня завершиться через 19 минут!
+[22:55:53] [Client thread/INFO]: [CHAT] [STAR]  TempPro ? поч тупые? -.-
+[22:55:53] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене chernobyl начнется через 30 секунд!
+[22:55:53] [Client thread/INFO]: [CHAT] [SurvivalGames]: Agalex и его оружие не смогло устоять перед DvulikiyV3!
+[22:55:53] [Client thread/INFO]: [CHAT] [SurvivalGames]: 7 игроков осталось
+[22:55:54] [Client thread/INFO]: [CHAT] [SurvivalGames]: Ты теперь зритель на арене.
+[22:55:58] [Client thread/INFO]: [CHAT] [Игрок]  Devo4ka_FSB ? всем пиривет
+[22:56:01] [Client thread/INFO]: [CHAT] [SurvivalGames]: Вы вышли с игры.
+[22:56:04] [Client thread/INFO]: [CHAT] <--------- Agalex Статистика --------->
+[22:56:04] [Client thread/INFO]: [CHAT] - Убийств:: 0
+[22:56:04] [Client thread/INFO]: [CHAT] - Смертей:: 2
+[22:56:04] [Client thread/INFO]: [CHAT] - Монет:: 50
+[22:56:04] [Client thread/INFO]: [CHAT] - Побед:: 0
+[22:56:04] [Client thread/INFO]: [CHAT] - KDR:: 0.0
+[22:56:04] [Client thread/INFO]: [CHAT] <-------------------------------> 
+[22:56:05] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене kingdom начнется через 30 секунд!
+[22:56:17] [Client thread/INFO]: [CHAT] [SurvivalGames]: Agalex Присоединился к игре (6/24)!
+[22:56:20] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 15 секунд!
+[22:56:24] [Client thread/INFO]: [CHAT]  
+[22:56:24] [Client thread/INFO]: [CHAT]   Тех.поддержка доступна по адресу
+[22:56:24] [Client thread/INFO]: [CHAT]   MineBars.ru/support
+[22:56:24] [Client thread/INFO]: [CHAT]  
+[22:56:25] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 10 секунд!
+[22:56:30] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 5 секунд!
+[22:56:31] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 4 секунд!
+[22:56:32] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 3 секунд!
+[22:56:33] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 2 секунд!
+[22:56:34] [Client thread/INFO]: [CHAT] [SurvivalGames]: Игра начнётся через 1 секунд!
+[22:56:35] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня началась!
+[22:56:35] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 30 секунд!
+[22:56:53] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене highway - Lilaxafa
+[22:57:00] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 5 секунд!
+[22:57:01] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 4 секунд!
+[22:57:02] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 3 секунд!
+[22:57:03] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 2 секунд!
+[22:57:04] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончится через: 1 секунд!
+[22:57:05] [Client thread/INFO]: [CHAT] [SurvivalGames]: Режим бога закончился. Теперь тебя смогут убить!
+[22:57:10] [Client thread/INFO]: [CHAT] [Очистка] Внимание! Все вещи на земле будут удалены через 10 секунд!
+[22:57:15] [Client thread/INFO]: [CHAT] [Очистка] Внимание! Все вещи на земле будут удалены через 5 секунд!
+[22:57:20] [Client thread/INFO]: [CHAT] [Очистка] Удаленно 143 предметов!
+[22:57:22] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене resort начнется через 30 секунд!
+[22:57:24] [Client thread/INFO]: [CHAT]  
+[22:57:24] [Client thread/INFO]: [CHAT]   Успейте купить Управляющий за 888 рублей
+[22:57:24] [Client thread/INFO]: [CHAT]   Покупка на сайте MineBars.ru
+[22:57:24] [Client thread/INFO]: [CHAT]  
+[22:57:35] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня завершиться через 19 минут!
+[22:57:36] [Client thread/INFO]: [CHAT] [Игрок]  elfnet ? Ты где Лизок
+[22:57:40] [Client thread/INFO]: [CHAT] [Игрок]  Devo4ka_FSB ? миня нет
+[22:57:55] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене foland - MRLauncher_61368
+[22:58:01] [Client thread/INFO]: [CHAT] [Игрок]  elfnet ? Не правда
+[22:58:07] [Client thread/INFO]: [CHAT] [Игрок]  Devo4ka_FSB ? правда
+[22:58:08] [Client thread/INFO]: [CHAT] [SurvivalGames]: lovelycreeper44 убит!
+[22:58:08] [Client thread/INFO]: [CHAT] [SurvivalGames]: 5 игроков осталось
+[22:58:12] [Client thread/INFO]: [CHAT] [SurvivalGames]: Победитель бойни на арене condas - hatepaixan
+[22:58:15] [Client thread/INFO]: [CHAT] [Игрок]  elfnet ? Не грусти
+[22:58:24] [Client thread/INFO]: [CHAT]  
+[22:58:24] [Client thread/INFO]: [CHAT]  ? Вступайте в нашу группу Вконтакте
+[22:58:24] [Client thread/INFO]: [CHAT]  ? Чтобы быть в курсе всех новостей сервера
+[22:58:24] [Client thread/INFO]: [CHAT]  ? Ссылка на группу - vk.com/minebars
+[22:58:24] [Client thread/INFO]: [CHAT]  
+[22:58:27] [Client thread/INFO]: [CHAT] [SurvivalGames]: BISTBOY_2Z был разрезан spacejack127!
+[22:58:27] [Client thread/INFO]: [CHAT] [SurvivalGames]: 4 игроков осталось
+[22:58:27] [Client thread/INFO]: [CHAT] [Игрок]  Devo4ka_FSB ? иди к дашку
+[22:58:29] [Client thread/INFO]: [CHAT] [SurvivalGames]: Agalex был убит spacejack127!
+[22:58:29] [Client thread/INFO]: [CHAT] [SurvivalGames]: 3 игроков осталось
+[22:58:29] [Client thread/INFO]: [CHAT] [SurvivalGames]: Дезматч начнётся через: 30 секунд!
+[22:58:29] [Client thread/INFO]: [CHAT] [SurvivalGames]: Ты теперь зритель на арене.
+[22:58:32] [Client thread/INFO]: [CHAT] [Игрок]  elfnet ? Зачем
+[22:58:34] [Client thread/INFO]: [CHAT] [SurvivalGames]: Бойня на арене highway начнется через 30 секунд!
+[22:58:36] [Client thread/INFO]: [CHAT] [Игрок]  Devo4ka_FSB ? просто
+[22:58:37] [Client thread/INFO]: [CHAT] [SurvivalGames]: Вы вышли с игры.
+[22:58:38] [Client thread/INFO]: [CHAT] 
+[22:58:39] [Client thread/INFO]: [CHAT] [?] Вы находитесь в лобби. Выбирайте режим и зайдите в портал
+[22:59:29] [Client thread/INFO]: Connecting to mc.mineblaze.su., 25565
+[22:59:29] [Client thread/INFO]: [CHAT] 
+[22:59:29] [Client thread/INFO]: [CHAT] §c§l| §fАвторизируйтесь » §e/login [пароль]
+[22:59:39] [Client thread/INFO]: [CHAT] §c§l| §fАвторизируйтесь » §e/login [пароль]
+[22:59:45] [Client thread/INFO]: [CHAT] §c§l| §fПароль указан неверно
+[22:59:46] [Client thread/INFO]: [CHAT] \n ? Не знаете какие возможности есть у доната?\n ? Так напишите команду /donate и развлекайтесь\n ? Покупка доната на сайте: www.mineblaze.ru \n
+[22:59:49] [Client thread/INFO]: [CHAT] §c§l| §fАвторизируйтесь » §e/login [пароль]
+[22:59:51] [Client thread/INFO]: [CHAT] | Вы успешно авторизовались
+[23:00:01] [Client thread/INFO]: [CHAT] [Игрок] Sliva_  ? слезай уже блять
+[23:00:02] [Client thread/INFO]: [CHAT] [Игрок] FoxTV3_0  ? ххххх....атьфу
+[23:00:06] [Client thread/INFO]: [CHAT] \n ? Хотите купить донат, но сомневаетесь?\n ? Не бойтесь, мы не обманываем. Покупайте!\n ? Покупка доната на сайте: www.mineblaze.ru \n
+[23:00:07] [Client thread/INFO]: [CHAT] Тайна убийства ? Данная игра уже запущена!
+[23:00:07] [Client thread/INFO]: [CHAT] §7JlyHHa9I_TT4eJla  был убит §7Oдuнokuй_Oгoнёk_ 
+[23:00:09] [Client thread/INFO]: [CHAT] Тайна убийства ? Данная игра уже запущена!
+[23:00:09] [Client thread/INFO]: [CHAT] Тайна убийства ? Данная игра уже запущена!
+[23:00:09] [Client thread/INFO]: [CHAT] Тайна убийства ? Данная игра уже запущена!
+[23:00:09] [Client thread/INFO]: [CHAT] Тайна убийства ? Данная игра уже запущена!
+[23:00:10] [Client thread/INFO]: [CHAT] Тайна убийства ? Данная игра уже запущена!
+[23:00:10] [Client thread/INFO]: [CHAT] Тайна убийства ? Данная игра уже запущена!
+[23:00:10] [Client thread/INFO]: [CHAT] Тайна убийства ? Данная игра уже запущена!
+[23:00:10] [Client thread/INFO]: [CHAT] Тайна убийства ? Данная игра уже запущена!
+[23:00:12] [Client thread/INFO]: [CHAT] [Игрок] FoxTV3_0  ? зачем ? что б они муеня насиловали ?
+[23:00:16] [Client thread/INFO]: [CHAT] §7nqeerf  был убит §7_Diamоnd_08 
+[23:00:17] [Client thread/INFO]: [CHAT] [Игрок] Sliva_  ? нет
+[23:00:18] [Client thread/INFO]: [CHAT] Тайна убийства ? Agalex зашел в игру [5/16]
+[23:00:19] [Client thread/INFO]: [CHAT] Тайна убийства ? Oresus228 зашел в игру [6/16]
+[23:00:23] [Client thread/INFO]: [CHAT] Тайна убийства ? Princess3force зашел в игру [7/16]
+[23:00:24] [Client thread/INFO]: [CHAT] \n?????????????????????????? \n\n? Только на этой неделе скидка 25% на ВСЕ товары!\n? Используй промокод: sale25\n \n? Сайт для совершения покупок: www.mineblaze.ru \n\n??????????????????????????\n
+[23:00:26] [Client thread/INFO]: [CHAT] \n ? Хотите получить все команды сервера и опку?\n ? Донат [Блейз] за 9475 479 рублей может всё!\n ? Покупка доната на сайте: www.mineblaze.ru \n
+[23:00:35] [Client thread/INFO]: [CHAT] Тайна убийства ? alinastar зашел в игру [8/16]
+[23:00:35] [Client thread/INFO]: [CHAT] Тайна убийства ? Игра скоро начнется!
+[23:00:37] [Client thread/INFO]: [CHAT] Тайна убийства ? Dragonik зашел в игру [9/16]
+[23:00:38] [Client thread/INFO]: [CHAT] Тайна убийства ? Tumoxa зашел в игру [10/16]
+[23:00:39] [Client thread/INFO]: [CHAT] Тайна убийства ? _BabyBoom_ зашел в игру [11/16]
+[23:00:42] [Client thread/INFO]: [CHAT] Тайна убийства ? nqeerf зашел в игру [12/16]
+[23:00:45] [Client thread/INFO]: [CHAT] Тайна убийства ? Игра начнется через 5 сек.
+[23:00:46] [Client thread/INFO]: [CHAT] Тайна убийства ? Игра начнется через 4 сек.
+[23:00:46] [Client thread/INFO]: [CHAT] \n ? Вас забанил какой-то злой донатер?\n ? Купите разбан на сайте www.mineblaze.ru (19 рублей)\n
+[23:00:47] [Client thread/INFO]: [CHAT] Тайна убийства ? Игра начнется через 3 сек.
+[23:00:48] [Client thread/INFO]: [CHAT] Тайна убийства ? Игра начнется через 2 сек.
+[23:00:49] [Client thread/INFO]: [CHAT] Тайна убийства ? Игра начнется через 1 сек.
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] ТАЙНА УБИЙСТВА
+[23:00:50] [Client thread/INFO]: [CHAT] 
+[23:00:50] [Client thread/INFO]: [CHAT] Игра началась
+[23:00:50] [Client thread/INFO]: [CHAT] Карта: WidowsDen
+[23:00:50] [Client thread/INFO]: [CHAT] Время: 5:00
+[23:00:50] [Client thread/INFO]: [CHAT] Игроков: 12
+[23:00:50] [Client thread/INFO]: [CHAT] Дата: 11/04/20
+[23:00:50] [Client thread/INFO]: [CHAT] Количетсво убийц: 1
+[23:00:50] [Client thread/INFO]: [CHAT] Количетсво детективов: 1
+[23:00:50] [Client thread/INFO]: [CHAT] Количетсво жителей: 10
+[23:01:01] [Client thread/INFO]: [CHAT] Тайна убийства ? Убийца получил меч!
+[23:01:06] [Client thread/INFO]: [CHAT] \n ? Хотите быть первым вкурсе всех новостей сервера?\n ? Подпишитесь и вступайте в наше сообщество!\n ? Кликните, чтобы перейти - vk.com/mine_blaze \n
+[23:01:08] [Client thread/INFO]: [CHAT] +5 очков (Подобрали золото)!
+[23:01:14] [Client thread/INFO]: [CHAT] [Игрок] multifruktMF  ? уб девочка блонд
+[23:01:21] [Client thread/INFO]: [CHAT] [Игрок] alinastar  ? спасибо
+[23:01:24] [Client thread/INFO]: [CHAT] +5 очков (Подобрали золото)!
+[23:01:26] [Client thread/INFO]: [CHAT] \n ? Только СЕГОДНЯ на сервере идут скидки 90%\n ? Например, донат [Помощник] за 5475 219 рублей\n ? имеет крутую возможность нано-брони /guard\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:01:28] [Client thread/INFO]: [CHAT] [Игрок] multifruktMF  ? с бабочкой на спине
+[23:01:32] [Client thread/INFO]: [CHAT] Тайна убийства ? nqeerf умер!
+[23:01:36] [Client thread/INFO]: [CHAT] Тайна убийства ? Детектив умер, подберите его лук!
+[23:01:36] [Client thread/INFO]: [CHAT] Тайна убийства ? Lofyr умер!
+[23:01:39] [Client thread/INFO]: [CHAT] Тайна убийства ? Кто-то подобрал лук!
+[23:01:43] [Client thread/INFO]: [CHAT] Тайна убийства ? Tumoxa умер!
+[23:01:46] [Client thread/INFO]: [CHAT] \n ? Хотите изменять территорию с помощью топорика? //set\n ? Это доступно [Император] за 3725 149 рублей и выше.\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:01:49] [Client thread/INFO]: [CHAT] +5 очков (Подобрали золото)!
+[23:01:56] [Client thread/INFO]: [CHAT] +5 очков (Подобрали золото)!
+[23:02:06] [Client thread/INFO]: [CHAT] Тайна убийства ? Oresus228 умер!
+[23:02:06] [Client thread/INFO]: [CHAT] +5 очков (Подобрали золото)!
+[23:02:06] [Client thread/INFO]: [CHAT] \n ? Только СЕГОДНЯ, мы увеличили? шансы +100% в кейсах.\n ? Покупая кейс, вы всегда окупитесь и будете рады.\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:02:19] [Client thread/INFO]: [CHAT] Тайна убийства ? Подождите некоторое время перед использованием!
+[23:02:26] [Client thread/INFO]: [CHAT] Тайна убийства ? Лук был дропнут!
+[23:02:26] [Client thread/INFO]: [CHAT] [Murder]: Вы наблюдатель, чтобы выйти пишите /murder leave
+[23:02:26] [Client thread/INFO]: [CHAT] Тайна убийства ? Princess3force умер!
+[23:02:26] [Client thread/INFO]: [CHAT] \n ? С 11.04.2020 скидки на 1 день\n ? Увеличены до завтрашнего дня!\n ? Успейте купить донат по дешевым ценам\n\n ? Сайт для совершения покупок: www.mineblaze.ru \n
+[23:07:26] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:07:27] [Client thread/INFO]: [CHAT] 1
+[23:07:27] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[23:07:27] [Client thread/INFO]: [CHAT] Agalex joined the game
+[23:07:27] [Client thread/INFO]: Loaded 55 advancements
+[23:08:11] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[23:08:12] [Client thread/INFO]: [CHAT] 1
+[23:08:12] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[23:08:12] [Client thread/INFO]: [CHAT] Agalex joined the game
+[23:08:12] [Client thread/INFO]: Loaded 55 advancements
+[23:08:22] [Client thread/INFO]: [CHAT]  BattleRoyale >> sashka joined.
+[23:08:22] [Client thread/INFO]: [CHAT] sashka joined the game
+[23:08:37] [Client thread/INFO]: [CHAT] [sashka: Выдано [Chest] * 1 игроку sashka]
+[23:08:49] [Client thread/INFO]: [CHAT] [sashka: Предмета с идентификатором minecraft:poison не существует]
+[23:09:36] [Client thread/INFO]: [CHAT] [sashka: Выдано [Water Bottle] * 1 игроку sashka]
+[23:10:05] [Client thread/INFO]: [CHAT] [sashka: Предмета с идентификатором minecraft:power не существует]
+[23:10:13] [Client thread/INFO]: [CHAT] [sashka: Предмета с идентификатором minecraft:powerpotion не существует]
+[23:11:49] [Client thread/INFO]: [CHAT] [sashka: Предмета с идентификатором minecraft:power_potion не существует]
+[23:12:05] [Client thread/INFO]: [CHAT] [sashka: Предмета с идентификатором minecraft:locked_chest не существует]
+[23:12:32] [Client thread/INFO]: [CHAT] [sashka: Предмета с идентификатором minecraft:95 не существует]
+[23:13:01] [Client thread/INFO]: [CHAT] [sashka: Выдано [Potion of Regeneration] * 1 игроку sashka]
+[23:13:07] [Client thread/INFO]: [CHAT] [sashka: Выдано [Potion of Swiftness] * 1 игроку sashka]
+[23:13:20] [Client thread/INFO]: [CHAT] [sashka: Выдано [Potion of Fire Resistance] * 1 игроку sashka]
+[23:13:24] [Client thread/INFO]: [CHAT] [sashka: Выдано [Potion of Poison] * 1 игроку sashka]
+[23:16:05] [Client thread/INFO]: [CHAT] [sashka: Предмета с идентификатором minecraft:exploding_potions не существует]
+[23:16:10] [Client thread/INFO]: [CHAT] [sashka: Предмета с идентификатором minecraft:exploding_potion не существует]
+[23:16:39] [Client thread/INFO]: [CHAT] [sashka: Предмета с идентификатором minecraft:splash не существует]
+[23:16:52] [Client thread/INFO]: [CHAT] [sashka: Выдано [Splash Water Bottle] * 1 игроку sashka]
+[23:16:58] [Client thread/INFO]: [CHAT] [sashka: Выдано [Splash Water Bottle] * 1 игроку sashka]
+[23:17:22] [Client thread/INFO]: [CHAT] [sashka: Введённое число (2) слишком большое, оно должно быть не больше 1]
+[23:17:30] [Client thread/INFO]: [CHAT] [sashka: Выдано [Splash Water Bottle] * 1 игроку sashka]
+[23:17:34] [Client thread/INFO]: [CHAT] [sashka: Выдано [Splash Water Bottle] * 1 игроку sashka]
+[23:17:36] [Client thread/INFO]: [CHAT] [sashka: Выдано [Splash Water Bottle] * 1 игроку sashka]
+[23:18:16] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:18:26] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:18:37] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:18:42] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:44] [Client thread/ERROR]: ThrownPotion entity 2507 has no item?!
+[23:18:46] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:18:48] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:18:50] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:18:58] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:19:01] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:19:05] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:19:10] [Client thread/INFO]: [CHAT] Введённое число (0) слишком мало, оно должно быть не менее 1
+[23:19:15] [Client thread/INFO]: [CHAT] Выдано [Splash Water Bottle] * 1 игроку Agalex
+[23:19:21] [Client thread/ERROR]: ThrownPotion entity 2528 has no item?!
+[23:19:21] [Client thread/ERROR]: ThrownPotion entity 2528 has no item?!
+[23:19:21] [Client thread/ERROR]: ThrownPotion entity 2528 has no item?!
+[23:19:21] [Client thread/ERROR]: ThrownPotion entity 2528 has no item?!
+[23:19:21] [Client thread/ERROR]: ThrownPotion entity 2528 has no item?!
+[23:19:21] [Client thread/ERROR]: ThrownPotion entity 2528 has no item?!
+[23:19:21] [Client thread/ERROR]: ThrownPotion entity 2528 has no item?!
+[23:19:21] [Client thread/ERROR]: ThrownPotion entity 2528 has no item?!
+[23:19:32] [Client thread/INFO]: [CHAT] Выдано [Water Bottle] * 1 игроку Agalex
+[23:19:35] [Client thread/INFO]: Loaded 62 advancements
+[23:19:39] [Client thread/INFO]: [CHAT] Выдано [Potion of Regeneration] * 1 игроку Agalex
+[23:19:46] [Client thread/INFO]: [CHAT] Выдано [Potion of Poison] * 1 игроку Agalex
+[23:23:15] [Client thread/INFO]: [CHAT] Введённое число (441) слишком большое, оно должно быть не больше 1
+[23:23:20] [Client thread/INFO]: [CHAT] Введённое число (441) слишком большое, оно должно быть не больше 1
+[23:23:37] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:441 не существует
+[23:23:44] [Client thread/INFO]: [CHAT] Предмета с идентификатором minecraft:id_441 не существует
+[23:43:28] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[23:43:33] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[23:43:38] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[23:43:39] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[23:43:40] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[23:43:41] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[23:43:42] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[23:43:43] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[23:43:43] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[23:44:32] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex is dead.
+[23:44:32] [Client thread/INFO]: [CHAT] 
+[23:44:32] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[23:44:32] [Client thread/INFO]: [CHAT] 
+[23:44:32] [Client thread/INFO]: [CHAT]                sashka won ! In arena Main
+[23:44:32] [Client thread/INFO]: [CHAT] 
+[23:44:32] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================

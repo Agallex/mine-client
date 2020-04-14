@@ -1,0 +1,89 @@
+[22:08:43] [Client thread/INFO]: Setting user: Agalex
+[22:08:43] [Client thread/INFO]: LWJGL Version: 2.9.4
+[22:08:44] [Client thread/INFO]: Reloading ResourceManager: Default
+[22:08:44] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:08:44] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[22:08:44] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:08:44] [Thread-3/INFO]: OpenAL initialized.
+[22:08:45] [Sound Library Loader/INFO]: Sound engine started
+[22:08:47] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[22:08:49] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[22:08:50] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[22:08:52] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:08:53] [Client thread/INFO]: [CHAT] 0
+[22:08:53] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[22:08:53] [Client thread/INFO]: [CHAT] Agalex joined the game
+[22:09:36] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko joined.
+[22:09:36] [Client thread/INFO]: [CHAT] kkko joined the game
+[22:09:48] [Client thread/INFO]: [CHAT]  BattleRoyale >> You forced the game to start Main
+[22:09:48] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[22:09:53] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[22:09:58] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[22:09:59] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[22:10:00] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[22:10:01] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[22:10:02] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[22:10:03] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[22:10:03] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[22:10:04] [Client thread/INFO]: [CHAT] Agalex достиг цели «[Где твои крылья?]»
+[22:10:04] [Client thread/INFO]: Loaded 5 advancements
+[22:10:04] [Client thread/INFO]: [CHAT] kkko достиг цели «[Где твои крылья?]»
+[22:10:17] [Client thread/INFO]: [CHAT] Agalex получил достижение «[Осыпь меня алмазами]»
+[22:10:17] [Client thread/INFO]: Loaded 12 advancements
+[22:10:44] [Client thread/INFO]: [CHAT] kkko получил достижение «[Осыпь меня алмазами]»
+[22:11:37] [Client thread/INFO]: [CHAT] You are mounting admin7's car.
+[22:13:11] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko is dead.
+[22:13:11] [Client thread/INFO]: [CHAT] 
+[22:13:11] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[22:13:11] [Client thread/INFO]: [CHAT] 
+[22:13:11] [Client thread/INFO]: [CHAT]                Agalex won ! In arena Main
+[22:13:11] [Client thread/INFO]: [CHAT] 
+[22:13:11] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[22:13:11] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex unlocked first blood.
+[22:13:11] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko left.
+[22:13:13] [Client thread/INFO]: [CHAT] kkko left the game
+[22:13:13] [Client thread/INFO]: Loaded 21 advancements
+[22:13:13] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[22:13:23] [Client thread/INFO]: [CHAT] =================>> You win game and get 10 money <<=================
+[22:13:35] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:13:40] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:13:43] [Client thread/INFO]: [CHAT] 1
+[22:13:43] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[22:13:43] [Client thread/INFO]: [CHAT] Agalex joined the game
+[22:13:43] [Client thread/INFO]: Loaded 21 advancements
+[22:13:45] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[22:14:02] [Client thread/INFO]: [CHAT]  BattleRoyale >> You forced the game to start Main
+[22:14:02] [Client thread/INFO]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[22:14:07] [Client thread/INFO]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[22:14:12] [Client thread/INFO]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[22:14:13] [Client thread/INFO]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[22:14:14] [Client thread/INFO]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[22:14:15] [Client thread/INFO]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[22:14:16] [Client thread/INFO]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[22:14:17] [Client thread/INFO]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[22:14:17] [Client thread/INFO]: [CHAT]  BattleRoyale >> The last one standing win.
+[22:15:22] [Client thread/INFO]: Loaded 24 advancements
+[22:15:28] [Client thread/INFO]: Loaded 36 advancements
+[22:15:36] [Client thread/INFO]: Loaded 37 advancements
+[22:16:14] [Client thread/INFO]: [CHAT] kkko получил достижение «[Каменный век]»
+[22:17:49] [Client thread/INFO]: Loaded 39 advancements
+[22:18:09] [Client thread/INFO]: [CHAT] Agalex получил достижение «[Каменный век]»
+[22:18:09] [Client thread/INFO]: Loaded 49 advancements
+[22:22:35] [Client thread/INFO]: [CHAT] You are mounting admin7's helicopter.
+[22:22:45] [Client thread/INFO]: Loaded 55 advancements
+[22:24:22] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex is dead.
+[22:24:22] [Client thread/INFO]: [CHAT] 
+[22:24:22] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[22:24:22] [Client thread/INFO]: [CHAT] 
+[22:24:22] [Client thread/INFO]: [CHAT]                kkko won ! In arena Main
+[22:24:22] [Client thread/INFO]: [CHAT] 
+[22:24:22] [Client thread/INFO]: [CHAT] =================>> Battle Royale <<=================
+[22:24:22] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko unlocked first blood.
+[22:24:41] [Client thread/INFO]: Connecting to 13.53.122.73, 25565
+[22:24:46] [Client thread/INFO]: [CHAT] 1
+[22:24:46] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[22:24:46] [Client thread/INFO]: [CHAT] Agalex joined the game
+[22:24:47] [Client thread/INFO]: Loaded 55 advancements
+[22:24:57] [Client thread/INFO]: [CHAT]  BattleRoyale >> Agalex joined.
+[22:25:07] [Client thread/INFO]: [CHAT]  BattleRoyale >> kkko joined.
+[22:25:08] [Client thread/INFO]: [CHAT] kkko joined the game
