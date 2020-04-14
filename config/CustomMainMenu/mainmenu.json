@@ -33,25 +33,6 @@
                 "ip" : "13.53.122.73:25577"
             }
         },
-            "mods":
-        {
-            "text" : "",
-			"normalTextColor" : 12303291,
-			"hoverTextColor" : 3125670,
-			"texture" : "mainmenu:textures/buttons/mods.png",
-            "posX" : 100,
-            "posY" : 70,
-            "width" : 64,
-            "height" : 64,
-			"imageWidth" : 128,
-			"imageHeight" : 128,
-			"alignment" : "left_top",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "mods"
-            }
-        },	      
 		"singleplayer":
         {
             "text" : "",
