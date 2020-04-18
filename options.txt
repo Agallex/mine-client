@@ -17,7 +17,7 @@ ao:0
 renderClouds:fast
 resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:MBars.ru
+lastServer:13.48.104.144
 lang:ru_ru
 chatVisibility:0
 chatColors:true
