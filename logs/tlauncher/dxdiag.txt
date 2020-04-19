@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 4/8/2020, 17:44:58
+      Time of this report: 4/19/2020, 15:41:33
              Machine name: DESKTOP-TQOLNE6
                Machine Id: {17B47D59-8EAC-4A4A-AB55-995C8A5F28F8}
          Operating System: Windows 10 Домашняя 64-bit (10.0, Build 18363) (18362.19h1_release.190318-1202)
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Core(TM) i9-9880H CPU @ 2.30GHz (16 CPUs), ~2.3GHz
                    Memory: 16276MB RAM
       Available OS Memory: 16276MB RAM
-                Page File: 9620MB used, 9087MB available
+                Page File: 9041MB used, 9667MB available
               Windows Dir: C:\Windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -170,7 +170,7 @@ Sensaura(tm) ZoomFX(tm): No
 ---------------------
 Sound Capture Devices
 ---------------------
-            Description: Internal Digital Microphone (Apple Audio Device)
+            Description: Headset Microphone (Apple Audio Device)
   Default Sound Capture: Yes
   Default Voice Capture: Yes
             Driver Name: AppleAudio.sys
@@ -180,7 +180,7 @@ Sound Capture Devices
               Cap Flags: 0x0
            Format Flags: 0x0
 
-            Description: Headset Microphone (Apple Audio Device)
+            Description: Internal Digital Microphone (Apple Audio Device)
   Default Sound Capture: No
   Default Voice Capture: No
             Driver Name: AppleAudio.sys
@@ -281,12 +281,6 @@ Vendor/Product ID: 0x05AC, 0x0340
 Vendor/Product ID: 0x05AC, 0x8103
         FF Driver: n/a
 
-      Device Name: 2.4G Mouse
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x1EA7, 0x0064
-        FF Driver: n/a
-
       Device Name: HID Relay
          Attached: 1
     Controller ID: 0x0
@@ -317,7 +311,7 @@ USB Devices
 | Driver: USBHUB3.SYS, 3/19/2019 07:43:43, 618296 bytes
 | 
 +-+ USB-устройство ввода
-| | Vendor/Product ID: 0x1EA7, 0x0064
+| | Vendor/Product ID: 0x0000, 0x3825
 | | Location: Port_#0004.Hub_#0003
 | | Matching Device ID: USB\Class_03&SubClass_01
 | | Service: HidUsb
@@ -326,7 +320,7 @@ USB Devices
 | | Driver: hidparse.sys, 10/7/2019 05:55:15, 46080 bytes
 | | 
 | +-+ HID-совместимая мышь
-| | | Vendor/Product ID: 0x1EA7, 0x0064
+| | | Vendor/Product ID: 0x0000, 0x3825
 | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
 | | | Service: mouhid
 | | | Driver: mouhid.sys, 3/19/2019 07:43:43, 35840 bytes
@@ -338,21 +332,6 @@ USB Devices
 | Service: USBHUB3
 | Driver: USBHUB3.SYS, 3/19/2019 07:43:43, 618296 bytes
 | 
-+-+ Apple Touch Bar
-| | Vendor/Product ID: 0x05AC, 0x8302
-| | Location: Port_#0006.Hub_#0001
-| | Matching Device ID: USB\VID_05AC&PID_8302
-| | Lower Filters: AppleDFR
-| | Service: HidUsb
-| | Driver: AppleDFR.sys, 12/7/2019 05:14:02, 28504 bytes
-| | 
-| +-+ Клавиатура HID
-| | | Vendor/Product ID: 0x05AC, 0x8302
-| | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
-| | | Service: kbdhid
-| | | Driver: kbdhid.sys, 3/19/2019 07:43:43, 46592 bytes
-| | | Driver: kbdclass.sys, 3/19/2019 07:43:43, 70968 bytes
-| | 
 +-+ Составное USB устройство
 | | Vendor/Product ID: 0x05AC, 0x0340
 | | Location: Port_#0005.Hub_#0001
@@ -419,6 +398,21 @@ USB Devices
 | | | | Service: mouhid
 | | | | Driver: mouhid.sys, 3/19/2019 07:43:43, 35840 bytes
 | | | | Driver: mouclass.sys, 3/19/2019 07:43:43, 66872 bytes
+| | 
++-+ Apple Touch Bar
+| | Vendor/Product ID: 0x05AC, 0x8302
+| | Location: Port_#0006.Hub_#0001
+| | Matching Device ID: USB\VID_05AC&PID_8302
+| | Lower Filters: AppleDFR
+| | Service: HidUsb
+| | Driver: AppleDFR.sys, 12/7/2019 05:14:02, 28504 bytes
+| | 
+| +-+ Клавиатура HID
+| | | Vendor/Product ID: 0x05AC, 0x8302
+| | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | Service: kbdhid
+| | | Driver: kbdhid.sys, 3/19/2019 07:43:43, 46592 bytes
+| | | Driver: kbdclass.sys, 3/19/2019 07:43:43, 70968 bytes
 
 ----------------
 Gameport Devices
@@ -432,7 +426,7 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 268.7 GB
+ Free Space: 263.8 GB
 Total Space: 335.9 GB
 File System: NTFS
       Model: Apple APPLE SSD AP1024 SCSI Disk Device
@@ -442,7 +436,7 @@ System Devices
 --------------
      Name: Intel(R) PCIe Controller (x16) - 1901
 Device ID: PCI\VEN_8086&DEV_1901&SUBSYS_72708086&REV_0D\3&11583659&0&08
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: Apple Solid State Drive Device
 Device ID: PCI\VEN_106B&DEV_2005&SUBSYS_1800106B&REV_01\4&3AC8FC3&0&00D8
@@ -450,7 +444,7 @@ Device ID: PCI\VEN_106B&DEV_2005&SUBSYS_1800106B&REV_01\4&3AC8FC3&0&00D8
 
      Name: Порт PCI Express Upstream Switch
 Device ID: PCI\VEN_1002&DEV_1478&SUBSYS_00000000&REV_40\4&3898A12&0&0008
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: Intel(R) SMBus - A323
 Device ID: PCI\VEN_8086&DEV_A323&SUBSYS_72708086&REV_10\3&11583659&0&FC
@@ -500,7 +494,7 @@ Device ID: PCI\VEN_106B&DEV_1803&SUBSYS_1887106B&REV_01\4&3AC8FC3&0&03D8
 
      Name: Intel(R) PCIe Controller (x8) - 1905
 Device ID: PCI\VEN_8086&DEV_1905&SUBSYS_72708086&REV_0D\3&11583659&0&09
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: Intel(R) LPC Controller/eSPI Controller - A313
 Device ID: PCI\VEN_8086&DEV_A313&SUBSYS_72708086&REV_10\3&11583659&0&F8
@@ -508,31 +502,31 @@ Device ID: PCI\VEN_8086&DEV_A313&SUBSYS_72708086&REV_10\3&11583659&0&F8
 
      Name: Intel(R) PCI Express Root Port #17 - A340
 Device ID: PCI\VEN_8086&DEV_A340&SUBSYS_72708086&REV_F0\3&11583659&0&D8
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: Порт PCI Express Upstream Switch
 Device ID: PCI\VEN_8086&DEV_15EA&SUBSYS_00008086&REV_06\UF83388994900AA0000
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: Порт PCI Express Downstream Switch
 Device ID: PCI\VEN_8086&DEV_15EA&SUBSYS_00008086&REV_06\F83388994900AA0020
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: Порт PCI Express Downstream Switch
 Device ID: PCI\VEN_8086&DEV_15EA&SUBSYS_00008086&REV_06\F83388994900AA0010
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: Порт PCI Express Downstream Switch
 Device ID: PCI\VEN_8086&DEV_15EA&SUBSYS_00008086&REV_06\F83388994900AA0008
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: Порт PCI Express Downstream Switch
 Device ID: PCI\VEN_8086&DEV_15EA&SUBSYS_00008086&REV_06\F83388994900AA0000
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: Порт PCI Express Downstream Switch
 Device ID: PCI\VEN_1002&DEV_1479&SUBSYS_14791002&REV_00\5&1B7302A8&0&000008
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: AMD Radeon Pro 5500M
 Device ID: PCI\VEN_1002&DEV_7340&SUBSYS_020F106B&REV_40\6&1821360C&0&00000008
@@ -754,11 +748,11 @@ Device ID: PCI\VEN_8086&DEV_A328&SUBSYS_72708086&REV_10\3&11583659&0&F0
 
      Name: Intel(R) PCI Express Root Port #1 - A338
 Device ID: PCI\VEN_8086&DEV_A338&SUBSYS_72708086&REV_F0\3&11583659&0&E0
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
      Name: Intel(R) PCIe Controller (x4) - 1909
 Device ID: PCI\VEN_8086&DEV_1909&SUBSYS_72708086&REV_0D\3&11583659&0&0A
-   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0628 (Russian), 2/15/2020 23:12:15, 437776 bytes
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.18362.0752 (Russian), 4/16/2020 00:17:33, 437560 bytes
 
 ------------------
 DirectShow Filters
@@ -780,7 +774,7 @@ WM ASF Reader,0x00400000,0,0,qasf.dll,12.00.18362.0001
 AVI Splitter,0x00600000,1,1,quartz.dll,10.00.18362.0001
 VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,10.00.18362.0001
 SBE2MediaTypeProfile,0x00200000,0,0,sbe.dll,10.00.18362.0001
-Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.18362.0719
+Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.18362.0753
 AC3 Parser Filter,0x00600000,1,1,mpg2splt.ax,10.00.18362.0001
 StreamBufferSink,0x00200000,0,0,sbe.dll,10.00.18362.0001
 MJPEG Decompressor,0x00600000,1,1,quartz.dll,10.00.18362.0001
@@ -859,8 +853,8 @@ CCITT u-Law,0x00200000,1,1,quartz.dll,10.00.18362.0001
 MPEG Layer-3,0x00200000,1,1,quartz.dll,10.00.18362.0001
 
 Audio Capture Sources:
-Internal Digital Microphone (Apple Audio Device),0x00200000,0,0,qcap.dll,10.00.18362.0001
 Headset Microphone (Apple Audio Device),0x00200000,0,0,qcap.dll,10.00.18362.0001
+Internal Digital Microphone (Apple Audio Device),0x00200000,0,0,qcap.dll,10.00.18362.0001
 
 PBDA CP Filters:
 PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.18362.0657
@@ -978,7 +972,7 @@ WMMEDIASUBTYPE_WMSP1, WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject
 Media Foundation File Versions
 ---------------------------
 
-  mfcore.dll, 10.00.18362.0693
+  mfcore.dll, 10.00.18362.0778
   mfreadwrite.dll, 10.00.18362.0719
   mfcaptureengine.dll, 10.00.18362.0001
   mfsensorgroup.dll, 10.00.18362.0628
@@ -999,10 +993,10 @@ Media Foundation Transforms
 Video Decoders:
   AMD D3D11 Hardware MFT Playback Decoder, {17796AEB-0F66-4663-B8FB-99CBEE0224CE}, 0x4, 8, amdhwdecoder_64.dll, 26.20.13003.5002
   AMD MFT MJPEG Decoder, {687CBC51-25DA-4FFC-A678-1E64943285A7}, 0x4, 8, amf-mft-mjpeg-decoder64.dll, 1.00.0000.0000
-  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.18362.0719
+  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.18362.0753
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.18362.0001
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.18362.0001
-  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.18362.0719
+  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.18362.0753
   WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject, 0x1, wmvsdecd.dll, 10.00.18362.0001
   WMVideo Decoder MFT, CLSID_CWMVDecMediaObject, 0x1, wmvdecod.dll, 10.00.18362.0001
   MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.18362.0001
@@ -1033,24 +1027,24 @@ Audio Decoders:
   Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}, 0x1, DolbyDecMFT.dll, 10.00.18362.0719
   MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}, 0x1, MSAMRNBDecoder.dll, 10.00.18362.0001
   WMAudio Decoder MFT, CLSID_CWMADecMediaObject, 0x1, WMADMOD.DLL, 10.00.18362.0145
-  Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT, 0x1, MSAudDecMFT.dll, 10.00.18362.0175
-  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.18362.0693
-  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.18362.0693
+  Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT, 0x1, MSAudDecMFT.dll, 10.00.18362.0778
+  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.18362.0778
+  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.18362.0778
   WMAPro over S/PDIF MFT, CLSID_CWMAudioSpdTxDMO, 0x1, WMADMOD.DLL, 10.00.18362.0145
   Microsoft Opus Audio Decoder MFT, {63E17C10-2D43-4C42-8FE3-8D8B63E46A6A}, 0x1, MSOpusDecoder.dll, 10.00.18362.0001
-  Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}, 0x1, MSFlacDecoder.dll, 10.00.18362.0719
-  Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}, 0x1, MSAudDecMFT.dll, 10.00.18362.0175
+  Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}, 0x1, MSFlacDecoder.dll, 10.00.18362.0778
+  Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}, 0x1, MSAudDecMFT.dll, 10.00.18362.0778
   WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject, 0x1, WMSPDMOD.DLL, 10.00.18362.0001
-  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.18362.0693
-  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.18362.0693
+  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.18362.0778
+  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.18362.0778
   MP3 Decoder MFT, CLSID_CMP3DecMediaObject, 0x1, mp3dmod.dll, 10.00.18362.0001
   Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}, 0x1, MSAlacDecoder.dll, 10.00.18362.0001
-  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.18362.0693
+  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.18362.0778
   Dolby TrueHD IEC-61937 converter MFT, {CF5EEEDF-0E92-4B3B-A161-BD0FFE545E4B}, 0x1, mfaudiocnv.dll, 10.00.18362.0001
   DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}, 0x1, mfaudiocnv.dll, 10.00.18362.0001
 Audio Encoders:
   LPCM DVD-Audio MFT, {068A8476-9229-4CC0-9D49-2FC699DCD30A}, 0x1, mfaudiocnv.dll, 10.00.18362.0001
-  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.18362.0693
+  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.18362.0778
   Microsoft FLAC Audio Encoder MFT, {128509E9-C44E-45DC-95E9-C255B8F466A6}, 0x1, MSFlacEncoder.dll, 10.00.18362.0719
   WM Speech Encoder DMO, CLSID_CWMSPEncMediaObject2, 0x1, WMSPDMOE.DLL, 10.00.18362.0145
   MS AMRNB Encoder MFT, {2FAE8AFE-04A3-423A-A814-85DB454712B0}, 0x1, MSAMRNBEncoder.dll, 10.00.18362.0001
@@ -1063,9 +1057,9 @@ Audio Effects:
   AEC, CLSID_CWMAudioAEC, 0x1, mfwmaaec.dll, 10.00.18362.0001
   Resampler MFT, CLSID_CResamplerMediaObject, 0x1, resampledmo.dll, 10.00.18362.0001
 Multiplexers:
-  Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.18362.0628
+  Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.18362.0778
 Others:
-  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.18362.0719
+  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.18362.0753
 
 
 --------------------------------------------
@@ -1331,17 +1325,17 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Контейнер ошибки 2033952164272629998, тип 5
-Имя события: RADAR_PRE_LEAK_64
+Контейнер ошибки 1816307841277986505, тип 5
+Имя события: AppHangB1
 Отклик: Нет данных
 Идентификатор CAB: 0
 
 Сигнатура проблемы:
 P1: explorer.exe
 P2: 10.0.18362.693
-P3: 10.0.18363.2.0.0
-P4: 
-P5: 
+P3: 587c1978
+P4: f068
+P5: 134217729
 P6: 
 P7: 
 P8: 
@@ -1349,137 +1343,144 @@ P9:
 P10: 
 
 Вложенные файлы:
-\\?\C:\Users\asash\AppData\Local\Temp\RDRC28E.tmp\empty.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC28F.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC2A0.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC2AD.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC2CD.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER93BF.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER93C0.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER93CF.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER93E0.tmp.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER950A.tmp.appcompat.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER951A.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_d269ff75-2b3f-47e1-aa04-56c9346d0d32\minidump.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_d269ff75-2b3f-47e1-aa04-56c9346d0d32\memory.hdmp
 
 Эти файлы можно найти здесь:
-
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_d269ff75-2b3f-47e1-aa04-56c9346d0d32
 
 Символ анализа: 
 Повторный поиск решения: 0
-Идентификатор отчета: 64ae318a-bf61-469e-a8f2-db0503559929
+Идентификатор отчета: dad4a8f7-52f6-4eb5-a9c1-f43a57bbfae8
 Состояние отчета: 268435456
-Хэшированный контейнер: 5607f0fca3d098895c3a0cb7919b68ee
+Хэшированный контейнер: 710c0b865b6125c26934d25bc22186c9
 Идентификатор GUID CAB: 0
 +++ WER1 +++:
-Контейнер ошибки LKD_0x193_DxgkrnlLiveDump:810__dxgkrnl!DxgCreateLiveDumpWithWdLogs, тип 0
-Имя события: LiveKernelEvent
-Отклик: Нет данных
-Идентификатор CAB: 335eac8d-2d51-41ab-b2ae-9a7c51223b7c
-
-Сигнатура проблемы:
-P1: 193
-P2: 810
-P3: 0
-P4: 0
-P5: 0
-P6: 10_0_18363
-P7: 0_0
-P8: 768_1
-P9: 
-P10: 
-
-Вложенные файлы:
-\\?\C:\Windows\LiveKernelReports\WATCHDOG\WATCHDOG-20200404-1925.dmp
-\\?\C:\Windows\TEMP\WER-113738750-0.sysdata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9E4C.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9E5D.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9E6B.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9E8B.tmp.txt
-\\?\C:\Windows\Temp\WERE364.tmp.WERDataCollectionStatus.txt
-
-Эти файлы можно найти здесь:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_193_1cd7a4d1b6418c67af876348eab411aeb952_00000000_cab_d162053d-b56b-4c8b-8922-4cc5c316e483
-
-Символ анализа: 
-Повторный поиск решения: 0
-Идентификатор отчета: d162053d-b56b-4c8b-8922-4cc5c316e483
-Состояние отчета: 2147483648
-Хэшированный контейнер: 
-Идентификатор GUID CAB: 0
-+++ WER2 +++:
 Контейнер ошибки , тип 0
-Имя события: LiveKernelEvent
+Имя события: AppHangB1
 Отклик: Нет данных
 Идентификатор CAB: 0
 
 Сигнатура проблемы:
-P1: 193
-P2: 810
-P3: 0
-P4: 0
-P5: 0
-P6: 10_0_18363
-P7: 0_0
-P8: 768_1
+P1: explorer.exe
+P2: 10.0.18362.693
+P3: 587c1978
+P4: f068
+P5: 134217729
+P6: 
+P7: 
+P8: 
 P9: 
 P10: 
 
 Вложенные файлы:
-\\?\C:\Windows\LiveKernelReports\WATCHDOG\WATCHDOG-20200404-1925.dmp
-\\?\C:\Windows\TEMP\WER-113738750-0.sysdata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9E4C.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9E5D.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9E6B.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER9E8B.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER93BF.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER93C0.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER93CF.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER93E0.tmp.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER950A.tmp.appcompat.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER951A.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_d269ff75-2b3f-47e1-aa04-56c9346d0d32\minidump.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_d269ff75-2b3f-47e1-aa04-56c9346d0d32\memory.hdmp
 
 Эти файлы можно найти здесь:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_193_1cd7a4d1b6418c67af876348eab411aeb952_00000000_cab_d162053d-b56b-4c8b-8922-4cc5c316e483
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_d269ff75-2b3f-47e1-aa04-56c9346d0d32
 
 Символ анализа: 
 Повторный поиск решения: 0
-Идентификатор отчета: d162053d-b56b-4c8b-8922-4cc5c316e483
+Идентификатор отчета: dad4a8f7-52f6-4eb5-a9c1-f43a57bbfae8
 Состояние отчета: 4
 Хэшированный контейнер: 
 Идентификатор GUID CAB: 0
-+++ WER3 +++:
-Контейнер ошибки 1204520667239989419, тип 5
-Имя события: StoreAgentScanForUpdatesFailure0
++++ WER2 +++:
+Контейнер ошибки LKD_0x144_D0ENTRY_FAILED_USBXHCI!TelemetryData_CreateReport_VEN_8086_DEV_15EC_REV_06, тип 0
+Имя события: LiveKernelEvent
 Отклик: Нет данных
-Идентификатор CAB: 0
+Идентификатор CAB: f52eba4a-7419-417c-a6c3-ff2519c84e72
 
 Сигнатура проблемы:
-P1: Update;
-P2: 800704c6
-P3: 18363
-P4: 720
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
+P1: 144
+P2: 101c
+P3: ffffae8b2f887860
+P4: 0
+P5: 0
+P6: 10_0_18363
+P7: 0_0
+P8: 768_1
 P9: 
 P10: 
 
 Вложенные файлы:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREC6.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF14.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF44.tmp.txt
+\\?\C:\Windows\LiveKernelReports\USBXHCI\USBXHCI-20200417-2209.dmp
+\\?\C:\Windows\TEMP\WER-40265796-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7295.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER72A6.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER72A5.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER72B5.tmp.txt
+\\?\C:\Windows\Temp\WERA9F2.tmp.WERDataCollectionStatus.txt
 
 Эти файлы можно найти здесь:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_cceccebc385a7c728f4e59fba467385c6b1a8d5a_00000000_00cb8784-c0ec-43d2-9aab-2877e9626557
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_c26ab793831615a944c35a18295a846b3ff0ee_00000000_cab_bb9e341c-0a7a-4c5d-8a48-92e52ff07199
 
 Символ анализа: 
 Повторный поиск решения: 0
-Идентификатор отчета: 00cb8784-c0ec-43d2-9aab-2877e9626557
-Состояние отчета: 268435462
-Хэшированный контейнер: 47f1c300af6b0319d0b7512a3f74c0ab
+Идентификатор отчета: bb9e341c-0a7a-4c5d-8a48-92e52ff07199
+Состояние отчета: 2147483648
+Хэшированный контейнер: 
+Идентификатор GUID CAB: 0
++++ WER3 +++:
+Контейнер ошибки , тип 0
+Имя события: LiveKernelEvent
+Отклик: Нет данных
+Идентификатор CAB: 0
+
+Сигнатура проблемы:
+P1: 144
+P2: 101c
+P3: ffffae8b2f887860
+P4: 0
+P5: 0
+P6: 10_0_18363
+P7: 0_0
+P8: 768_1
+P9: 
+P10: 
+
+Вложенные файлы:
+\\?\C:\Windows\LiveKernelReports\USBXHCI\USBXHCI-20200417-2209.dmp
+\\?\C:\Windows\TEMP\WER-40265796-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7295.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER72A6.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER72A5.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER72B5.tmp.txt
+
+Эти файлы можно найти здесь:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_144_c26ab793831615a944c35a18295a846b3ff0ee_00000000_cab_bb9e341c-0a7a-4c5d-8a48-92e52ff07199
+
+Символ анализа: 
+Повторный поиск решения: 0
+Идентификатор отчета: bb9e341c-0a7a-4c5d-8a48-92e52ff07199
+Состояние отчета: 4
+Хэшированный контейнер: 
 Идентификатор GUID CAB: 0
 +++ WER4 +++:
-Контейнер ошибки , тип 0
-Имя события: StoreAgentScanForUpdatesFailure0
+Контейнер ошибки 1816307841277986505, тип 5
+Имя события: AppHangB1
 Отклик: Нет данных
 Идентификатор CAB: 0
 
 Сигнатура проблемы:
-P1: Update;
-P2: 800704c6
-P3: 18363
-P4: 720
-P5: Windows.Desktop
+P1: explorer.exe
+P2: 10.0.18362.693
+P3: 587c1978
+P4: f068
+P5: 134217729
 P6: 
 P7: 
 P8: 
@@ -1487,32 +1488,36 @@ P9:
 P10: 
 
 Вложенные файлы:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREC6.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF14.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF44.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF0FA.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF10B.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF11A.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF12A.tmp.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WERF254.tmp.appcompat.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WERF255.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_d902676a-ee70-4399-bd49-6a93d1b6024c\minidump.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_d902676a-ee70-4399-bd49-6a93d1b6024c\memory.hdmp
 
 Эти файлы можно найти здесь:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_cceccebc385a7c728f4e59fba467385c6b1a8d5a_00000000_cab_00cb8784-c0ec-43d2-9aab-2877e9626557
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_d902676a-ee70-4399-bd49-6a93d1b6024c
 
 Символ анализа: 
 Повторный поиск решения: 0
-Идентификатор отчета: 00cb8784-c0ec-43d2-9aab-2877e9626557
-Состояние отчета: 6
-Хэшированный контейнер: 
+Идентификатор отчета: 330f4877-4679-4744-88ed-5d330e8fc1d8
+Состояние отчета: 268435456
+Хэшированный контейнер: 710c0b865b6125c26934d25bc22186c9
 Идентификатор GUID CAB: 0
 +++ WER5 +++:
 Контейнер ошибки , тип 0
-Имя события: StoreAgentScanForUpdatesFailure0
+Имя события: AppHangB1
 Отклик: Нет данных
 Идентификатор CAB: 0
 
 Сигнатура проблемы:
-P1: Update;
-P2: 800704c6
-P3: 18363
-P4: 720
-P5: Windows.Desktop
+P1: explorer.exe
+P2: 10.0.18362.693
+P3: 587c1978
+P4: f068
+P5: 134217729
 P6: 
 P7: 
 P8: 
@@ -1520,32 +1525,36 @@ P9:
 P10: 
 
 Вложенные файлы:
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREC6.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF14.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF44.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF0FA.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF10B.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF11A.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF12A.tmp.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WERF254.tmp.appcompat.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WERF255.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_d902676a-ee70-4399-bd49-6a93d1b6024c\minidump.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_d902676a-ee70-4399-bd49-6a93d1b6024c\memory.hdmp
 
 Эти файлы можно найти здесь:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_cceccebc385a7c728f4e59fba467385c6b1a8d5a_00000000_cab_00cb8784-c0ec-43d2-9aab-2877e9626557
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_d902676a-ee70-4399-bd49-6a93d1b6024c
 
 Символ анализа: 
 Повторный поиск решения: 0
-Идентификатор отчета: 00cb8784-c0ec-43d2-9aab-2877e9626557
+Идентификатор отчета: 330f4877-4679-4744-88ed-5d330e8fc1d8
 Состояние отчета: 4
 Хэшированный контейнер: 
 Идентификатор GUID CAB: 0
 +++ WER6 +++:
-Контейнер ошибки 1594517702933724154, тип 5
-Имя события: RADAR_PRE_LEAK_64
+Контейнер ошибки 1816307841277986505, тип 5
+Имя события: AppHangB1
 Отклик: Нет данных
 Идентификатор CAB: 0
 
 Сигнатура проблемы:
-P1: MicrosoftEdgeCP.exe
-P2: 11.0.18362.1
-P3: 10.0.18363.2.0.0
-P4: 
-P5: 
+P1: explorer.exe
+P2: 10.0.18362.693
+P3: 587c1978
+P4: f068
+P5: 134217729
 P6: 
 P7: 
 P8: 
@@ -1553,33 +1562,36 @@ P9:
 P10: 
 
 Вложенные файлы:
-\\?\C:\Users\asash\AppData\Local\Temp\RDR4D91.tmp\empty.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER4D92.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER4DA2.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER4DAD.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER4DCD.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER257D.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER258E.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER258D.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER259D.tmp.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER2698.tmp.appcompat.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER26A9.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_1775454f-73fc-49a8-acdb-7dbc4ce487df\minidump.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_1775454f-73fc-49a8-acdb-7dbc4ce487df\memory.hdmp
 
 Эти файлы можно найти здесь:
-
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_1775454f-73fc-49a8-acdb-7dbc4ce487df
 
 Символ анализа: 
 Повторный поиск решения: 0
-Идентификатор отчета: b1a8d119-1bb3-4850-a383-6ba33b0f99b0
+Идентификатор отчета: 3090d190-851c-4394-bd11-28fffc36f1f1
 Состояние отчета: 268435456
-Хэшированный контейнер: 468b74cd61caa6267620dd67176fbbfa
+Хэшированный контейнер: 710c0b865b6125c26934d25bc22186c9
 Идентификатор GUID CAB: 0
 +++ WER7 +++:
-Контейнер ошибки 1910699437212549017, тип 5
-Имя события: RADAR_PRE_LEAK_64
+Контейнер ошибки , тип 0
+Имя события: AppHangB1
 Отклик: Нет данных
 Идентификатор CAB: 0
 
 Сигнатура проблемы:
-P1: FL64.exe
-P2: 1.1.50.0
-P3: 10.0.18363.2.0.0
-P4: 
-P5: 
+P1: explorer.exe
+P2: 10.0.18362.693
+P3: 587c1978
+P4: f068
+P5: 134217729
 P6: 
 P7: 
 P8: 
@@ -1587,33 +1599,36 @@ P9:
 P10: 
 
 Вложенные файлы:
-\\?\C:\Users\asash\AppData\Local\Temp\RDR48C6.tmp\empty.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER48C7.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER48D8.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER48E6.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER4906.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER257D.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER258E.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER258D.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER259D.tmp.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER2698.tmp.appcompat.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER26A9.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_1775454f-73fc-49a8-acdb-7dbc4ce487df\minidump.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_1775454f-73fc-49a8-acdb-7dbc4ce487df\memory.hdmp
 
 Эти файлы можно найти здесь:
-
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_1775454f-73fc-49a8-acdb-7dbc4ce487df
 
 Символ анализа: 
 Повторный поиск решения: 0
-Идентификатор отчета: 6a32464f-bd0d-4a3c-84b0-94700538a354
-Состояние отчета: 268435456
-Хэшированный контейнер: fcef8837be35b3a81a842b03cb97bf99
+Идентификатор отчета: 3090d190-851c-4394-bd11-28fffc36f1f1
+Состояние отчета: 4
+Хэшированный контейнер: 
 Идентификатор GUID CAB: 0
 +++ WER8 +++:
-Контейнер ошибки 2200739457567993047, тип 5
-Имя события: RADAR_PRE_LEAK_64
+Контейнер ошибки 1816307841277986505, тип 5
+Имя события: AppHangB1
 Отклик: Нет данных
 Идентификатор CAB: 0
 
 Сигнатура проблемы:
-P1: chrome.exe
-P2: 80.0.3987.162
-P3: 10.0.18363.2.0.0
-P4: 
-P5: 
+P1: explorer.exe
+P2: 10.0.18362.693
+P3: 587c1978
+P4: f068
+P5: 134217729
 P6: 
 P7: 
 P8: 
@@ -1621,53 +1636,58 @@ P9:
 P10: 
 
 Вложенные файлы:
-\\?\C:\Users\asash\AppData\Local\Temp\RDR5BB5.tmp\empty.txt
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER5BB6.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER5BC6.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER5BD4.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER5BF4.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7064.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7074.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7073.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7093.tmp.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER71CD.tmp.appcompat.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER71DE.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_db1859f1-c3d0-4694-85f2-985c20385213\minidump.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_db1859f1-c3d0-4694-85f2-985c20385213\memory.hdmp
 
 Эти файлы можно найти здесь:
-
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_db1859f1-c3d0-4694-85f2-985c20385213
 
 Символ анализа: 
 Повторный поиск решения: 0
-Идентификатор отчета: 80d42688-451f-4fbb-bffc-5f83c332af8b
+Идентификатор отчета: f852cfc0-d640-4bc4-aa34-4dcc6ae633e3
 Состояние отчета: 268435456
-Хэшированный контейнер: 557c62109143ff973e8a98e06b86acd7
+Хэшированный контейнер: 710c0b865b6125c26934d25bc22186c9
 Идентификатор GUID CAB: 0
 +++ WER9 +++:
-Контейнер ошибки 1369093250055214666, тип 5
-Имя события: MoAppHangXProc
+Контейнер ошибки , тип 0
+Имя события: AppHangB1
 Отклик: Нет данных
 Идентификатор CAB: 0
 
 Сигнатура проблемы:
-P1: Microsoft.MicrosoftEdge_44.18362.449.0_neutral__8wekyb3d8bbwe
-P2: praid:MicrosoftEdge
-P3: 11.0.18362.1
-P4: ceb8cbe1
-P5: 8327
-P6: 133136
-P7: Microsoft.MicrosoftEdge_44.18362.449.0_neutral__8wekyb3d8bbwe
-P8: praid:MicrosoftEdge
-P9: 11.0.18362.1
+P1: explorer.exe
+P2: 10.0.18362.693
+P3: 587c1978
+P4: f068
+P5: 134217729
+P6: 
+P7: 
+P8: 
+P9: 
 P10: 
 
 Вложенные файлы:
-\\?\C:\Users\asash\AppData\Local\Temp\WER2201.tmp.appcompat.txt
-\\?\C:\Users\asash\AppData\Local\Temp\WER2212.tmp.version.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2214.tmp.WERInternalMetadata.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2234.tmp.xml
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2230.tmp.csv
-\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER2250.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7064.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7074.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7073.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER7093.tmp.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER71CD.tmp.appcompat.txt
+\\?\C:\Users\asash\AppData\Local\Temp\WER71DE.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_db1859f1-c3d0-4694-85f2-985c20385213\minidump.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_db1859f1-c3d0-4694-85f2-985c20385213\memory.hdmp
 
 Эти файлы можно найти здесь:
-\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_Microsoft.Micros_4d982637428dc2b77531c3f7060c729afbd0ef_5e85b145_1acbc59a-4de7-462a-baae-c9563ffdca95
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppHang_explorer.exe_812db5bde788a4c9e2a24e763cd89043573abf_ce24326f_cab_db1859f1-c3d0-4694-85f2-985c20385213
 
 Символ анализа: 
 Повторный поиск решения: 0
-Идентификатор отчета: be9107ed-c091-4a12-ae43-6eeccb5113f8
-Состояние отчета: 268435456
-Хэшированный контейнер: fe34bf1ba20050aa42ffff0ea1ed164a
+Идентификатор отчета: f852cfc0-d640-4bc4-aa34-4dcc6ae633e3
+Состояние отчета: 4
+Хэшированный контейнер: 
 Идентификатор GUID CAB: 0

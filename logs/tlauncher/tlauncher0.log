@@ -3156,3 +3156,96 @@ C:\Program Files\Java\jre1.8.0_45\bin\javaw.exe -Djava.net.preferIPv4Stack=true 
 2020-04-16 14:42:30,372 AWT-EventQueue-0 [TLauncherManager] before clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar
 2020-04-16 14:42:30,379 AWT-EventQueue-0 [TLauncherManager] written:  []
 2020-04-16 14:42:30,380 AWT-EventQueue-0 [TLauncherManager] after clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar
+2020-04-18 13:39:07,231 main [Loading] INITIALIZING
+Starting TLauncher 2.69 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 18.04.2020 13:39:06
+---
+run double running protectin
+[Loading] LOADING_CONFIGURATION
+Loading configuration from file: C:\Users\asash\AppData\Roaming\.tlauncher\tlauncher-2.0.properties
+[Configuration] Constant values: {}
+Machine info: -------------------------------------------------------
+Windows 8.1 6.3, Java 1.8.0_45, jvm bit x64, 16276 MB RAM
+java path=C:\Program Files\Java\jre1.8.0_45\bin\javaw.exe
+Intel(R) Core(TM) i9-9880H CPU @ 2.30GHz
+ AMD Radeon Pro 5500M, AMD FirePro (0x7340), 12194 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+
+
+2020-04-18 13:39:07,231 main [Downloader2] Loaded configuration: good
+2020-04-18 13:39:07,349 ExtendedThread#4 [Updater] Requesting an update...
+2020-04-18 13:39:07,351 ExtendedThread#4 [Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-04-18 13:39:07,352 ExtendedThread#4 [Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.69&client=440be4d8-8fc3-48cd-8ffe-e7eb2df08ff3
+2020-04-18 13:39:07,462 main [Browser] Loading resources...
+2020-04-18 13:39:07,489 ExtendedThread#4 [Updater] Request time: 138 ms
+2020-04-18 13:39:07,489 ExtendedThread#4 [Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+2020-04-18 13:39:07,555 main [Browser] Loading background...
+2020-04-18 13:39:07,562 JavaFX Application Thread [JFXStartPageLoader]  start load page: http://page.tlauncher.org/update/downloads/configs/client/index.html
+2020-04-18 13:39:07,613 main [Browser] Cleaning up after loading:
+2020-04-18 13:39:07,613 main Starting garbage collector: 73 / 195 MB
+2020-04-18 13:39:07,653 main Garbage collector completed: 14 / 195 MB
+2020-04-18 13:39:07,654 JavaFX Application Thread [Browser] Running in JavaFX Thread
+2020-04-18 13:39:07,654 JavaFX Application Thread [Browser] Preparing JavaFX...
+2020-04-18 13:39:07,655 main [Loading] LOADING_MANAGERS
+2020-04-18 13:39:07,661 main [LocalVersionList] Base directory: C:\Users\asash\AppData\Roaming\.minecraft
+2020-04-18 13:39:07,671 main [ProfileManager] Refreshing profiles from: C:\Users\asash\AppData\Roaming\.minecraft\TlauncherProfiles.json
+2020-04-18 13:39:07,673 main [AdvertisingStatusObserver]  started to get ad information
+2020-04-18 13:39:07,674 main [AdvertisingStatusObserver]  finished to get add information
+2020-04-18 13:39:07,674 ExtendedThread#6 [GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.6.json
+2020-04-18 13:39:07,678 main [Loading] LOADING_WINDOW
+2020-04-18 13:39:07,706 main [Loading] PREPARING_MAINPANE
+2020-04-18 13:39:07,728 JavaFX Application Thread [Browser] Initializing...
+2020-04-18 13:39:07,757 ExtendedThread#7 [REPO][SERVER_LIST_REPO] Success: Reached the repo in 79 ms.
+2020-04-18 13:39:08,222 main [Downloader2] Loaded configuration: good
+2020-04-18 13:39:08,352 JavaFX Application Thread [JFXStartPageLoader]  succeeded load page: http://page.tlauncher.org/update/downloads/configs/client/index.html during 0
+2020-04-18 13:39:08,352 JavaFX Application Thread [Browser@404722232] Loaded successfully: "http://page.tlauncher.org/update/downloads/configs/client/index.html"
+2020-04-18 13:39:08,414 JavaFX Application Thread [Browser] add listens into server_choose
+2020-04-18 13:39:08,415 JavaFX Application Thread [Browser] finished listens into server_choose
+2020-04-18 13:39:09,128 main [Loading] POSTINIT_GUI
+2020-04-18 13:39:09,128 main [Frame] Packing main frame...
+2020-04-18 13:39:09,173 main [Frame] Resizing main pane...
+2020-04-18 13:39:09,173 main Updater is already closed. Showing up...
+2020-04-18 13:39:09,174 main Visibility set.
+2020-04-18 13:39:09,174 main [Loading] REFRESHING_INFO
+2020-04-18 13:39:09,176 ExtendedThread#4 [VersionManager] Refreshing versions remotely...
+2020-04-18 13:39:09,176 ExtendedThread#6 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-04-18 13:39:09,177 main Started! (2416 ms.)
+2020-04-18 13:39:09,177 main [Loading] SUCCESS
+2020-04-18 13:39:09,233 main [TLauncher] show tlauncher!!!
+2020-04-18 13:39:09,233 main [Double running] clear time label
+2020-04-18 13:39:09,313 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: https://launchermeta.mojang.com/mc/game/
+2020-04-18 13:39:09,313 AsyncObject#15 [REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/skin/versions/
+2020-04-18 13:39:09,316 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new3/
+2020-04-18 13:39:09,330 AsyncObject#15 [REPO][SKIN_VERSION_REPO] Success: Reached the repo in 14 ms.
+2020-04-18 13:39:09,338 AsyncObject#15 [SkinVersionList] Got in 25 ms
+2020-04-18 13:39:09,392 AsyncObject#14 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 74 ms.
+2020-04-18 13:39:09,405 AsyncObject#14 [ExtraVersionList] Got in 92 ms
+2020-04-18 13:39:09,471 ExtendedThread#6 [REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 295 ms.
+2020-04-18 13:39:09,556 AsyncObject#13 [REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 243 ms.
+2020-04-18 13:39:09,597 AsyncObject#13 [OfficialVersionList] Got in 284 ms
+2020-04-18 13:39:09,599 ExtendedThread#4 [VersionManager] Versions has been refreshed (309 ms)
+2020-04-18 13:39:09,628 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-18 13:39:09,630 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-18 13:39:09,631 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-18 13:39:09,632 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-18 13:39:09,749 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-18 13:39:09,750 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-18 13:39:09,751 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-18 13:39:09,752 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-18 13:39:09,755 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Resolving...
+2020-04-18 13:39:09,756 ExtendedThread#4 [Version:1.12.2-forge1.12.2-14.23.5.2847] Inherits from 1.12.2
+2020-04-18 13:39:09,757 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Resolving...
+2020-04-18 13:39:09,758 ExtendedThread#4 [Version:1.12.2-OptiFine_HD_U_F5] Inherits from 1.12.2
+2020-04-18 13:39:09,759 ExtendedThread#16 [REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+2020-04-18 13:39:09,761 ExtendedThread#6 [REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 45000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+2020-04-18 13:39:09,764 Thread-26 run server on  37842
+2020-04-18 13:39:09,772 ExtendedThread#16 [REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 11 ms.
+2020-04-18 13:39:10,044 ExtendedThread#6 [REPO][HOT_SERVERS_REPO] Success: Reached the repo in 281 ms.
+2020-04-18 13:39:56,691 AWT-EventQueue-0 Good bye!
+2020-04-18 13:39:56,693 AWT-EventQueue-0 [TLauncherManager] before clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar
+2020-04-18 13:39:56,698 AWT-EventQueue-0 [TLauncherManager] written:  []
+2020-04-18 13:39:56,699 AWT-EventQueue-0 [TLauncherManager] after clearLibrary C:\Users\asash\AppData\Roaming\.minecraft\mods\CustomMainMenu-MC1.12.2-2.0.9.1.jar C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar
