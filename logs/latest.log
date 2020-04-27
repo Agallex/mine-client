@@ -1,84 +1,85 @@
-[15:41:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[15:41:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[15:41:38] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
-[15:41:38] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_45, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_45
-[15:41:38] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
-[15:41:38] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
-[15:41:38] [main/INFO] [FML]: Searching C:\Users\asash\AppData\Roaming\.minecraft\mods for mods
-[15:41:38] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from optifine_1.12.2_hd_u_f5.jar
-[15:41:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in tlskincape_1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:41:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:41:38] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[15:41:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[15:41:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:41:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:41:38] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[15:41:38] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[15:41:38] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
-[15:41:38] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
-[15:41:38] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar
-[15:41:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:41:40] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
-[15:41:40] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
-[15:41:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:41:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
-[15:41:40] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
-[15:41:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 7 ms
-[15:41:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[15:41:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[15:41:40] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[15:41:40] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
-[15:41:40] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
-[15:41:41] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: bot
-[15:41:43] [Client thread/INFO] [Config]: [OptiFine] *** Reflector Forge ***
-[15:41:43] [Client thread/INFO] [Config]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] *** Reflector Vanilla ***
-[15:41:44] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] 
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_F5
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] Build: 20191204-141934
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] OS: Windows 8.1 (amd64) version 6.3
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] Java: 1.8.0_45, Oracle Corporation
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] OpenGL: AMD Radeon Pro 5500M, version 4.6.13571 Compatibility Profile Context FireGL 19.30.03.05 26.20.13003.5002, ATI Technologies Inc.
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] OpenGL Version: 4.6.13571
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] Maximum texture size: 16384x16384
-[15:41:44] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
-[15:41:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.6.13571 Compatibility Profile Context FireGL 19.30.03.05 26.20.13003.5002
-[15:41:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  ATI Technologies Inc.
-[15:41:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: AMD Radeon Pro 5500M
-[15:41:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
-[15:41:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
-[15:41:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
-[15:41:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
-[15:41:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
-[15:41:44] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Loaded shaderpack: sflp-shaders-lite-rc1.zip
-[15:41:44] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: sunPathRotation
-[15:41:44] [Client thread/WARN] [Config]: [OptiFine]  - in composite.fsh: -25.0f
-[15:41:44] [Client thread/WARN] [Config]: [OptiFine]  - in final.fsh: -40.0f
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
-[15:41:44] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
-[15:41:44] [Client thread/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_F5, enabling compatibility features
-[15:41:44] [Client thread/INFO] [FML]: -- System Details --
+[00:30:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:30:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:30:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:30:02] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[00:30:02] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_45, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre1.8.0_45
+[00:30:02] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[00:30:02] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[00:30:02] [main/INFO] [FML]: Searching C:\Users\asash\AppData\Roaming\.minecraft\mods for mods
+[00:30:02] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from optifine_1.12.2_hd_u_f5.jar
+[00:30:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in tlskincape_1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:30:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:30:02] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[00:30:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:30:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:30:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:30:02] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[00:30:02] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[00:30:02] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[00:30:02] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[00:30:02] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\asash\AppData\Roaming\.minecraft\mods\optifine_1.12.2_hd_u_f5.jar
+[00:30:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:30:04] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[00:30:04] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[00:30:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:30:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[00:30:04] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
+[00:30:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 6 ms
+[00:30:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:30:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:30:04] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[00:30:04] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
+[00:30:04] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
+[00:30:05] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: bot
+[00:30:07] [Client thread/INFO] [Config]: [OptiFine] *** Reflector Forge ***
+[00:30:07] [Client thread/INFO] [Config]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] *** Reflector Vanilla ***
+[00:30:08] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] 
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_F5
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] Build: 20191204-141934
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] OS: Windows 8.1 (amd64) version 6.3
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] Java: 1.8.0_45, Oracle Corporation
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] OpenGL: AMD Radeon Pro 5500M, version 4.6.13571 Compatibility Profile Context FireGL 19.30.03.05 26.20.13003.5002, ATI Technologies Inc.
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] OpenGL Version: 4.6.13571
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] Maximum texture size: 16384x16384
+[00:30:08] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
+[00:30:08] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.6.13571 Compatibility Profile Context FireGL 19.30.03.05 26.20.13003.5002
+[00:30:08] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  ATI Technologies Inc.
+[00:30:08] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: AMD Radeon Pro 5500M
+[00:30:08] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[00:30:08] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[00:30:08] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[00:30:08] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[00:30:08] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
+[00:30:08] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Loaded shaderpack: sflp-shaders-lite-rc1.zip
+[00:30:08] [Client thread/WARN] [Config]: [OptiFine] Ambiguous shader option: sunPathRotation
+[00:30:08] [Client thread/WARN] [Config]: [OptiFine]  - in composite.fsh: -25.0f
+[00:30:08] [Client thread/WARN] [Config]: [OptiFine]  - in final.fsh: -40.0f
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[00:30:08] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[00:30:09] [Client thread/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_F5, enabling compatibility features
+[00:30:09] [Client thread/INFO] [FML]: -- System Details --
 Details:
 	Minecraft Version: 1.12.2
 	Operating System: Windows 8.1 (amd64) version 6.3
 	Java Version: 1.8.0_45, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 131513392 bytes (125 MB) / 301989888 bytes (288 MB) up to 15837691904 bytes (15104 MB)
+	Memory: 164394880 bytes (156 MB) / 335544320 bytes (320 MB) up to 15837691904 bytes (15104 MB)
 	JVM Flags: 8 total; -Xmn128M -Xmx15076M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
@@ -86,108 +87,172 @@ Details:
 TLSkinCapeHookLoader (tlskincape_1.12.2-1.4.jar)
   gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
 	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.13571 Compatibility Profile Context FireGL 19.30.03.05 26.20.13003.5002' Renderer: 'AMD Radeon Pro 5500M'
-[15:41:45] [VersionCheck/INFO] [Config]: [OptiFine] Version found: D3
-[15:41:45] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
-[15:41:45] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[15:41:45] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[15:41:45] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
-[15:41:45] [Client thread/INFO] [FML]: Searching C:\Users\asash\AppData\Roaming\.minecraft\mods for mods
-[15:41:45] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
-[15:41:45] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, custommainmenu, tlauncher_custom_cape_skin] at CLIENT
-[15:41:45] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, custommainmenu, tlauncher_custom_cape_skin] at SERVER
-[15:41:46] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:TLSkinCape
-[15:41:46] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
-[15:41:46] [Client thread/INFO] [FML]: Found 1169 ObjectHolder annotations
-[15:41:46] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[15:41:46] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[15:41:46] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[15:41:46] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[15:41:46] [Client thread/INFO] [FML]: Applying holder lookups
-[15:41:46] [Client thread/INFO] [FML]: Holder lookups applied
-[15:41:46] [Client thread/INFO] [FML]: Applying holder lookups
-[15:41:46] [Client thread/INFO] [FML]: Holder lookups applied
-[15:41:46] [Client thread/INFO] [FML]: Applying holder lookups
-[15:41:46] [Client thread/INFO] [FML]: Holder lookups applied
-[15:41:46] [Client thread/INFO] [FML]: Applying holder lookups
-[15:41:46] [Client thread/INFO] [FML]: Holder lookups applied
-[15:41:46] [Client thread/INFO] [FML]: Injecting itemstacks
-[15:41:46] [Client thread/INFO] [FML]: Itemstack injection complete
-[15:41:46] [Client thread/INFO] [Config]: [OptiFine] *** Reloading textures ***
-[15:41:46] [Client thread/INFO] [Config]: [OptiFine] Resource packs: Default
-[15:41:46] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[15:41:47] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 71998500 nanos
-[15:41:50] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
-[15:41:50] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
-[15:41:50] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[15:41:50] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
-[15:41:50] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] Mipmap levels: 4
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] Multitexture: false
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] Multipass connected textures: false
-[15:41:51] [Client thread/INFO] [Config]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
-[15:41:53] [Client thread/INFO] [Config]: [OptiFine] Custom loader sprites: 3
-[15:41:53] [Client thread/INFO] [Config]: [OptiFine] Sprite dependencies: 5
-[15:41:53] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x512 textures-atlas
-[15:41:53] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] allocateTextureMap 4 1024 512 
-[15:41:54] [Client thread/INFO] [Config]: [OptiFine] Animated sprites: 22
-[15:41:55] [Client thread/INFO] [FML]: Applying holder lookups
-[15:41:55] [Client thread/INFO] [FML]: Holder lookups applied
-[15:41:55] [Client thread/INFO] [FML]: Injecting itemstacks
-[15:41:55] [Client thread/INFO] [FML]: Itemstack injection complete
-[15:41:56] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
-[15:41:56] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
-[15:41:56] [Client thread/INFO] [Config]: [OptiFine] *** Reloading custom textures ***
-[15:41:57] [Client thread/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to 3.121.224.16, 25577
-[15:42:19] [Server Connector #1/ERROR] [net.minecraft.client.multiplayer.GuiConnecting]: Couldn't connect to server
-io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection timed out: no further information: ec2-3-121-224-16.eu-central-1.compute.amazonaws.com/3.121.224.16:25577
-	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_45]
-	at sun.nio.ch.SocketChannelImpl.finishConnect(Unknown Source) ~[?:1.8.0_45]
-	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:352) ~[NioSocketChannel.class:4.1.9.Final]
-	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:340) ~[AbstractNioChannel$AbstractNioUnsafe.class:4.1.9.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:612) ~[NioEventLoop.class:4.1.9.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) ~[NioEventLoop.class:4.1.9.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) ~[NioEventLoop.class:4.1.9.Final]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) ~[NioEventLoop.class:4.1.9.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) ~[SingleThreadEventExecutor$5.class:4.1.9.Final]
-	at java.lang.Thread.run(Unknown Source) ~[?:1.8.0_45]
-Caused by: java.net.ConnectException: Connection timed out: no further information
-	... 10 more
-[15:42:26] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
-[15:42:26] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
-[15:42:26] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
+[00:30:09] [VersionCheck/INFO] [Config]: [OptiFine] Version found: D3
+[00:30:09] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[00:30:09] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[00:30:09] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[00:30:09] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[00:30:09] [Client thread/INFO] [FML]: Searching C:\Users\asash\AppData\Roaming\.minecraft\mods for mods
+[00:30:09] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[00:30:09] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, custommainmenu, tlauncher_custom_cape_skin] at CLIENT
+[00:30:09] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, custommainmenu, tlauncher_custom_cape_skin] at SERVER
+[00:30:10] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:TLSkinCape
+[00:30:10] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[00:30:10] [Client thread/INFO] [FML]: Found 1169 ObjectHolder annotations
+[00:30:10] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[00:30:10] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[00:30:10] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[00:30:10] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[00:30:10] [Client thread/INFO] [FML]: Applying holder lookups
+[00:30:10] [Client thread/INFO] [FML]: Holder lookups applied
+[00:30:10] [Client thread/INFO] [FML]: Applying holder lookups
+[00:30:10] [Client thread/INFO] [FML]: Holder lookups applied
+[00:30:10] [Client thread/INFO] [FML]: Applying holder lookups
+[00:30:10] [Client thread/INFO] [FML]: Holder lookups applied
+[00:30:10] [Client thread/INFO] [FML]: Applying holder lookups
+[00:30:10] [Client thread/INFO] [FML]: Holder lookups applied
+[00:30:10] [Client thread/INFO] [FML]: Injecting itemstacks
+[00:30:10] [Client thread/INFO] [FML]: Itemstack injection complete
+[00:30:10] [Client thread/INFO] [Config]: [OptiFine] *** Reloading textures ***
+[00:30:10] [Client thread/INFO] [Config]: [OptiFine] Resource packs: Default
+[00:30:10] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[00:30:10] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[00:30:10] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[00:30:10] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[00:30:10] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[00:30:11] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 69150600 nanos
+[00:30:11] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[00:30:11] [Client thread/INFO] [Config]: [OptiFine] Mipmap levels: 4
+[00:30:11] [Client thread/INFO] [Config]: [OptiFine] Multitexture: false
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] Multipass connected textures: false
+[00:30:12] [Client thread/INFO] [Config]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[00:30:13] [Client thread/INFO] [Config]: [OptiFine] Custom loader sprites: 3
+[00:30:13] [Client thread/INFO] [Config]: [OptiFine] Sprite dependencies: 5
+[00:30:13] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 1024x512 textures-atlas
+[00:30:13] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] allocateTextureMap 4 1024 512 
+[00:30:15] [Client thread/INFO] [Config]: [OptiFine] Animated sprites: 22
+[00:30:15] [Client thread/INFO] [FML]: Applying holder lookups
+[00:30:15] [Client thread/INFO] [FML]: Holder lookups applied
+[00:30:15] [Client thread/INFO] [FML]: Injecting itemstacks
+[00:30:15] [Client thread/INFO] [FML]: Itemstack injection complete
+[00:30:16] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 mods
+[00:30:16] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[00:30:16] [Client thread/INFO] [Config]: [OptiFine] *** Reloading custom textures ***
+[00:30:26] [Client thread/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to 13.53.127.65, 25565
+[00:30:27] [Netty Client IO #0/INFO] [FML]: Aborting client handshake "VANILLA"
+[00:30:27] [Netty Client IO #0/INFO] [FML]: [Netty Client IO #0] Client side vanilla connection established
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_basic
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_basic
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_textured
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_textured
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_textured_lit
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_textured_lit
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_skybasic
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_skybasic
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_skytextured
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_skytextured
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_terrain
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_terrain
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_entities
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_entities
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_hand
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_hand
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_weather
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_weather
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: gbuffers_water
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: gbuffers_water
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Sun path rotation: -25.0
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Wetness halflife: 70.0
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Dryness halflife: 70.0
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Noise texture enabled
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Noise texture resolution: 64
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: composite
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: composite
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] gnormal format: RGB16
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Sun path rotation: -40.0
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Info log: final
+Validation successful.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Program loaded: final
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedColorBuffers: 8
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedDepthBuffers: 2
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedShadowColorBuffers: 0
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedShadowDepthBuffers: 0
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedColorAttachs: 8
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] usedDrawBuffers: 3
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Framebuffer created.
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Reset model renderers
+[00:30:27] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Reset world renderers
+[00:30:28] [Client thread/INFO] [org.tlauncher.skin.cape.renderer.TextureManager]: textures bot was added, skin: true,cape: false, max waiting: 4 ,during : 11914 
+[00:30:28] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> bot joined.
+[00:30:28] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] bot joined the game
+[00:30:28] [Client thread/INFO] [org.tlauncher.skin.cape.renderer.TextureManager]: textures admin was added, skin: true,cape: false, max waiting: 0 ,during : 336 
+[00:30:42] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> 15 seconds before the game start.
+[00:30:47] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> 10 seconds before the game start.
+[00:30:52] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> 5 seconds before the game start.
+[00:30:53] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> 4 seconds before the game start.
+[00:30:54] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> 3 seconds before the game start, be ready !
+[00:30:55] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> 2 seconds before the game start, be ready !
+[00:30:56] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> 1 seconds before the game start, be ready !
+[00:30:57] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> the game started ! Good luck !
+[00:30:57] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> The last one standing win.
+[00:30:58] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] bot достиг цели «[Где твои крылья?]»
+[00:30:58] [Client thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 5 advancements
+[00:31:59] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  BattleRoyale >> bot is dead.
+[00:31:59] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 
+[00:31:59] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] =================>> Battle Royale <<=================
+[00:31:59] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 
+[00:31:59] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]                admin won ! In arena Main
+[00:31:59] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 
+[00:31:59] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] =================>> Battle Royale <<=================
+[00:32:00] [Client thread/INFO] [FML]: Applying holder lookups
+[00:32:00] [Client thread/INFO] [FML]: Holder lookups applied
+[00:32:04] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[00:32:04] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[00:32:04] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
