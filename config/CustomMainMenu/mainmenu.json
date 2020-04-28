@@ -30,7 +30,7 @@
             "action" : 
             {
                 "type" : "connectToServer",
-                "ip" : "13.53.127.65"
+                "ip" : "13.53.207.155:25577"
             }
         },
 		"singleplayer":
